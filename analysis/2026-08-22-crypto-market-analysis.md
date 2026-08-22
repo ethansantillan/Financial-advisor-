@@ -145,7 +145,94 @@ while you sleep, which argues for sizing down, not for a tighter stop.
 
 ---
 
-## 6. The plan
+## 5b. What I'd do in your seat
+
+**I'm selling — but not to cash, and not out of crypto.** Cut XRP from 55% to 20%; move the money into
+Bitcoin. You stay fully invested throughout. This is not a bet on the rally ending.
+
+Over a long run, the thing most likely to stop you getting a bigger portfolio isn't picking the wrong
+coin — it's having so much in one coin that a single bad outcome permanently sets you back. XRP is the
+one asset in your book that has already broken down this year.
+
+### On stops — the earlier point was misread
+
+I never said skip them. I said a stop *alone* can't fix a 55% position, because the only honest place
+to put it is 19% away. **You do both.** The trim fixes size; the stop handles being wrong about what's
+left. After the rebalance the policy splits by asset:
+
+| Holding | Stop? | Reasoning |
+|---|---|---|
+| XRP — until trimmed | **Yes, $1.238** | Oversized. Until it's 20%, this is the position that can hurt you. |
+| XRP core (20%) | **Yes, $1.238** | Single-issuer alt with a live regulatory dependency. Theses like that break. |
+| SOL · LINK | **Yes, $82.60 · $10.42** | At 7% and 3% the stops cost almost nothing to run. |
+| **BTC · ETH core** | **No hard stop** | BTC has had four −75%+ drawdowns and made new highs after each. A stop removes you from all four. Here the risk tool is **size**, not a stop. |
+
+> What destroys long-run portfolios isn't a bad entry — it's being *forced* to sell at the bottom.
+> That happens two ways: leverage, and money you needed for something else. Keep margin at zero.
+
+### The rotation
+
+BTC dominance is **59–60%** and the Altcoin Season Index sits at 39–57 — broad altcoin exposure has
+underperformed all year, and institutional flows are going to BTC and ETH, not the long tail. Your
+allocation is close to upside down.
+
+| Asset | Now | Now % | Target | Target % | Trade |
+|---|---|---|---|---|---|
+| BTC | $1,352 | 9.9% | $5,437 | **40%** | BUY $4,085 |
+| ETH | $3,656 | 26.9% | $4,077 | **30%** | BUY $421 |
+| XRP | $7,535 | 55.4% | $2,718 | **20%** | **SELL $4,816** |
+| SOL | $783 | 5.8% | $951 | **7%** | BUY $168 |
+| LINK | $266 | 2.0% | $408 | **3%** | BUY $142 |
+
+Sell 3,144 of 4,918 XRP (64%), keep 1,774. BTC+ETH goes from 37% → 70% of the book.
+
+**Sell opportunistically, buy systematically.** XRP is extended — sell into that on the ladder. BTC is
+at RSI 84.5 — don't buy $4,085 in one click. DCA ~$800/week for six weeks, ~85% BTC / ~15% ETH, same
+day each week regardless of price.
+
+### What it buys you
+
+| If the bear resumes | Current mix | Rebalanced | Diff |
+|---|---|---|---|
+| −30% broad | $8,319 | $8,841 | +$522 |
+| −50% broad | $4,805 | $5,674 | +$870 |
+| **−70% broad** | **$1,290** | **$2,508** | **+$1,217** |
+
+*Assumes alts fall ~1.4× and ETH ~1.15× a BTC drawdown — roughly their behaviour this cycle.*
+
+Read the bottom row. In a repeat of February, the current mix leaves $1,290 and the rebalanced one
+$2,508 — nearly double. That gap is the whole argument. It isn't about being right on direction; it's
+about what survives being wrong.
+
+### This sale is tax-advantaged
+
+Crypto is treated as property, so **the wash-sale rule does not apply to it in 2026.** Selling XRP at a
+loss realizes roughly **$1,268** of capital loss (if Account 2's basis is near Account 1's $1.9352),
+which offsets capital gains dollar-for-dollar or up to $3,000 of ordinary income per year — about
+**$279 back** at a 22% marginal rate. With no wash-sale rule you could even rebuy immediately without
+forfeiting the loss.
+
+*Caveats: Congress has repeatedly proposed closing this, possibly from tax year 2027, and the IRS
+economic-substance doctrine still applies. Not tax advice — confirm with a tax professional, and
+confirm Account 2's basis first.*
+
+### The lever that beats every trade here
+
+You have **$0.78** in cash against a $13,591 book. When the next real drawdown comes, you'll be able to
+do nothing about it. A recurring deposit — any sustainable size — will do more for this portfolio in
+five years than any level in this document. Rebalancing improves the odds of what you have;
+contributions are the only thing that reliably makes it bigger.
+
+### The question I should have asked first
+
+What is this $13,591 relative to everything else you have? The plan above assumes it's risk capital —
+money you could watch fall 70% without it changing your life. If it's most of your savings, or has a
+job to do in the next couple of years, the right answer isn't a 20% XRP position, it's a much smaller
+crypto allocation overall. Tell me which and I'll redo the numbers.
+
+---
+
+## 6. Execution plan
 
 ### Priority 1 — Sell XRP on a ladder, starting now
 
@@ -190,14 +277,15 @@ but it is a real cost, not a free lunch.
 
 ## 7. Checklist
 
-- [ ] **Tranche 1 — sell ~1,475 XRP at ~$1.53** (~695 Acct 1, ~780 Acct 2)
-- [ ] Set orders/alerts: Tranche 2 at $1.72–1.75, Tranche 3 at $1.93
-- [ ] Verify Robinhood crypto stop-order support
-- [ ] Set stops both accounts: XRP $1.238 · ETH $2,128 · BTC $68,400 · SOL $82.60 · LINK $10.42
-- [ ] Send Account 2's all-time P/L screen (need its cost basis)
-- [ ] Margin untouched — $0 borrowed against the $20,094 offer
+- [ ] **Sell 1,475 XRP at ~$1.53 today** (~695 Acct 1, ~780 Acct 2)
+- [ ] Set sell orders for the rest: ~1,230 at $1.72–1.75, ~440 at $1.93
+- [ ] Start the weekly buy: ~$800/wk × 6 weeks, ~85% BTC / ~15% ETH, same day each week
+- [ ] Stops on **alts only** — XRP $1.238 · SOL $82.60 · LINK $10.42. No stop on the BTC/ETH core.
+- [ ] Verify Robinhood crypto stop-order support; if unsupported, alerts + manual, stop-limit preferred
+- [ ] Margin stays at $0 against the $20,094 offer
+- [ ] **Set up a recurring deposit** — this matters more than every trade above
+- [ ] Send Account 2's all-time P/L screen (need its cost basis for the tax number)
 - [ ] Re-check 9 Sept (Treasury op) and ~20 Sept (four weeks of flows)
-- [ ] Weekly: BTC closing above its 200-day MA? Yes → hold. No → tighten.
 
 ---
 
@@ -235,6 +323,8 @@ but it is a real cost, not a free lunch.
 - [Cryptonomist — BTC at $76.5K amid overbought warnings](https://en.cryptonomist.ch/2026/08/21/btc-value-analysis-momentum/)
 - [Milk Road — Crypto Fear & Greed Index](https://milkroad.com/fear-greed/)
 - [Robinhood — Buying and selling crypto](https://robinhood.com/us/en/support/articles/crypto-buying-and-selling/)
+- [Gordon Law — Crypto wash sale rule in 2026](https://gordonlaw.com/learn/crypto-wash-sale-rule-in-2026-is-the-loophole-finally-closed/)
+- [CoinLedger — Crypto wash sale rule](https://coinledger.io/blog/crypto-wash-sale-rule)
 
 ---
 
