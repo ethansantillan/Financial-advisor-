@@ -1,268 +1,244 @@
 # Crypto Market Analysis — 22 August 2026
 
-**Snapshot taken:** Robinhood, 10:22 AM, 22 Aug 2026
-**Account (implied):** ~$9,240 | **Crypto sleeve screenshotted:** $6,330 | **Cash: $0.78**
+**Snapshot:** Robinhood, 11:11–11:12, 22 Aug 2026
+**Combined crypto (both accounts):** $13,591.32 | **Cash:** $0.78
+
+> **Revised at 11:12.** Three corrections to the 10:22 version, all material — see §8.
 
 ---
 
-## 0. The one number that matters
+## 1. The combined book
 
-| Position | Value | Cost basis | P/L | % of account |
+| Asset | Account 1 | Account 2 | Combined | Share |
 |---|---|---|---|---|
-| XRP | $3,375.59 | $4,414.86 | **−$1,049.60 (−23.73%)** | **36.54%** |
-| ETH | $1,899.66 | $2,000.00 | −$98.55 (−4.93%) | 20.55% |
-| BTC | $792.44 | $700.00 | +$92.43 (+13.20%) | 8.58% |
-| LINK | $261.48 | $199.85 | +$61.91 (+30.96%) | 2.83% |
-| SOL | ~$777 (stale) | ? | ? | ? |
+| **XRP** | $3,504.53 | $4,030.22 | **$7,534.75** | **55.4%** |
+| ETH | $1,906.42 | $1,749.72 | $3,656.14 | 26.9% |
+| BTC | $796.72 | $555.17 | $1,351.89 | 9.9% |
+| SOL | $1.11 | $781.79 | $782.90 | 5.8% |
+| LINK | $265.63 | — | $265.63 | 2.0% |
+| **Total** | $6,474.41 | $7,116.91 | **$13,591.32** | |
 
-**Excluding XRP, this portfolio is net +$55.79.** BTC, ETH and LINK together are essentially flat-to-green.
-The entire −$994 drawdown is one position — and that position is 36.5% of the account and the single
-most overbought asset on the screen.
+Prices: XRP $1.532 · ETH $2,433.60 · BTC $77,281 · SOL $94.15 · LINK $11.80
 
-That is not a market problem. That is a position-sizing problem. Everything below follows from it.
+### Account 1 — all-time P/L
 
----
+| Asset | Quantity | Value | Avg cost | P/L |
+|---|---|---|---|---|
+| XRP | 2,287.4935 | $3,504.53 | $1.9352 | **−$922.16** |
+| ETH | 0.78337344 | $1,906.42 | $2,553.34 | −$93.80 |
+| BTC | 0.01030931 | $796.72 | $67,905.61 | +$96.66 |
+| LINK | 22.5053 | $265.63 | $8.8855 | +$65.66 |
+| SOL | 0.01179 | $1.11 | $85.03 | +$0.11 |
+| **Net** | | $6,474.41 | | **−$853.53** |
 
-## 1. Why crypto went vertical (19–22 Aug)
+**Excluding XRP, Account 1 is net +$68.63.** The entire drawdown is one position — and across both
+accounts that position is **55.4% of the crypto book** (~4,918 coins). This is not a crypto portfolio;
+it is an XRP position with four small hedges attached.
 
-BTC ran from ~$62,800 Monday to ~$77,900 Saturday — **+22% on the week, its best five-day stretch
-since March 2024**. Three catalysts stacked in 48 hours:
-
-**1. The macro trigger (the real one).** The U.S. Treasury announced it would at least **double
-long-end bond buybacks, $2B → $4B per operation**, covering 10–30 year paper. The 30-year yield
-compressed, and every risk asset repriced. This is a genuine liquidity event.
-
-> ⚠️ **It does not take effect until 9 September 2026.** The market has front-run an operation that
-> hasn't happened yet. That's a gap between price and cash flow.
-
-**2. The regulatory trigger.** SEC proposed new crypto rules on 18 Aug (comment period + final vote
-still pending), and Trump met crypto executives at the White House pushing Congress on the CLARITY
-Act. Headlines, not law. Nothing is enacted.
-
-**3. The mechanical trigger (the one that explains the *speed*).** **$1.44B–$2.7B of short positions
-were force-liquidated.** A short squeeze is not buying demand — it is *involuntary* buying that
-stops the moment shorts are exhausted. It manufactures the fastest part of a move and leaves nothing
-behind. This is why XRP did +39% in three days while BTC did +22%: thinner book, more crowded shorts.
-
-**Read:** one durable catalyst (Treasury), two headline catalysts, one mechanical accelerant that is
-already spent. Squeeze fuel does not renew.
+The rally has already returned $196 of the XRP loss since 10:22 (−$1,049.60 → −$922.16).
 
 ---
 
-## 2. Are we still in a bear market?
+## 2. Why it went vertical, 19–22 Aug
 
-**Yes — technically still a bear market, but the first genuine crack in it.** Honest answer: unconfirmed.
+BTC ran ~$62,800 → ~$77,281, **+22% on the week — its best five-day stretch since March 2024.**
 
-### The cycle so far
-- ATH **$126,198** (Oct 2025) → bottom **~$60,000** (Feb 2026). A **−52% drawdown**.
-- Fear & Greed hit **5 on 6 Feb 2026** — the lowest reading in the index's recorded history.
-- BTC closed below its 200-day MA for **270 consecutive days**, one of the longest stretches ever.
+| Catalyst | Durability |
+|---|---|
+| **Treasury doubles long-end buybacks** — $2B → $4B+ per operation, 10–30yr paper. 30-year yield compressed, risk assets repriced. | Real — but **does not take effect until 9 September.** The market front-ran it. |
+| **SEC crypto rules proposed 18 Aug; Trump White House summit pushing the CLARITY Act** (Ripple's CEO attended). | Headlines. Comment period and vote still ahead. Nothing enacted. |
+| **$1.44B–$2.7B of shorts force-liquidated.** | **Already spent.** A squeeze is involuntary buying that stops when shorts run out. |
 
-### The bull case (real, not hopium)
-- **BTC reclaimed the 200-day MA on 21 Aug, above $75,000 — first time since November 2025.** This is
-  the most structurally important thing that has happened all year. 270-day downtrends do not end
-  quietly.
-- **Whales accumulated the entire way down.** CryptoQuant's Smart Money data shows the largest BTC,
-  ETH and XRP holders adding through the decline; BTC whale holdings up to ~3.06M BTC.
-- ETF flows turned: **$517M into BTC / $189M into ETH** on 19–20 Aug, the biggest in months.
-- Fear & Greed at 40 — defensive, *not* euphoric. Tops don't happen at 40.
-
-### The bear case (why I'm not calling it)
-- **CryptoQuant is explicit: late-stage bear, NOT a confirmed bottom. Prices can still fall further.**
-  Their broader bull indicators have **not** confirmed a regime change.
-- Demand improvement needs to **persist roughly another month** before "bear over" is a defensible claim.
-- 2026 BTC ETF flows are still **net −$4.83B**. August has clawed back only **$463.83M** of it. One
-  good week is not a trend reversal.
-- Some analysts still model the true bottom as **Nov 2026 – Jan 2027**.
-- Analysts flag BTC stalling at **$75,000–$76,000** without sustained spot inflows. We are sitting in
-  that exact zone right now.
-
-### Verdict
-> **Bear market rally until proven otherwise — but the highest-quality one of this cycle.**
-> The 200DMA reclaim earns this move the benefit of the doubt. It does not earn it a bull-market label.
-
-**What would flip me genuinely bullish (all three, not one):**
-1. BTC holds the 200DMA on a **weekly close**, then makes a **higher high above ~$78K** and a higher low.
-2. ETF inflows stay positive for **~4 more weeks** after the Treasury op actually lands on 9 Sept.
-3. Fear & Greed grinds from 40 into the 50s–60s **without** spiking >75 (a spike >75 here = distribution).
+One durable catalyst, two headline catalysts, one accelerant that has burned out. It explains why XRP
+did +39% while BTC did +22% — thinner book, more crowded shorts.
 
 ---
 
-## 3. Momentum: how stretched is this?
+## 3. Are we still in a bear market?
+
+**Yes — technically. But this is the highest-quality crack in it yet.**
+
+Cycle: ATH **$126,198** (Oct 2025) → bottom **~$60,000** (Feb 2026), a **−52% drawdown**. Fear & Greed
+printed **5 on 6 Feb**, the lowest in the index's history. BTC then closed below its 200-day MA for
+**270 consecutive days**.
+
+**Bull case:**
+- **BTC reclaimed the 200-day MA on 21 Aug above $75,000** — first time since Nov 2025. The most
+  structurally important event of the year.
+- Whales accumulated the entire way down (CryptoQuant); BTC whale holdings ~3.06M coins.
+- ETF flows turned: $517M BTC / $189M ETH on 19–20 Aug, largest in months.
+- XRP cleared **$1.50** — a level that capped it for months.
+
+**Bear case:**
+- **CryptoQuant is explicit: late-stage bear, not a confirmed bottom.** Bull indicators unconfirmed.
+- 2026 BTC ETF flows still **net −$4.83B**; August recovered only $463.83M.
+- Demand needs to persist ~another month before "bear over" is defensible.
+- **Fear & Greed 40 → 72 in 48 hours.** Sentiment that snaps this fast is the signature of a relief
+  rally, not a new cycle.
+
+### Does it keep going?
+
+**Honest read: over the next few weeks the odds favour a pause or pullback over another vertical leg.**
+RSI 84–86 across majors, F&G at 72, squeeze fuel spent, Treasury op not yet live, XRP ~40% above its
+20/50 EMAs.
+
+**But I don't know, and neither does anyone quoting a target.** Overbought can stay overbought; blow-off
+legs punish early top-callers. If $1.50 holds as support on XRP, $1.72–$1.93 opens up.
+
+> **The question is the trap.** Asking "does it keep going" means choosing between holding everything
+> and selling everything. At 55% in one coin you *need* to be right. The job is to get to a size where
+> either answer is fine — then the question stops mattering.
+
+**What would flip me genuinely bullish** (all three): BTC holds the 200DMA on a *weekly* close then makes
+a higher high above ~$78K; ETF inflows persist ~4 weeks *after* 9 Sept; F&G grinds into the 50s–60s
+without spiking past 75.
+
+---
+
+## 4. Momentum
 
 | Asset | Daily RSI (14) | Read |
 |---|---|---|
-| **ETH** | **84.2** | Extreme. Historically mean-reverts. |
-| **XRP** | **82.8** (at $1.38 — higher now at $1.476) | Extreme across *every* timeframe simultaneously. |
-| **BTC** | **71.1** | Overbought but healthy — this is what leadership looks like. |
+| ETH | **86.1** | Extreme, still climbing. Profit-taking expected near $2,450. |
+| XRP | **80+** | CCI ~343, Stoch RSI ~80. Overbought on every timeframe at once. |
+| BTC | **84.5** | Was 71 yesterday. Typical of blow-off legs *or* trend ignitions — genuinely both. |
 
-**The critical divergence: the alts are far more stretched than BTC.** XRP is trading roughly **35%
-above its 20- and 50-day EMAs (~$1.09)** and above its upper daily Bollinger Band. That gap closes.
-When the driver was a squeeze rather than spot demand, it closes by *price falling to the mean* — not
-by the mean rising to price.
-
-RSI >80 is **not** a sell signal on its own. In a real trend it stays pinned for weeks. But RSI >80
-*plus* a spent short squeeze *plus* a 35% extension from the mean *plus* 36% concentration in that
-exact asset — that is a risk-management emergency, not a trade idea.
+XRP trades ~40% above its 20/50-day EMAs (~$1.09) and above its upper daily Bollinger. That gap closes.
+When the driver was a squeeze rather than spot demand, it closes by price falling to the mean.
 
 ---
 
-## 4. Stop losses — the levels
+## 5. Stop losses
 
-### How these were built (the method matters more than the numbers)
-1. **Below structure, not at a round percentage.** A stop belongs under a level that, if lost,
-   *invalidates the reason you own it*. "−8%" is not a reason.
-2. **Never at the obvious number.** $1.30, $70,000, $11.00 — that's where everyone's stop sits, and
-   that's precisely where price gets wicked to harvest them. Every level below is offset *beneath*
-   the cluster.
-3. **Volatility-scaled.** XRP just moved 39% in three days. A 5% stop on a 39%-in-3-days asset is not
-   risk management, it's a donation. Wide stop + smaller position beats tight stop + big position.
-4. **Position-size the stop; don't stop-size the position.**
+**Method:** below structure, not at a round percentage · never at the obvious number (that's where stops
+get harvested) · volatility-scaled · position-size the stop, don't stop-size the position.
 
-### The levels
-
-| Asset | Spot | **Stop** | Dist. | What it invalidates |
+| Asset | Spot | **Stop** | Dist. | Invalidates |
 |---|---|---|---|---|
-| **XRP** | $1.476 | **$1.288** | −12.7% | Below 0.382 fib of the $0.99→$1.476 run ($1.290), below the $1.32 support and the $1.34 200-day EMA, below the round $1.30 cluster. Losing it = the reclaim failed. |
-| **ETH** | $2,424.97 | **$2,128** | −12.3% | Below the strongest named support ($2,134.51), below the 0.382 fib (~$2,186), below the 50-day MA (~$2,198). Confluence zone — if that breaks, $2,058 (200DMA) is next. |
-| **BTC** | $76,866.38 | **$68,400** | −11.0% | Below the 200-day MA band (~$69,884) and the round $70K. **Also sits just above your $67,900 cost basis — worst case you exit roughly flat, never turning a winner into a loser.** |
-| **LINK** | $11.62 | **$10.42** | −10.3% | Below $10.85 (broken resistance, now support) and below the $11.00 round number. Still locks in **+17%**. |
-| **SOL** | *need current* | **$79.40** | — | Below the $80.18 support and the ~$81.25 200-day EMA, below the round $80. |
+| XRP | $1.532 | **$1.238** | −19.2% | Below the $1.25–$1.28 near-term support zone and $1.25 round number |
+| ETH | $2,433.60 | **$2,128** | −12.6% | Below $2,134.51 support, 0.382 fib (~$2,186), 50-day MA (~$2,198) |
+| BTC | $77,281 | **$68,400** | −11.5% | Below the 200-day band (~$69,884) and $70K — *and just above your $67,906 basis* |
+| SOL | $94.15 | **$82.60** | −12.3% | Below $83.20 support and $83, above the ~$81.25 200-day EMA |
+| LINK | $11.80 | **$10.42** | −11.7% | Below $10.85 broken-resistance-turned-support and $11 |
 
-### Total defined risk
-
-If **every** stop fills at the stated level:
+### Why stops alone cannot save this book
 
 ```
-XRP    risk $430.05        ETH    risk $232.64
-BTC    risk  $87.28        LINK   risk  $27.01
-────────────────────────────────────────────────
-TOTAL  $776.98  =  8.4% of the ~$9,240 account
-                  12.3% of the crypto sleeve
+XRP  $1,445.93     ETH  $459.13     BTC  $155.51
+SOL     $96.03     LINK  $31.12
+──────────────────────────────────────────────────
+TOTAL  $2,187.71  =  16.1% of the $13,592 book
 ```
 
-That is a survivable, *known* number. Right now, with no stops set, the answer to "what can I lose"
-is **everything** — and in Feb 2026 that number was −52% in a market that had already fallen.
+XRP's nearest *structurally valid* stop is **19.2% below spot** — there is no honest way to place it
+tighter, because anything above $1.25 sits inside support and gets harvested on a routine retest.
+**A 19% stop on a 55% position is a 10.6% account hit by itself.**
 
-### ⚠️ Execution reality on Robinhood
-Reporting on Robinhood crypto stop orders is **inconsistent** — some sources say stop orders are
-supported for crypto, others say stocks/ETFs only, and **trailing stops for crypto appear to be
-unsupported**. **Verify in-app before relying on any of this.** If stop orders aren't available on
-your account:
-- Use **price alerts** at each level (the bell icon is on every screen you sent) and execute manually.
-- Prefer a **stop-limit** over a stop-market if offered — a stop-market on a 3am liquidation wick can
-  fill catastrophically far below your level. Set the limit ~1.5–2% under the stop.
-- Crypto trades **24/7**. These levels can trigger while you're asleep. That is an argument for
-  *sizing down*, not for a tighter stop.
+Trim first, then the stop becomes affordable: **16.1% → 12.9%** after Tranche 1, **→ 8.6%** after the
+full ladder.
 
----
-
-## 5. The plan
-
-### Priority 1 — Fix the concentration (this week, into strength)
-
-XRP is 36.5% of the account, is the *only* losing position, and is the most overbought asset you hold.
-Those three facts in one position is the definition of uncompensated risk.
-
-**Scale out ~1/3 of XRP (~760 coins) into the $1.47–$1.60 zone.**
-
-> **Why $1.60 specifically:** $1.60 is the multi-year support that **broke in February 2026**. Broken
-> support becomes resistance. It is the single most likely place this rally stalls, and it is the best
-> exit liquidity you are going to be offered in the near term.
-
-This is not "selling the bottom." You are **not** selling at a loss out of fear — you are reducing a
-position that has already recovered 39% off its low, to a size where a 20% drawdown doesn't dictate
-your entire account. Trimming into a +39% three-day squeeze is selling *strength*.
-
-Effect: cuts XRP to ~24% of account, drops total stopped-out risk from **$777 → ~$633 (6.9%)**, and
-creates ~$1,140 of dry powder — which you currently do not have (cash: **$0.78**).
-
-### Priority 2 — Set every stop, today
-Levels in §4. Unstopped positions are the reason a −23.73% becomes a −50%. Set them, then leave them
-alone. **Moving a stop down to avoid being stopped out is how accounts die.**
-
-### Priority 3 — Do NOT touch the margin
-Your screen offers **"Buy beyond your cash — up to $19,511.04."** That is roughly **2.1× your entire
-account** in leverage, offered to you at the most overbought moment in eight months, on the back of a
-short squeeze, with $0.78 in cash.
-
-Leverage at RSI 84 is the single fastest way to be liquidated in this market. The people who got
-liquidated for $1.44B this week were on the other side of exactly this button. **Don't.**
-
-### Priority 4 — Don't chase. Let 9 September tell you.
-The Treasury buyback that caused this **has not happened yet**. The market has priced the anticipation.
-Two outcomes:
-- **Op lands, inflows persist through late Sept** → that's your confirmation. Add on a *pullback to
-  support*, not at RSI 84.
-- **Op lands and price sells the news** → the squeeze was the whole move, and your stops do their job.
-
-Either way, you don't need to act today. There is no version of this where buying an RSI-84 extension
-with borrowed money is the good decision.
-
-### Priority 5 — Where new money goes (when you have it)
-Your winners are BTC (+13.2%) and LINK (+31.0%). Your loser is XRP. Most people do the opposite of
-what's correct here: they add to the loser to "average down" and take profits on the winner.
-
-**ETH is the most interesting hold you own.** It's only −4.93% from cost. It needs just **+5.3%** to
-reach break-even at $2,553, and if it establishes $2,400 as support, the analyst target is **$2,800** —
-comfortably above your basis. Cleanest path to green in the portfolio. Hold it, stop it at $2,128.
-
-XRP needs **+30.8%** just to get you back to flat. Don't add to it to make that happen faster.
+### ⚠️ Execution on Robinhood
+Reporting on crypto stop orders is **inconsistent** — verify in-app. If unavailable, use price alerts
+and execute manually. Prefer **stop-limit** over stop-market (a 3am liquidation wick fills a
+stop-market catastrophically); set the limit 1.5–2% under. Crypto trades 24/7 — these can trigger
+while you sleep, which argues for sizing down, not for a tighter stop.
 
 ---
 
-## 6. Checklist
+## 6. The plan
 
-- [ ] Verify whether Robinhood supports crypto stop orders on your account
-- [ ] Set stops (or alerts + manual): XRP $1.288 · ETH $2,128 · BTC $68,400 · LINK $10.42 · SOL $79.40
-- [ ] Trim ~1/3 XRP into $1.47–$1.60
-- [ ] Confirm SOL quantity / avg cost (missing from screenshots) and set its stop
-- [ ] Reconcile the portfolio-list screen against detail screens (see §7)
-- [ ] Margin: untouched. $0 borrowed.
-- [ ] Re-check thesis **9 Sept** (Treasury op) and **~20 Sept** (4 weeks of flow data)
-- [ ] Weekly: did BTC close above its 200DMA? Yes → hold. No → tighten everything.
+### Priority 1 — Sell XRP on a ladder, starting now
+
+| Tranche | Level | Coins | Raises | Why here |
+|---|---|---|---|---|
+| **1 — now** | ~$1.53 | 1,475 | $2,260 | Already through the $1.50 break. Takes XRP 55% → 39%. |
+| 2 | $1.72–1.75 | 1,230 | $2,133 | Open air above the breakout, before the $1.93 shelf. |
+| 3 | $1.93 | 738 | $1,424 | **Your exact average cost — this tranche exits at zero loss.** |
+| **Core — keep** | — | 1,475 | — | 30% rides indefinitely, stopped at $1.238. |
+
+**If you do only one thing, do Tranche 1.** Everything else is optimisation.
+
+### Priority 2 — Both accounts
+Account 2 holds ~2,630 XRP, *more* than Account 1's 2,287. Trimming only the account you're looking at
+fixes nothing. Split each tranche ~47% Account 1 / ~53% Account 2.
+
+### Priority 3 — Set every stop, today
+Both accounts. Moving a stop down to avoid being stopped out is how accounts die.
+
+### Priority 4 — Do not touch the margin
+The offer is now **$20,094.17**, up from $19,511 this morning — because the rally raised your collateral.
+That is the mechanism that ruins people: leverage grows fastest exactly when the market is most extended.
+RSI 84, F&G 72, $0.78 cash.
+
+### Priority 5 — Wait for 9 September
+If the operation lands and inflows persist into late Sept, redeploy the ladder's cash **on a pullback to
+support**, not at RSI 86. If it sells the news, you're already holding cash.
+
+### The trade-off, stated honestly
+
+| If XRP goes to… | Hold all 4,918 | Full ladder | Difference |
+|---|---|---|---|
+| $1.00 *(where it was Tuesday)* | $4,918 | $7,293 | **+$2,375** |
+| $1.53 *(flat)* | $7,535 | ~$8,076 | +$541 |
+| $3.00 *(it doubles)* | $14,754 | $10,244 | **−$4,511** |
+
+The ladder wins clearly if this fades, wins slightly if it stalls, and gives up ~$4,500 if XRP doubles.
+Given XRP was at $1.00 three days ago and sits 40% above its own moving averages, that is a good trade —
+but it is a real cost, not a free lunch.
 
 ---
 
-## 7. Data quality note
+## 7. Checklist
 
-The **detail screens are internally consistent** and are the basis for everything above: for all four
-assets, quantity × price = stated value, and each position's "portfolio diversity" percentage
-independently implies the same account size (**$9,236 / $9,240 / $9,244 / $9,241 → ~$9,240**). That
-four-way agreement is strong confirmation the detail screens are accurate and current.
+- [ ] **Tranche 1 — sell ~1,475 XRP at ~$1.53** (~695 Acct 1, ~780 Acct 2)
+- [ ] Set orders/alerts: Tranche 2 at $1.72–1.75, Tranche 3 at $1.93
+- [ ] Verify Robinhood crypto stop-order support
+- [ ] Set stops both accounts: XRP $1.238 · ETH $2,128 · BTC $68,400 · SOL $82.60 · LINK $10.42
+- [ ] Send Account 2's all-time P/L screen (need its cost basis)
+- [ ] Margin untouched — $0 borrowed against the $20,094 offer
+- [ ] Re-check 9 Sept (Treasury op) and ~20 Sept (four weeks of flows)
+- [ ] Weekly: BTC closing above its 200-day MA? Yes → hold. No → tighten.
 
-The **portfolio-list screen does not reconcile with them.** It shows XRP $3,833.21 (implying $1.676/coin
-vs. the $1.476 on the detail screen), ETH $1,745.01 (implying $2,227), and BTC $552.71 (implying
-$53,613 — nowhere near the $76,866 shown one minute earlier). It also **omits Chainlink entirely**
-despite a $261.48 LINK position. Its internal total ($6,908.31) is self-consistent, so it is most
-likely rendering values for a **different chart time period**, not live prices.
+---
 
-**Two open items:**
-- ~$2,000 of the ~$9,240 account is unaccounted for by the five known positions. Non-crypto holdings?
-- SOL has no detail screenshot — its quantity, avg cost and current value are unconfirmed.
+## 8. Corrections to the 10:22 version
 
-Send the SOL detail screen and a full portfolio scroll and I'll close both gaps.
+1. **SOL in Account 1 is $1.11 (0.01179 coins), not ~$777.** The $777 SOL is in Account 2. I read one
+   screen's SOL into the other book.
+2. **The screen I flagged as "unreconciled" was a second account, not bad data.** That resolves the
+   discrepancy — and doubles the XRP problem, since both accounts are heavy in the same coin.
+   Concentration is **55.4%**, not 36.5%.
+3. **Fear & Greed has gone 40 → 72 in ~two days.** The earlier "tops don't happen at 40" argument no
+   longer holds and the call's tilt changes with it.
+4. **XRP stop moved $1.288 → $1.238.** The $1.25–$1.28 area is the near-term support zone, so the
+   earlier stop sat *on top of* support and would have triggered on a normal retest.
+
+### Still outstanding
+- **Account 2's cost basis.** Its screen showed a 1-month change, not all-time P/L. Quantities derived
+  from values at live prices: ~2,630 XRP, ~0.719 ETH, ~8.30 SOL, ~0.0072 BTC.
+- Account 1's *full* portfolio looked like ~$9,240 from the diversity percentages vs $6,474 of crypto.
+  If that gap is stocks or options, it belongs in this picture — 55% reads differently against a larger total.
 
 ---
 
 ## Sources
 
 - [CNBC — Bitcoin surges 22% for the week](https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html)
-- [The Block — Treasury buybacks, SEC proposal fuel rally](https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248)
-- [CoinDesk — Analysts split on whether the surge signals a new bull run](https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run)
+- [CoinDesk — Analysts split on whether the surge signals a bull run](https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run)
 - [CryptoBriefing — Bitcoin reclaims 200-day MA after 270 days](https://cryptobriefing.com/bitcoin-reclaims-200-day-moving-average/)
 - [CryptoTimes — Treasury expands long-end buybacks](https://www.cryptotimes.io/2026/08/20/crypto-market-advances-as-treasury-expands-long-end-buybacks-and-regulators-signal-clarity/)
 - [KuCoin — $1.44B short liquidation triggers rally](https://www.kucoin.com/news/flash/crypto-market-surges-as-1-44b-short-liquidation-triggers-rally)
-- [The Daily Hodl — CryptoQuant: bear market may be in final stage](https://dailyhodl.com/2026/08/10/bitcoin-and-crypto-bear-market-may-be-in-final-stage-as-whales-boost-btc-eth-and-xrp-holdings-cryptoquant/)
-- [Cryptonomist — XRP overbought signals test resistance](https://en.cryptonomist.ch/2026/08/20/xrp-crypto-analysis-overbought-resistance/)
-- [CryptoNews — XRP holds $1.38, RSI 82.82](https://cryptonews.net/news/analytics/33330120/)
-- [Cryptonomist — Ethereum daily resistance and overbought signals](https://en.cryptonomist.ch/2026/08/19/ethereum-price-analysis-daily-resistance/)
-- [Altcoin Buzz — SOL technical analysis](https://www.altcoinbuzz.io/should-you-buy-sol-right-now-or-wait-for-the-pullback)
+- [Daily Hodl — CryptoQuant: bear market may be in final stage](https://dailyhodl.com/2026/08/10/bitcoin-and-crypto-bear-market-may-be-in-final-stage-as-whales-boost-btc-eth-and-xrp-holdings-cryptoquant/)
+- [CryptoSlate — XRP's make-or-break $1.50 resistance test](https://cryptoslate.com/sudden-22-xrp-rally-triggers-forced-short-buying-across-the-market-driving-xrp-straight-toward-a-make-or-break-1-50-resistance-test/)
+- [crypto.news — XRP breaks months-long downtrend](https://crypto.news/xrp-price-breaks-months-long-downtrend-with-1-50-sight/)
+- [crypto.news — Ethereum breakout risks pullback, RSI 86](https://crypto.news/ethereum-price-breakout-risks-pullback-with-rsi-at-86/)
+- [Cryptonomist — BTC at $76.5K amid overbought warnings](https://en.cryptonomist.ch/2026/08/21/btc-value-analysis-momentum/)
 - [Milk Road — Crypto Fear & Greed Index](https://milkroad.com/fear-greed/)
 - [Robinhood — Buying and selling crypto](https://robinhood.com/us/en/support/articles/crypto-buying-and-selling/)
 
 ---
 
-*Personal research and risk-management notes. Not investment advice. Levels are invalidation points,
-not predictions — no one can tell you where price goes next, and stops can fill worse than stated in
-fast markets. Verify all order mechanics in-app before relying on them.*
+*Personal research and risk-management notes — not investment advice, and I am not a licensed financial
+adviser. Levels are invalidation points, not predictions. Sizing, ladders and stops manage risk; they do
+not remove it, and a concentrated crypto book can still lose badly with every rule here followed. Verify
+all order mechanics in-app before relying on them.*
