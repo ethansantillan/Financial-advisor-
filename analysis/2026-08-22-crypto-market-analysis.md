@@ -1,4 +1,64 @@
 # Crypto Market Analysis — 22 August 2026
+### Updated 27 August 2026
+
+## 0. Five-day scorecard — 22 → 27 Aug
+
+Held everything. Levels did **not** stay the same — four of five holdings advanced; one didn't.
+
+| Asset | 22 Aug | 27 Aug | Move | P/L | What happened |
+|---|---|---|---|---|---|
+| SOL | $94.15 | $100.00 | **+6.2%** | +$49 | **Broke $100, first time since February.** Peaked $102.88. |
+| ETH | $2,433.60 | $2,500 | +2.7% | +$100 | Cleared the $2,450 profit-taking zone. Held it. |
+| BTC | $77,282 | $79,027 | +2.3% | +$31 | **Broke $80K then $81K on 25 Aug** — higher high above the ~$78K target. ~$650M shorts liquidated. |
+| LINK | $11.80 | ~$11.50 | −2.6% | −$7 | Flat. Still +17% on the week from $9.66. |
+| **XRP** | $1.532 | **$1.4634** | **−4.5%** | **−$337** | **Spiked to $1.70, gave it all back.** 13.9% off that high, back below $1.50. Only major that's down. |
+| **Book** | $13,592 | **$13,427** | **−1.22%** | **−$165** | Down, in a week BTC made new highs. |
+
+> **The concentration cost, in one line:** Bitcoin broke to new highs, Solana broke $100, Ethereum
+> cleared $2,500 — and the portfolio went *down* 1.2%, because 53.6% of it sits in the one asset that
+> fell. You didn't get the rally; you got XRP's version of it.
+
+**The window opened where the plan said.** XRP touched **$1.70** — Tranche 1 ($1.53) fills comfortably,
+Tranche 2 ($1.72–1.75) missed by 1–3%. Holding cost ~$101 on the XRP sleeve vs running the ladder.
+Small in dollars; the point is the mechanism worked.
+
+### Bear-market conditions — updated
+
+1. **✅ MET** — BTC higher high above ~$78K on a 200DMA hold. *Broke $80K/$81K on 25 Aug.* The big one.
+2. **⏳ Pending** — ETF inflows persisting 4 weeks past 9 Sept. Early signs good: SOL ETFs $33.49M on
+   24 Aug (best since Dec 2025), XRP ETFs $28.14M on 26 Aug (2nd-highest of 2026).
+3. **⚠️ Borderline** — F&G was to reach 50s–60s without passing 75. Now reading **63–82** depending on
+   provider, up from 40.
+
+**I'm materially less confident this is only a bear-market rally than I was on the 22nd.** That's a real
+update. It does *not* change the XRP call — it sharpens it. The market is confirming and XRP isn't
+participating. Being right about the market and wrong about which asset you own is still being wrong.
+
+### Why XRP specifically lags
+
+XRP fell $3.65 → ~$1.00 over **six straight losing months**. XRP/BTC is down **88%**; BTC leads by 361%.
+The cleanest read: **the reason to own it went stale, in a market that only pays for a fresh one.** Its
+last catalyst was the March commodity ruling, now faded, and the CLARITY Act is **stuck in the Senate** —
+which is why a White House headline moved it 39% in three days and couldn't hold it.
+
+**The tell:** on 26 Aug, US spot XRP ETFs took **$28.14M, the 2nd-largest daily inflow of 2026** — and
+price fell anyway. Institutional money arriving while price declines means heavy supply overhead. That's
+a bearish divergence, and the exact opposite of Solana, where ETF flows and price rose together.
+
+### Revised actions (27 Aug)
+
+- **XRP ladder, adjusted:** price is $1.4634, below the $1.53 Tranche 1. Selling here is selling into
+  weakness — but waiting for a perfect price is how people never act. **Split it: sell ~740 coins now,
+  limit order ~740 more at $1.55–1.60.** Tranches 2 and 3 unchanged. Note XRP's RSI cooled 82.8 → **56.48**,
+  so "too extended" is off the table; the reason to trim is now purely the 53.6% concentration and the
+  structural lag — the stronger argument, and unchanged.
+- **SOL: hold, raise the stop $82.60 → $86.40.** It broke $100 on real drivers (record ETF inflows, BTC's
+  breakout, validator governance votes incl. the Resource Fee Vote closing 27 Aug). ETF money and price
+  rising *together* — the healthy pattern. But RSI 84.31 after +40% in 8 days with volume halved to
+  $4.41B means don't chase. At 6.2% of the book it isn't where your risk lives.
+
+---
+
 
 **Snapshot:** Robinhood, 11:11–11:12, 22 Aug 2026
 **Combined crypto (both accounts):** $13,591.32 | **Cash:** $0.78
