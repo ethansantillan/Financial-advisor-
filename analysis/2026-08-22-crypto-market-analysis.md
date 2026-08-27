@@ -1,6 +1,26 @@
 # Crypto Market Analysis — 22 August 2026
 ### Updated 27 August 2026
 
+## 0a. Data source note — my prices lag
+
+I don't have a live market feed. Prices here come from reading news and analysis pages via web search,
+which lag the tape and vary by exchange. Checked against live quotes on 27 Aug:
+
+| Asset | I said | Live | Off by |
+|---|---|---|---|
+| **SOL** | $100.00 | **$108.00** | **−7.4%** |
+| LINK | $11.50 | $11.91 | −3.4% |
+| XRP | $1.4634 | $1.42 | +3.1% |
+| BTC | $79,027 | $79,587 | −0.7% |
+| ETH | $2,500 | $2,506 | −0.2% |
+
+**Treat the Robinhood screen as the authority on price, always.** Use this document for structure,
+levels and sizing — those move slowly. Not for the last decimal.
+
+**At live prices: book $13,308 · XRP $6,984 · 52.5%.**
+
+---
+
 ## 0. Five-day scorecard — 22 → 27 Aug
 
 Held everything. Levels did **not** stay the same — four of five holdings advanced; one didn't.
@@ -44,6 +64,64 @@ which is why a White House headline moved it 39% in three days and couldn't hold
 **The tell:** on 26 Aug, US spot XRP ETFs took **$28.14M, the 2nd-largest daily inflow of 2026** — and
 price fell anyway. Institutional money arriving while price declines means heavy supply overhead. That's
 a bearish divergence, and the exact opposite of Solana, where ETF flows and price rose together.
+
+### "But I believe in the company long term"
+
+**XRP is not equity in Ripple.** Holding it gives you no shares, no dividends, no claim on Ripple's
+profits or assets, no governance rights. Ripple is a private company; XRP is the XRP Ledger's native
+token. They're legally separate — even a Ripple IPO hands token holders no automatic link to the equity.
+
+So "I believe in the company" and "I should own a lot of XRP" are different statements, and the second
+doesn't follow from the first.
+
+**The harder version:** Ripple is one of the largest XRP holders, with tens of billions in escrow that
+it releases on schedule and sells, in part, to fund operations. That makes the company a *giant holder
+and periodic seller* of the thing you own — not a conduit passing its success down to you. It's the most
+plausible explanation for the 26 Aug divergence: second-largest ETF inflow of 2026, price fell anyway.
+
+**The question that cuts through it:** forget what you paid — the market doesn't know your cost basis
+and will never refund it. *If someone handed you $6,984 in cash right now, would you put all of it into
+XRP?* If no, then holding is the same decision as buying fresh today, with extra steps and a worse
+feeling attached.
+
+And the loss isn't purely a cost — it harvests ~$1,268 of capital deduction.
+
+**None of which means sell it all.** Long-term conviction is compatible with a 20–30% position. It is
+not compatible with 52.5%. Two decisions are getting conflated — *do I believe in this* and *how much of
+everything I own should be in it* — and only the second is the problem.
+
+### If you won't sell — fix the ratio from the other side
+
+Concentration is a ratio; you can fix it either way. Grow everything else instead of shrinking XRP. No
+sale, no realized loss, no tax event.
+
+| Path | $200/mo | $400/mo | $600/mo |
+|---|---|---|---|
+| 52.5% → **40%** (add $4,152 BTC/ETH) | 21 mo | **10 mo** | 7 mo |
+| 52.5% → **30%** (add $9,971 BTC/ETH) | 50 mo | 25 mo | 17 mo |
+| **Hybrid** — sell 1,000 XRP ($1,420), then contribute to 30% | 26 mo | **13 mo** | ~10 mo |
+
+*Assumes contributions go to BTC/ETH at flat prices; real prices shift these timelines both ways.*
+
+**The hybrid is what I'd pick in your seat if a large sale is off the table.** 1,000 of 4,918 coins is
+20% of the stack — small enough not to feel like abandoning the thesis, enough to move XRP to 41.8%
+immediately. Then $300–400/month into Bitcoin finishes it inside a year.
+
+**The catch: this requires cash you don't have.** You're at $0.78. Without a monthly contribution this
+option isn't really available, and selling is the only lever left.
+
+### If you hold, hold properly
+
+A conviction hold without an exit rule is hope with extra steps. Write these down while calm:
+
+- **Volatility accepted in advance.** XRP was under $1.00 three weeks ago. Decide now you won't sell at
+  $0.90 — so you don't decide it at $0.90.
+- **You don't add.** At 52.5% the position is finished. New dollars go elsewhere.
+- **Thesis invalidation — what would actually make you sell.** Pick two or three: CLARITY dies in the
+  Senate rather than stalling; XRP/BTC makes a new all-time low; Ripple materially accelerates escrow
+  sales; a major partnership or ETF mandate is lost.
+- **The $1.238 stop stays** — disaster floor, not a trading tool.
+- **Review on a calendar, not on emotion.** First business day of each quarter.
 
 ### Revised actions (27 Aug)
 
