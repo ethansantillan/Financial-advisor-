@@ -28,6 +28,37 @@ You're **5× the ceiling** and roughly **26× typical**. The reason a ceiling ex
 and becomes the primary bet. At 52% you don't have a portfolio with crypto in it; you have a crypto
 position with a Roth IRA attached.
 
+## What being 23 changes
+
+**In your favour, genuinely:** 40-year horizon, no debt, time to recover from any single mistake. You
+can carry more risk than almost anyone, and a 5% ceiling written for a 50-year-old needn't be yours.
+20–30% crypto for the next decade is defensible at your age.
+
+> **Your crypto is 0.6% of what you'll likely earn in your working life.** At $50k/yr with no raises for
+> 42 years that's **$2.1M of lifetime earnings** against $12,900 of crypto. **Your income is the asset.**
+> What decides how you end up isn't whether XRP hits $3 — it's your savings rate.
+
+### Compounding at 23 (7% real)
+
+| Put in at 23 | Worth at 65 |
+|---|---|
+| One $3,000 contribution | **$51,433** |
+| One maxed Roth year ($7,500) | **$128,582** |
+| $500/month every year to 65 | **$1,480,659** |
+| Same $500/month, starting at 33 | $707,601 — **ten years' delay costs $773,058** |
+
+**The gap between starting now and starting at 33 is larger than any realistic XRP outcome.** If XRP
+tripled from here you'd make ~$13,600. Ten years of on-time Roth contributions is worth $773,000. You've
+been optimizing the small lever hard and leaving the enormous one untouched.
+
+*(7% real is a conventional long-run equity assumption, not a guarantee.)*
+
+**Why 23 makes the emergency fund more urgent, not less:** "I'm young, I can take risk" is about *market*
+risk, and it's correct. It says nothing about **liquidity** risk, which is what $100 in checking is. At 23
+the realistic shocks — car repair, moving deposit, gap between jobs, medical bill — are *more* frequent.
+With no cash, each forces a sale at whatever price the market offers. That's the mechanism that turns a
+recoverable drawdown into a permanent loss, and it's the one risk your age doesn't help with at all.
+
 ## The 99% you asked for
 
 **~99% confident:**
@@ -87,9 +118,17 @@ you'd lose 6% of net worth, not 27.5%.
 ## The plan — emergency fund first
 
 1. **This week, non-negotiable — sell $3,000 XRP into a high-yield savings account.** Not into Bitcoin.
-   Into *cash*, separate from your brokerage. XRP drops 27.5% → 15.4%. The standard sequence everywhere
-   is: starter emergency fund → high-interest debt → invest. You've been doing step three with nothing
-   under one and two.
+   Into *cash*, at a separate bank — not the Robinhood cash sweep. The separation is the point; money
+   next to a Buy button gets spent on the Buy button. Market-sell it, don't set a limit and wait.
+
+   | Venue | Sell | Raises | XRP left |
+   |---|---|---|---|
+   | Robinhood | ~1,009 coins | ~$1,395 | ~1,278 |
+   | Kraken | ~1,161 coins | ~$1,605 | ~1,470 |
+   | **Total** | **~2,170 coins** | **~$3,000** | **~2,748 (~$3,800)** |
+
+   XRP drops 27.5% → 15.4% of net worth. The standard sequence everywhere is: starter emergency fund →
+   high-interest debt → invest. You've been doing step three with nothing under one and two.
 2. **15 September — watch cloture, then sell to a $1,500 XRP sleeve.** Fails: sell over the following
    week, don't renegotiate the rule on the day. Passes: sell into strength at $2.00–2.50. Either way,
    ~$1,500 XRP (6% of net worth), ~$2,300 freed.
@@ -111,8 +150,8 @@ paid by you, not by commissions — could review this properly and cheaply. With
 net, one paid session is likely the best money you spend this year. I'd genuinely rather you did that
 than take my word.
 
-Still unseen: your income, expenses, age, whether you carry high-interest debt (if so, paying it off
-beats every investment decision here), and your tax situation. Any could change the sizing.
+Now known: 23, no debt. Still unseen: your income and monthly expenses (which set the real emergency-fund
+target) and whether you have earned income for Roth eligibility.
 
 And I won't claim 99% confidence on XRP, because I don't have it — and **the last people who sounded
 that certain are part of why you're here.** What I am confident about is that this plan leaves you
