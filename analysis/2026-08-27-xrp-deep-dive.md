@@ -21,6 +21,82 @@ Those are different investments and only one is available to buy.
 
 ---
 
+## 0. Your 2025 thesis, marked
+
+Three reasons given for buying. Two were wrong at the time; the third stopped being true.
+
+**1. "Faster transactions than Bitcoin" — true, and not worth much.** XRP settles in 3–5s vs Bitcoin's
+~10 min. Real, and differentiating in 2018. Not now: speed stopped being scarce (Solana, Base, others);
+the comparison is category-confused (Bitcoin competes to be a reserve asset, not a payment rail); and a
+fast rail doesn't accrue value to its token unless someone must *hold* the token.
+
+**2. "Ripple was putting money into it" — backwards.**
+
+> **Ripple is a net *seller* of XRP, not a net buyer.** It funds itself *by* selling the token — ~300M
+> XRP/month retained from escrow, about **$5.1B/year, near 5.9% of market cap** — spent on salaries,
+> grants, legal bills and acquisitions like the $1.25B Hidden Road deal.
+
+**3. "I loved how cheap it was" — the costliest idea in retail investing.** $1.42 isn't cheap or
+expensive; it carries no information, because a token can be issued in any number of units.
+
+| Asset | Price | Supply | What you're actually buying |
+|---|---|---|---|
+| XRP | $1.42 | 61B | **$86.6B** |
+| ETH | $2,506 | 120.7M | $302B |
+| BTC | $79,587 | 19.95M | $1.59T |
+
+XRP is **5.5% the size of Bitcoin** and 29% of Ethereum — not the rounding error the sticker suggests.
+Which reframes every price target. At ~70B supply in three years:
+
+| For XRP to reach | Market cap needed | vs ETH today | vs BTC today |
+|---|---|---|---|
+| $3 | $210B | 0.7× | 0.13× |
+| $5 | $350B | 1.2× | 0.22× |
+| $10 | $700B | 2.3× | 0.44× |
+| $100 | $7.0T | 23× | 4.4× |
+
+$3 is a real target — XRP worth ~70% of Ethereum today. The $10 and $100 targets on YouTube require XRP
+to exceed **twice Ethereum's entire current size**, or **four times Bitcoin's**. Nobody quoting those
+has done the multiplication.
+
+None of this makes buying foolish. Fast settlement + well-funded company + low sticker price is a
+coherent-sounding story, and it's the story that was told. It just doesn't survive supply arithmetic —
+and it's the most common route to being overweight one token.
+
+---
+
+## 0b. The four-year cycle
+
+The shape is right: peaks **Nov/Dec 2013 → Dec 2017 → Nov 2021 → Oct 2025**, intervals ~48/47/47
+months. Extended, the next peak lands **~Sept–Oct 2029** — about 3.1 years out, matching the stated
+horizon almost exactly.
+
+Two caveats. It's **genuinely contested**: Bernstein research and Michael Saylor both argue the halving
+cycle has been replaced by institutional ETF and treasury flows — 2025 ETF daily flows regularly
+exceeded $500M, over 12× daily mining supply, drowning the supply shock the cycle rests on. Others say
+weakened, not dead. And the sample is three intervals — a pattern, not a law.
+
+> **The cycle is an argument for holding crypto. It is not an argument for holding XRP.** If a bull run
+> arrives in 2029, be invested through it. *Which* crypto you hold for those three years is a separate
+> decision, and it's the one that determines the return.
+
+| Cycle peak | Bitcoin | vs prior | XRP | vs its 2018 high |
+|---|---|---|---|---|
+| 2017 / Jan 2018 | $19,800 | new high | $3.84 | — its high |
+| 2021 | $69,000 | **new high, 3.5×** | $1.96 | **51% — failed badly** |
+| 2025 | $126,198 | **new high, 1.8×** | $3.65 | **95% — failed narrowly** |
+| Today | $79,587 | **+468% since Jan 2018** | $1.42 | **−63% since Jan 2018** |
+
+**The experiment has already been run twice.** Someone who bought XRP in January 2018 on a "wait for the
+next bull run" thesis waited through *two* of them and is still down 63%. Someone who bought Bitcoin
+that day is up 468%. Both held through the same cycles.
+
+And a live version played out this week: BTC broke $81K, SOL broke $100, ETH cleared $2,500 — and the
+book *fell*, because half of it sits in the one that didn't participate. The cycle thesis worked exactly
+as advertised and still cost money, because of what was held when it worked.
+
+---
+
 ## 1. The finding: two assets, one ticker
 
 **Ripple the company — executing**
@@ -128,6 +204,18 @@ cycles while Bitcoin made new highs in both.
 > I put that at roughly **one in four**. Nothing here moved it up. The clearest single fact in the file
 > is that Ripple, which knows more about what institutions want than anyone, keeps choosing to settle
 > its own biggest deals in something other than XRP.
+
+### Sell it, or hold for the next run?
+
+**Sell most of it, and stay fully invested in crypto.** Those aren't in tension — it answers both
+halves at once. The cycle instinct is sound: be positioned for 2029. But be positioned in the assets
+that actually converted the last two cycles into gains. Sell XRP down to a 10–20% sleeve, move the
+proceeds to BTC/ETH, and hold *that* through the run. You keep the cycle bet, keep real XRP exposure if
+it re-rates, and stop betting the outcome on the one major that has missed two cycles running.
+
+One timing note worth respecting: **the 15 Sept cloture vote is 19 days out** and is the biggest single
+swing factor for XRP. Selling a first tranche now and deciding the rest after the vote is a defensible
+sequence. Waiting for a vote that then fails, and selling into the aftermath, is not.
 
 **What I'd do:** hold a position, not a concentration. Everything here is consistent with XRP as a
 legitimate **10–20% speculative sleeve**. Almost none of it supports 52%. The research didn't change my
