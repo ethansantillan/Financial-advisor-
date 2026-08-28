@@ -2,6 +2,7 @@
 
 Crypto market research, risk framework, and stop-loss planning.
 
+- [`analysis/2026-08-28-decision-brief.md`](analysis/2026-08-28-decision-brief.md) — The decision: the break-even trap, whether to wait for the 15 Sept vote, and the sequenced plan.
 - [`analysis/2026-08-27-xrp-deep-dive.md`](analysis/2026-08-27-xrp-deep-dive.md) — Deep research note on XRP: Ripple the company vs XRP the token, supply overhang, the 15 Sept CLARITY vote, and my assessment.
 - [`analysis/2026-08-22-crypto-market-analysis.md`](analysis/2026-08-22-crypto-market-analysis.md) — Why crypto ripped Aug 19–22, bear-market status, per-asset stop levels, and the execution plan.
 
