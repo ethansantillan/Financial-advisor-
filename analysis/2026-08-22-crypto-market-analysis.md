@@ -123,6 +123,48 @@ A conviction hold without an exit rule is hope with extra steps. Write these dow
 - **The $1.238 stop stays** — disaster floor, not a trading tool.
 - **Review on a calendar, not on emotion.** First business day of each quarter.
 
+### "Won't XRP be back at $3 in three years?"
+
+**Honestly? It might. I'd put it around one in three.** It only needs to roughly double, it's traded
+there before, and a real bull cycle drags a lot along with it. $3 is not a fantasy.
+
+But three facts sit alongside that:
+
+**1. XRP hasn't made a new high since January 2018.** ATH is **$3.84** (4 Jan 2018). Last cycle it
+peaked at **$3.65** on 18 July 2025 — within 5%, and *failed*. That's **two complete bull cycles
+without a new high**, while Bitcoin made new highs in both. Eight years is evidence, not noise.
+
+**2. Supply grows underneath you.** ~61B XRP circulate; 34–36B still in escrow. Ripple releases up to
+1B/month and re-escrows most, leaving **200–300M net entering circulation monthly** — about **+9B
+tokens (~15% dilution) over three years**, taking supply to ~70B. So $3 in 2029 means a **$210B market
+cap**, essentially back to its all-time peak valuation (~$219B). That's "return to the top," not "new
+ground."
+
+**3. The question that actually decides it.** The bet isn't *does XRP reach $3* — it's **does XRP beat
+Bitcoin over the same three years?** If BTC runs 3× while XRP runs 2.1×, XRP hits your target *and*
+you'd still have made more in Bitcoin. Those are compatible outcomes.
+
+| Three years out | Hold all | Rebalanced | Diff | Winner |
+|---|---|---|---|---|
+| Strong bull, XRP $3 — BTC 3.1× ETH 3.6× SOL 4.6× XRP 2.1× | $37,936 | $42,673 | **+$4,737** | Rebalance |
+| Moderate bull, XRP $3 — BTC 1.9× ETH 2.2× SOL 2.6× XRP 2.1× | $28,602 | $27,773 | −$830 | Hold, narrowly |
+| XRP leads, majors muted — BTC 1.5× ETH 1.6× SOL 1.9× XRP 2.1× | $24,978 | $22,418 | −$2,560 | **Hold** |
+| Strong bull, XRP lags — BTC 3.1× ETH 3.6× SOL 4.6× XRP 1.3× | $32,034 | $40,424 | **+$8,389** | Rebalance |
+
+**Holding wins two of four — I'm not burying that.** In both, XRP's multiple matches or beats the
+majors'. Which is the point: holding is right precisely when XRP outperforms Bitcoin, and wrong
+whenever it doesn't.
+
+But note the sizes. **Holding wins small ($830, $2,560); rebalancing wins big ($4,737, $8,389)** —
+roughly 4× as much on average. That asymmetry is why I still land where I land, even granting $3.
+
+**Fair summary:** the position is internally coherent. If you genuinely believe XRP outperforms Bitcoin
+over three years, 52% is the consistent expression of it — and it might be right. Spot XRP ETFs are
+genuinely new, and CLARITY passing would re-rate it hard. I don't share the view, because eight years
+and two cycles say otherwise. But know that the bet isn't "XRP goes up" — it's **"XRP beats Bitcoin."**
+
+*The published artifact has an interactive version — set your own 3-year targets and see which book wins.*
+
 ### Revised actions (27 Aug)
 
 - **XRP ladder, adjusted:** price is $1.4634, below the $1.53 Tranche 1. Selling here is selling into
