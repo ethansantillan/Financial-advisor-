@@ -2,6 +2,9 @@
 
 **Napoleon Hill, 1937. Every principle, every list, every trait — plus how to actually run it.**
 
+**Read it as a working page:** <https://claude.ai/code/artifact/8679aab5-9536-4ad6-b84c-ac12dea7f04b>
+— same content, plus a workbench that saves your Definite Chief Aim and your monthly self-audit.
+
 *Built 7 September 2026 from the verified 1937 text. Lists below are Hill's own, checked against the
 source, not from memory. Commentary and the protocol in Parts 4–7 are mine.*
 

@@ -10,6 +10,6 @@ Crypto market research, risk framework, and stop-loss planning.
 
 ## Mindset
 
-- [`mindset/2026-09-07-think-and-grow-rich.md`](mindset/2026-09-07-think-and-grow-rich.md) — Napoleon Hill's *Think and Grow Rich* (1937), complete: all 13 principles, every list Hill published (leadership attributes, 30 causes of failure, 16 symptoms of lack of persistence, the six fears), a 90-day protocol, and an honest read on which parts hold up.
+- [`mindset/2026-09-07-think-and-grow-rich.md`](mindset/2026-09-07-think-and-grow-rich.md) — Napoleon Hill's *Think and Grow Rich* (1937), complete: all 13 principles, every list Hill published (leadership attributes, 30 causes of failure, 16 symptoms of lack of persistence, the six fears), a 90-day protocol, and an honest read on which parts hold up. [Working page](https://claude.ai/code/artifact/8679aab5-9536-4ad6-b84c-ac12dea7f04b).
 
 > Research and risk-management notes for my own use. Not investment advice, and nothing here is a guarantee. Levels are invalidation points, not predictions.
