@@ -7,6 +7,10 @@
 
 - **Age 23. No debt.** No dependents mentioned.
 - **Lives with his mother. No meaningful monthly expenses.** Income still unknown.
+- **Saves ~70% of income.** Horizon: will not withdraw until retirement. 42 years.
+- **Hates realising losses.** Five rounds of recommending a sale produced zero sales. Plan around this, not against it.
+- **Takes profit at ~+15%** — textbook disposition effect. Actively harmful and must be countered.
+- Roth: **$2,700 contributed for 2026**, so **$4,800 of room left**. No Robinhood Gold.
 - **This is the most important fact in the file.** No rent means the cash he holds is effectively indefinite runway, and his potential savings rate is far above normal for his age.
 - Learned investing from crypto YouTube; roughly 2× in the last bull run.
 - Accounts: Robinhood (taxable + Roth), Kraken, Fidelity, a HYSA, Wells Fargo checking.
@@ -57,16 +61,32 @@ NVDA 4 sh $892.64 (+$39.77) · META 1 sh $648.82 (+$84.75) · TSLA $6.12 · AMZN
 2. Crypto is **48.7%**, not 51.4%. XRP is **25.5%**, not 26.9%. Both still far above the 5–10% professional ceiling, but less extreme than stated.
 3. ~$960 of the Robinhood "Investments" bucket is unexplained — probably the prediction-markets sleeve. Unverified.
 
-## Revised priority order (9 Sept)
+## Final plan (9 Sept, 10:20pm) — no selling required
 
-1. **~$2,500 of idle Robinhood cash into the Roth**, broad index fund (VTI/VOO, ~0.03% ER). At 7% real over
-   42 years that is **$60,588 vs $13,819** left as cash — a **$46,769** difference, larger than XRP tripling.
-   Robinhood pays **1% match on IRA contributions, 3% with Gold**; match does not count against the limit
-   (5-year holding period, 12-month Gold requirement). Verify earned income and remaining 2026 room.
-2. **Trim XRP by ~$2,500** (~1,800 coins: ~836 Robinhood, ~962 Kraken) into BTC/ETH. Takes XRP 25.5% → 16.2%.
-   **No longer time-critical** — the pre-event urgency died with the cash correction.
-3. **Close the $330 event-contract sleeve** (structural edge against retail) and **move the HYSA to 4.10%+**.
-4. **Recurring contribution.** $500/mo to 65 ≈ $1.48M at 7% real; ten years' delay costs ~$773k.
+**The route changed from subtraction to addition.** Concentration is a ratio; at a 70% savings rate the
+denominator can be grown faster than the numerator can be cut, and he will actually do it.
+
+1. **$2,500 idle cash → Roth, broad index fund** (VTI/VOO, ~0.03% ER). $4,800 of room left. Cash at 3.30%
+   → $13,819 by 65; same money at 7% real → **$60,588**. Bigger than XRP tripling.
+   **1% match is free without Gold** — the only catch is a 5-year holding period with clawback if the
+   balance drops below contributions + match, which is irrelevant to a retirement horizon.
+   **Skip Gold:** $60/yr fee means 3% nets $15 on $2,500 vs $25 free at 1%.
+2. **Every new dollar goes to something that isn't XRP.** No more XRP buys ever — position finished at
+   4,921 coins. Takes XRP under 20% of net worth by ~Christmas and under 15% by ~summer 2027 at
+   $2,000/mo, with no sale.
+3. **Hold everything** — XRP, SOL, BTC, LINK, NVDA, META. **Do not take profit on winners.**
+4. **Close the $330 event contracts; move the HYSA to 4.10%+.**
+5. **Never use the margin.**
+
+**Cost of the no-sell route:** if XRP falls 30% near-term, holding costs ~$2,050 vs ~$750 protected by
+selling $2,500 first. **$750 is a fair price for a plan he'll follow.**
+
+## Behavioural note — the binding constraint
+
+The disposition effect is the live risk here, not XRP. He holds a −25% loser and wants to trim +26.7% SOL
+and +12.2% BTC. Odean (1998): stocks sold on that instinct **continued to outperform**; losers held
+**continued to underperform**. Documented US/South Korea/China. **Any future advice must not ask him to
+realise a loss, and must actively discourage trimming winners.**
 
 ## Standing view
 
@@ -77,6 +97,6 @@ NVDA 4 sh $892.64 (+$39.77) · META 1 sh $648.82 (+$84.75) · TSLA $6.12 · AMZN
 
 ## Still unknown
 
-- Income, 2026 Roth contribution room, whether he has Robinhood Gold
+- Income level (savings rate is 70% of it — the single most important unknown)
 - Kraken XRP cost basis
 - Purpose of the $350 pending BE (Bloom Energy) order — ~10% of cash into one volatile stock
