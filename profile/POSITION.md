@@ -81,6 +81,37 @@ denominator can be grown faster than the numerator can be cut, and he will actua
 **Cost of the no-sell route:** if XRP falls 30% near-term, holding costs ~$2,050 vs ~$750 protected by
 selling $2,500 first. **$750 is a fair price for a plan he'll follow.**
 
+## Verified facts on the XRP-vs-BTC question (9 Sept)
+
+- **XRP-BTC correlation is genuinely high:** 0.92 (90-day), 0.84 (30-day), 0.81 (1-year), long-run band
+  0.64-0.86. **His "follows Bitcoin ~90% of the time" claim is correct** and should be conceded.
+- **But correlation measures direction, not magnitude.** Two assets can correlate 1.00 and still diverge
+  enormously in return. Jan 2018 → now: BTC +460%, XRP −64%, correlation high throughout, XRP/BTC −88%.
+- **His beta point is half right:** altcoins carry more beta to liquidity injections; XRP ran +64.5% in
+  a stretch where BTC did +22%. But over full cycles XRP peaked at 51% then 95% of its 2018 high while
+  BTC made new highs both times. High beta, negative alpha.
+
+## Tax — the largest single finding in the engagement
+
+**2026 long-term capital gains: 0% for single filers with taxable income up to $49,450.** Short-term
+gains are taxed as ordinary income (10/12/22%...). Living at home saving 70%, his taxable income is very
+likely under the threshold, so **his long-term capital gains rate is probably zero.**
+
+Selling before 366 days converts a tax-free gain into a taxed one. On a $1,000 gain that is **$120–$220
+given away for nothing**. On his META gain of +$85: $0 tax if held past a year, $10–$19 if not.
+
+**Standing rule: check the holding date before selling anything in a taxable account.**
+
+## The profit-taking rule — corrected on both sides
+
+- **He was right** that redeploying proceeds is not the same as selling to cash. The disposition-effect
+  criticism was overstated and that concession was owed.
+- **But the +15% trigger is still wrong**, for two non-behavioural reasons: the tax above, and momentum
+  (Jegadeesh & Titman 1993, replicated 30 years — top 3-12 month performers continue to outperform over
+  the next 3-12 months at ~1%/month abnormal). A +15% rule caps upside and leaves downside open.
+- **Replacement rule agreed: trim on position size (>20% of book), not on gain %, and only after 366 days.**
+  Applied to his book, exactly one position breaches 20% — **XRP at 25.5%.** Not SOL, BTC, NVDA or META.
+
 ## Behavioural note — the binding constraint
 
 The disposition effect is the live risk here, not XRP. He holds a −25% loser and wants to trim +26.7% SOL
