@@ -160,8 +160,35 @@ correct calls held in the wrong size.
 - Long-run target: ~30% crypto, XRP a 10–15% sleeve, rest in Roth + index funds.
 - **The biggest lever is not any trade — it's a recurring Roth contribution.** $500/mo from 23 to 65 at 7% real ≈ $1.48M; ten years' delay costs ~$773k.
 
+## INCOME — answered 10 Sept 2026, and it changes things
+
+**No annual income. Job-hunting; occasional odd jobs only.** This was the outstanding
+unknown for the whole engagement. Consequences, in order of urgency:
+
+1. **The $2,700 Roth contribution for 2026 may be an excess contribution.** Roth room is
+   the *lesser* of $7,500 or earned income. Self-employment income counts but is reduced:
+   `compensation ≈ net profit × 0.8529`, so ~**$3,165 of net odd-job profit** is needed to
+   support $2,700. Shortfall = 6% excise **per year until removed**. Fix is a **return of
+   excess** at Robinhood, free of their Early Match Removal Fee, by **15 April 2027**
+   (15 Oct 2027 with extension). **Must tally his 2026 odd-job income.**
+2. **The "use the Roth" advice from earlier the same day is withdrawn.** A Roth shelters
+   tax; he has none to shelter. $16,100 standard deduction covers ordinary income and
+   short-term gains; long-term gains sit in the **0% band** (to $49,450 taxable). The
+   taxable account is already tax-free at this income. New money → taxable, until a job.
+3. **Tax-gain harvesting is live and expires on employment.** Sell a >1yr winner, rebuy
+   immediately — wash-sale applies to **losses only**, so this is legal for stocks and
+   crypto. Same position, higher basis, 0% federal. Candidates: BTC, SOL, META.
+   **State tax unverified — his state is still unknown and many states have no 0% band.**
+4. **Deploy less.** ~$1,000, not $2,500. Keep ~$2,500 liquid. **Cancel the $350 BE order.**
+5. **The dilution path is stalled.** It assumed ~$2,000/mo of contributions. With no
+   income the only levers on the XRP concentration are sell or wait, and he won't sell —
+   so **XRP stays ~25.5% of net worth until he is employed.** Say this plainly rather than
+   pretending the plan is still running.
+6. **The job is the highest-value item in the engagement.** Not any trade.
+
 ## Still unknown
 
-- Income level (savings rate is 70% of it — the single most important unknown)
+- **State of residence** (gates the tax-gain-harvesting recommendation)
+- **2026 odd-job income to date** (gates the Roth excess-contribution question)
 - Kraken XRP cost basis
 - Purpose of the $350 pending BE (Bloom Energy) order — ~10% of cash into one volatile stock

@@ -2,7 +2,8 @@
 
 Crypto market research, risk framework, and stop-loss planning.
 
-- [`analysis/2026-09-10-equity-screen.md`](analysis/2026-09-10-equity-screen.md) — **Current.** Twenty-one AI-infrastructure tickers screened: three ticker errors (EWI is Italy, not Korea), why all 21 are one bet, leveraged-ETF decay, and the Roth allocation.
+- [`analysis/2026-09-10-no-income-revision.md`](analysis/2026-09-10-no-income-revision.md) — **Current.** No income: the $2,700 Roth contribution may be an excess contribution, the Roth advice is withdrawn, and the 0% capital-gains window is open. **Supersedes the Roth section of the equity screen.**
+- [`analysis/2026-09-10-equity-screen.md`](analysis/2026-09-10-equity-screen.md) — Twenty-one AI-infrastructure tickers screened: three ticker errors (EWI is Italy, not Korea), why all 21 are one bet, leveraged-ETF decay, and the Roth allocation.
 - [`analysis/2026-09-05-week-of-sept-15.md`](analysis/2026-09-05-week-of-sept-15.md) — Two binary events 24h apart (CLARITY cloture + FOMC), both skewed down, and the pre-event plan.
 - [`analysis/2026-08-28-full-picture.md`](analysis/2026-08-28-full-picture.md) — Full net-worth view: 52% crypto, $100 cash, and the emergency-fund-first plan. **Supersedes earlier sizing.**
 - [`analysis/2026-08-28-decision-brief.md`](analysis/2026-08-28-decision-brief.md) — The decision: the break-even trap, whether to wait for the 15 Sept vote, and the sequenced plan.
