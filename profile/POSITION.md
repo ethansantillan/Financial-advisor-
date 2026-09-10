@@ -1,12 +1,13 @@
 # Position of record — Ethan
 
-*Last verified: 9 September 2026, 10:03pm, from full account screenshots.*
+*Last verified: 9 September 2026, 10:08pm, from full account screenshots.*
 *This file is the durable record. Update it, don't re-derive it.*
 
 ## Person
 
 - **Age 23. No debt.** No dependents mentioned.
-- Income and monthly expenses: **still unknown** — the one input that would sharpen the emergency-fund target.
+- **Lives with his mother. No meaningful monthly expenses.** Income still unknown.
+- **This is the most important fact in the file.** No rent means the cash he holds is effectively indefinite runway, and his potential savings rate is far above normal for his age.
 - Learned investing from crypto YouTube; roughly 2× in the last bull run.
 - Accounts: Robinhood (taxable + Roth), Kraken, Fidelity, a HYSA, Wells Fargo checking.
 
@@ -17,7 +18,8 @@
 | Robinhood crypto | $6,190.48 | 23.1% |
 | Kraken crypto | $6,855.21 | 25.6% |
 | Robinhood Roth | $7,611.82 | 28.4% |
-| Robinhood other *(prediction markets + $1,345.78 buying power)* | $2,306.18 | 8.6% |
+| Robinhood cash | $2,025.59 | 7.6% |
+| Robinhood event contracts *(prediction markets)* | $329.81 | 1.2% |
 | Robinhood stocks | $1,552.45 | 5.8% |
 | **HYSA @ 3.30% APY** | **$1,408.22** | 5.2% |
 | Fidelity | $800.00 | 3.0% |
@@ -25,7 +27,9 @@
 
 - **Crypto: $13,051 = 48.7%**
 - **XRP: $6,840 = 25.5%** (4,921 coins)
-- **Cash: $1,508 = 5.6%** ($708.22 available; $700 still settling)
+- **Cash: $3,533.81 = 13.2%** — Robinhood $2,025.59 + HYSA $1,408.22 + checking $100
+- Buying power $1,345.78 = cash $2,025.59 − event contracts $329.81 − pending BE order $350.00
+- Margin offered at 5%, as low as 3.95%. **Never to be used.**
 
 ## Crypto holdings
 
@@ -49,9 +53,20 @@ NVDA 4 sh $892.64 (+$39.77) · META 1 sh $648.82 (+$84.75) · TSLA $6.12 · AMZN
 
 ## Corrections to earlier analysis
 
-1. **The HYSA exists.** I said "$100 in cash" for most of this engagement based on the checking figure. Actual cash is **$1,508**, and $1,408 of it earns 3.30%. Cash is 5.6% of net worth, not 0.4%. **This was the single biggest error in my analysis.**
+1. **Cash was $3,534, not $100.** I anchored on a single line about the checking account and built five recommendations around scarcity that did not exist. Robinhood alone holds $2,025.59; the HYSA holds $1,408.22 at 3.30%. **This was the single biggest error in the engagement**, and combined with no living expenses it removed the forced-selling risk entirely.
 2. Crypto is **48.7%**, not 51.4%. XRP is **25.5%**, not 26.9%. Both still far above the 5–10% professional ceiling, but less extreme than stated.
 3. ~$960 of the Robinhood "Investments" bucket is unexplained — probably the prediction-markets sleeve. Unverified.
+
+## Revised priority order (9 Sept)
+
+1. **~$2,500 of idle Robinhood cash into the Roth**, broad index fund (VTI/VOO, ~0.03% ER). At 7% real over
+   42 years that is **$60,588 vs $13,819** left as cash — a **$46,769** difference, larger than XRP tripling.
+   Robinhood pays **1% match on IRA contributions, 3% with Gold**; match does not count against the limit
+   (5-year holding period, 12-month Gold requirement). Verify earned income and remaining 2026 room.
+2. **Trim XRP by ~$2,500** (~1,800 coins: ~836 Robinhood, ~962 Kraken) into BTC/ETH. Takes XRP 25.5% → 16.2%.
+   **No longer time-critical** — the pre-event urgency died with the cash correction.
+3. **Close the $330 event-contract sleeve** (structural edge against retail) and **move the HYSA to 4.10%+**.
+4. **Recurring contribution.** $500/mo to 65 ≈ $1.48M at 7% real; ten years' delay costs ~$773k.
 
 ## Standing view
 
@@ -62,7 +77,6 @@ NVDA 4 sh $892.64 (+$39.77) · META 1 sh $648.82 (+$84.75) · TSLA $6.12 · AMZN
 
 ## Still unknown
 
-- Monthly expenses and income → the real emergency-fund target
+- Income, 2026 Roth contribution room, whether he has Robinhood Gold
 - Kraken XRP cost basis
-- What the ~$960 Robinhood remainder is
-- Whether $1,345.78 "buying power" is settled cash or margin
+- Purpose of the $350 pending BE (Bloom Energy) order — ~10% of cash into one volatile stock
