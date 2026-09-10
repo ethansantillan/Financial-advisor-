@@ -119,6 +119,40 @@ and +12.2% BTC. Odean (1998): stocks sold on that instinct **continued to outper
 **continued to underperform**. Documented US/South Korea/China. **Any future advice must not ask him to
 realise a loss, and must actively discourage trimming winners.**
 
+## Equity screen — 10 Sept 2026 (21 tickers)
+
+He sent 21 tickers across four sectors and asked which to buy. Full note:
+`analysis/2026-09-10-equity-screen.md`. Artifact:
+https://claude.ai/code/artifact/db8d75f6-6904-4682-8f53-5b065bb56936
+
+**Three ticker errors in his list — record these, they will recur:**
+- **EWI** is iShares MSCI **Italy**, not Korea. He believed it was Korean exposure. Korea is **EWY**.
+- **KOSPI** is an index, not a purchasable US-listed security.
+- **MUU** is the Direxion Daily MU Bull **2×** ETF, not a Micron share class.
+
+**The structural finding:** all 21 are one bet — AI data-centre capex. Power, chips, data centres and
+memory are four ways to be paid out of the same budget line. He is already **~54.4% of net worth in that
+factor** (crypto 48.7% + NVDA 3.3% + META 2.4%). Crypto counts: it sells off in the same weeks. Adding
+from this list is not diversification.
+
+**Verdicts:** Buy-core **SMH or SOXX** (pick one, 73% overlap) and **AVGO** (~60% custom-ASIC share by
+2027, ~$100B AI revenue expected FY2027, ~65× P/E). Watch: GEV ($176B backlog, orders +88%, P/E >52),
+VRT, MU, NBIS, BE, VST, MRVL, DRAM, CIFR, WULF, IREN. Pass: AMD, INTC, CLSK.
+**Avoid: SOXL, MUU, EWI, KOSPI.**
+
+**Leverage decay, for reuse:** SOXL 5-yr **+478.93%** vs SMH **+403.72%** — 3× daily exposure bought ~75pp
+over five years for ~3× the drawdowns, in the best five-year stretch semis have had. Drag ≈
+`0.5 × L × (L−1) × σ²` per day. Flat-index illustration: index 0.0%, SOXL **−10.6%**. These are not
+42-year holdings.
+
+**Recommendation given — $2,500 into the Roth, not the taxable account:** VTI/VOO $1,500 (60%),
+SMH $600 (24%), AVGO $400 (16%). Leaves ~$1,034 liquid. The 60% index sleeve is the floor the account
+does not currently have. Roth room remaining for 2026: $4,800.
+
+**Macro caveat stated:** ~$400B/yr AI infrastructure spend vs ~$100B enterprise AI revenue; index
+concentration at 2000-era levels; a hedge fund concentrated in SK Hynix/CoreWeave fell $45B → ~$10B on
+correct calls held in the wrong size.
+
 ## Standing view
 
 - XRP will **probably rise** over 3 years (~60% to clear $1.90). ~25–30% to $3+. **~25% to beat Bitcoin.**
