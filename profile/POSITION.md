@@ -201,6 +201,28 @@ unknown for the whole engagement. Consequences, in order of urgency:
 - **Open item for Thursday: the XRP tax-loss harvest.** No wash-sale rule on crypto, so
   sell-and-rebuy banks a ~$1,176 carryforward with no position change. Deferred, not dropped.
 
+## Odds model — 15 Sept 2026, 00:43 ET
+
+- **P(portfolio up by Wed close) = ~35%.** Expected −$256 (−0.95%), median −$597,
+  5th/95th −$2,352/+$2,985. 200k-run Monte Carlo, `analysis/2026-09-15-outcome-model.py`.
+- **Branches:** cloture clears 35% (P(up)=91%) · fails 55% (P(up)=3%) · pulled 10% (P(up)=23%).
+  **P(make money) ≈ P(cloture) + 1pt.**
+- **Correction logged:** the "~33%" given on 14 Sept was prediction-market pricing for
+  **signed into law in 2026**, which is strictly harder than cloture. P(cloture) must be
+  *higher*. Back-solved to 35%, which reproduces the 28% market midpoint exactly.
+- **Correction logged:** **"dead until 2029" was overstated.** Kalshi prices ~53% for
+  market-structure law before Oct 2027. A failed cloture likely kills the 2026 window, not
+  the bill. Stop repeating the 2029 line.
+- **Tillis probably flips to yes** — his stated condition (WH won't engage on ethics) was
+  removed over the weekend. Earlier note listing him as a defection is superseded.
+- **Named Dem bloc:** Alsobrooks, Booker, Cortez Masto, Gallego, Hickenlooper, Warner,
+  Warnock (said falls short), plus Gillibrand's specific condition. Need 9–10.
+- **Key reframe delivered:** even XRP at $2.00 (analyst upside, +41%) puts the Robinhood
+  sleeve at only **+$151**. He has treated 15 Sept as the recovery event for a month; it
+  never was. Keep saying this.
+- **Recommendation: hold.** Neither buying nor selling has an edge at 35%; holding has no
+  tax bill.
+
 ## Still unknown
 
 - **State of residence** (gates the tax-gain-harvesting recommendation)
