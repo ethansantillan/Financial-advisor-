@@ -186,6 +186,21 @@ unknown for the whole engagement. Consequences, in order of urgency:
    pretending the plan is still running.
 6. **The job is the highest-value item in the engagement.** Not any trade.
 
+## Event week — 15 Sept 2026
+
+- **He thought the vote had happened.** It had not; he had crossed midnight into the 15th.
+  Vote is **15 Sep, 2:15 PM ET**. Second date-anchoring near-miss in this engagement —
+  **always run `date -u` before answering any "what happened" question.**
+- **Gate 2 is a rate HIKE, ~90% odds, 16 Sep** — first since 2023, two priced by year-end;
+  Aug CPI 3.4%, core +0.3% m/m. This re-rates every long-duration asset he owns and was
+  not in any earlier plan. Treat as the dominant macro fact going into 2027.
+- Portfolio **+$156.13 (+1.20%)** 9→15 Sep; **95% of it XRP**, BTC down. Net worth ≈$26,980,
+  XRP 25.9%, crypto 49.0%. Robinhood XRP sleeve −$1,175.77; break-even needs +36.2%.
+- **Standing recommendation given: no action until Wednesday evening.** No adding to XRP,
+  no stop into a binary (gap risk), no tax-loss harvest across the two events.
+- **Open item for Thursday: the XRP tax-loss harvest.** No wash-sale rule on crypto, so
+  sell-and-rebuy banks a ~$1,176 carryforward with no position change. Deferred, not dropped.
+
 ## Still unknown
 
 - **State of residence** (gates the tax-gain-harvesting recommendation)

@@ -2,7 +2,8 @@
 
 Crypto market research, risk framework, and stop-loss planning.
 
-- [`analysis/2026-09-10-no-income-revision.md`](analysis/2026-09-10-no-income-revision.md) — **Current.** No income: the $2,700 Roth contribution may be an excess contribution, the Roth advice is withdrawn, and the 0% capital-gains window is open. **Supersedes the Roth section of the equity screen.**
+- [`analysis/2026-09-15-two-gates.md`](analysis/2026-09-15-two-gates.md) — **Current.** Event day: the CLARITY cloture vote at 2:15pm and a ~90%-odds Fed *hike* the next afternoon. Seat math, branches, and why the answer is no action until Wednesday.
+- [`analysis/2026-09-10-no-income-revision.md`](analysis/2026-09-10-no-income-revision.md) — No income: the $2,700 Roth contribution may be an excess contribution, the Roth advice is withdrawn, and the 0% capital-gains window is open. **Supersedes the Roth section of the equity screen.**
 - [`analysis/2026-09-10-equity-screen.md`](analysis/2026-09-10-equity-screen.md) — Twenty-one AI-infrastructure tickers screened: three ticker errors (EWI is Italy, not Korea), why all 21 are one bet, leveraged-ETF decay, and the Roth allocation.
 - [`analysis/2026-09-05-week-of-sept-15.md`](analysis/2026-09-05-week-of-sept-15.md) — Two binary events 24h apart (CLARITY cloture + FOMC), both skewed down, and the pre-event plan.
 - [`analysis/2026-08-28-full-picture.md`](analysis/2026-08-28-full-picture.md) — Full net-worth view: 52% crypto, $100 cash, and the emergency-fund-first plan. **Supersedes earlier sizing.**
