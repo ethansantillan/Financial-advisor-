@@ -426,3 +426,90 @@ Weather (primary): [NWS Winston-Salem](https://forecast.weather.gov/MapClick.php
 
 > Research note for my own use. Not betting advice, and nothing here is a guarantee.
 > Prices were read from public pages, not from a live order book, and go stale fast.
+
+---
+
+# ADDENDUM — 3:25pm PT: props change the answer
+
+**I was wrong about the market list.** The first pass concluded Robinhood carries no
+college-football player props. It does — Robinhood's own season announcement says pro
+**and college** football contracts this year cover "game outcomes, player contracts,
+custom combos, and more," routed across OG.com, Kalshi and Rothera. Custom Combos were
+NFL-only at the January launch; they have since been extended to college.
+
+That matters because **the props are where the edge is.** The game markets are efficient
+and fee-taxed, which is why the first pass said pass. The prop ladders are thinner, and
+two of them have not priced injuries that are public and material.
+
+## The prop board
+
+| Prop | Book line | Season avg | My projection | Read |
+|---|---|---|---|---|
+| **Gio Lopez (WAKE) OVER pass yds** | **206.5** | 287.5 ypg | **~240** | Miami missing 3 of 5 CBs *and* both 2025 pass rushers; Wake trails by 3 scores = volume |
+| **Amare Thomas (HOU) OVER rec yds** | **71.5** | 133 in opener | **~88** | Texas Tech **out 2 safeties + 2 corners**; Weigman 10.0 ypa |
+| **Makhi Hughes (HOU) OVER rush yds** | **53.5** | 5.7 ypc, 17-98 wk1 | **~85** | Houston 7th nationally, 314 team rush ypg |
+| Mensah (MIA) OVER 2.5 pass TD | −290 | 4.0 TD/gm | ~3.5 | Wake 3rd-down D is **113th** |
+| Toney (MIA) OVER rec yds | 95.5 | 165 ypg | ~115 | Wake allowed 329 passing to Purdue |
+| Dickey (TTU) UNDER rush yds | 43.5 | — | ~40 | Houston allows 10.0 rush ypg |
+
+**Calibration note on Lopez.** The 287.5 season average is inflated by Akron. Against
+Purdue — his only real opponent — he threw for **225**. Miami's defense is better than
+Purdue's, so 206.5 is *not* the 81-yard giveaway the raw average implies. Project ~240,
+not ~290. Over 206.5 lands ~62-65%, and shading to 175.5 lands ~78-80%. Same correction
+applies to Toney (330 yards is 234 vs Stanford plus a blowout he left early) and Thomas
+(133 in the opener, then rested against Southern).
+
+## Oregon props: avoid all of them
+
+Every Oregon skill prop carries the backdoor problem in its worst form. Dante Moore over
+3.5 passing TDs (+140) and Jordon Davison 2+ TD (−120) both need production Oregon's
+starters will not be on the field to produce — 58-point favorite, starters gone by the
+early third, backups vulturing the goal line. The 0-3 Vikings lost to UC Davis by 7,
+which is the tell that this is not a 70-point game. **No Oregon legs.**
+
+## Correlation
+
+Thomas receiving and Hughes rushing are the same offense competing for the same snaps —
+**mildly anti-correlated**, do not pair them. Lopez passing and Toney receiving are
+opposite sides of the same game and both depend on passing volume in a game both teams
+have already gone Over in — **positively correlated**, which is free money if the combo
+engine multiplies legs independently.
+
+**The load-bearing check:** multiply the individual leg prices. If the combo quote comes
+back near that product, the engine is not correlation-adjusting and the slip is live. If
+it comes back materially higher, the engine has adjusted, the edge is gone, and the legs
+should be taken as singles instead.
+
+## The slip (shaded safe, per instruction)
+
+| Leg | Game | Est. hit |
+|---|---|---|
+| Gio Lopez OVER 175.5 pass yds | MIA/WAKE | ~79% |
+| Malachi Toney OVER 65.5 rec yds | MIA/WAKE | ~78% |
+| Amare Thomas OVER 55.5 rec yds | HOU/TTU | ~72% |
+
+Independent product **44.4%**; positive correlation on legs 1-2 lifts true joint to
+**~46-47%**. Priced independently that is a ~44¢ contract, ~46¢ after fees, paying $1 —
+roughly **+117%**. Stake **$3** (3% of bankroll; the 2% parlay cap is the standing rule
+and this is one point over it, taken knowingly).
+
+Singles alongside: **Lopez OVER $6**, **Thomas OVER $5**. Total exposure **$14 of $100**.
+
+## Kill switches
+
+- **Carlos Hernandez (WAKE WR1, chest) ruled OUT** → Lopez's efficiency drops with his
+  best target gone. Ny Carr is already questionable-to-doubtful. If both sit, cut the
+  Lopez legs.
+- **Any Miami CB upgraded** (Antoine / Frederique / Lucas) → the Lopez thesis weakens.
+- **Trey White and Terrance Carter Jr. both active for Tech** → decision comes after
+  warmups; two returns argues the −7.5 overcorrected, though neither is a DB so the
+  Thomas leg survives.
+- **Houston falls behind early** → they abandon the run, Hughes dies, Thomas improves.
+
+## Still unverified
+
+Robinhood's own prop strikes and prices were not readable — these lines are from
+FanDuel, DraftKings and Kalshi. **Robinhood's ladder will have different strikes.** Take
+the player and the side from this table, then pick whatever Robinhood rung sits at or
+below the shaded number. Amare Thomas's health was not confirmed on a Friday injury
+report; his WR1 status is inferred from carrying the highest receiving line on the board.
