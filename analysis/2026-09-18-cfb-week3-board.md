@@ -513,3 +513,127 @@ FanDuel, DraftKings and Kalshi. **Robinhood's ladder will have different strikes
 the player and the side from this table, then pick whatever Robinhood rung sits at or
 below the shaded number. Amare Thomas's health was not confirmed on a Friday injury
 report; his WR1 status is inferred from carrying the highest receiving line on the board.
+
+---
+
+# DEEP DIVE — 3:30pm PT: schemes, personnel, coaching history
+
+## Houston at Texas Tech — the matchup that decides the slip
+
+### The single most important stat on this board
+
+Texas Tech gave up **407 passing yards to Oregon State last week** — 8.0 yards per
+attempt, 60% completion, and **182 yards after the catch**. Oregon State's *freshman*
+receiver Jesse Legree went **7 catches, 228 yards, 2 TD** in his second career game,
+"consistently finding gaps and openings in the Texas Tech secondary." DC Shiel Wood
+admitted the staff knew Oregon State would push the ball downfield and could not stop it.
+
+Now connect it: **Houston beat that same Oregon State team 33-20 in Week 1, and Amare
+Thomas went 8 catches for 133 yards in that game.** Houston's passing offense is better
+than Oregon State's, and Oregon State just hung 407 on Tech.
+
+### Why Thomas specifically, not just "a Houston receiver"
+
+Thomas is an **elite slot receiver** — preseason All-America, 966 yards and 11 TD in 2025,
+and he accounted for **more than a third of Weigman's passing yards**. The slot works the
+nickel and the middle-of-field safety area. That is *exactly* where Texas Tech is
+injured: **out are both starting safeties (Mikal Harrison-Pilot, Oliver Miles III) and two
+corners (Ashton Hampton, Amier Boyd)**.
+
+And the 182 YAC figure is the tell. YAC is a slot receiver's entire business. Texas Tech
+is not just getting beaten over the top, it is failing to tackle in space, with backups
+now doing the tackling.
+
+Texas Tech's base is a **multiple 3-4** under Wood, second year, with Rob Greene added as
+co-DC. A 3-4 with four DBs out will lean zone to protect inexperienced coverage players.
+Zone is what feeds a slot receiver underneath — high floor, exactly what a shaded-down
+line wants.
+
+### The counterweight, stated honestly
+
+**Texas Tech beat Houston 35-11 last season** — the only time Houston was crushed in a
+10-win year. And **Shiel Wood was Houston's defensive coordinator before Texas Tech hired
+him**; he knows this personnel intimately, and he has said publicly that pressure on
+Weigman is the must. Joey McGuire calls Houston the best team Tech has faced in two years,
+so nobody is sleepwalking.
+
+What blunts it: Wood left after 2024, and Houston's offense is now Slade Nagle's, in year
+two with "tremendous continuity" after a rebuilt offensive line. Wood knows the players,
+not the current scheme. And Tech's secondary in that 35-11 game was healthy.
+
+Net: the injury edge is real and specific, the coaching edge argues against a blowout
+Houston passing night. Both can be true — which is the argument for **shading the line
+down rather than reaching for the full number**.
+
+## Miami at Wake Forest
+
+### Miami's secondary is genuinely patched together
+
+Xavier Lucas is out "about a month." O.J. Frederique Jr. has a shoulder injury from the
+opener. Ja'Boree Antoine went down before the season. The replacements: **Damari Brown**,
+a redshirt junior making his first start of the season with his own injury history, and
+**Bryce Fitzgerald**, a sophomore *safety* playing corner and nickel depending on package.
+Safety Dylan Day returns for this game, which helps depth but not at corner.
+
+On top of that, Miami lost **both** primary 2025 pass rushers — Rueben Bain Jr. and Akheem
+Mesidor — to the NFL. Patched coverage plus a diminished rush is the combination that
+lets a quarterback sit in the pocket.
+
+### But do not overrate the opening
+
+Corey Hetherman's defense is not a soft touch. In year one he took Miami to **12th in
+total defense, 5th in scoring defense, 6th in rushing defense and 4th in sacks — first in
+the ACC in all four** — and he is a returning national-award finalist running a 4-2-5 whose
+hybrid position is built to absorb exactly this kind of injury flexibility.
+
+### Wake's offense is built to throw here
+
+Jake Dickert is in year two off a nine-win debut. OC **Rob Ezell is reunited with Gio
+Lopez from South Alabama** — Lopez already knows this system cold. Ezell runs spread
+tempo with a heavy RPO base and high-efficiency passing, and the stated year-two plan is
+to **shift further toward the pass** after 2025 leaned run. Lopez carries a **seven-game
+no-interception streak**. Wake's third-down defense ranking 113th means Miami keeps
+scoring, which keeps Wake throwing.
+
+### The calibration that matters
+
+Lopez's 287.5 ypg average is padded by Akron. Against Purdue, his only real opponent, he
+threw for **225**. Miami's defense is a large step up from Purdue's, and his top target is
+hurt. The 206.5 line is **not** the giveaway the raw average suggests — it is roughly
+fair. Project ~230, not ~290. This is a lean, not a steal.
+
+**Carlos Hernandez (11 rec, 253 yds) is questionable** — he left the Akron game late in
+the second quarter after a hard hit to the midsection and sat as a precaution, per
+Dickert, struggling to get his wind back. Ny Carr is questionable-to-doubtful. If both
+sit, Lopez is throwing to his third and fourth options against an elite scheme.
+
+## Portland State at Oregon — unchanged, still no
+
+Nothing in the deeper read moves this. Every Oregon skill prop needs production the
+starters will not be on the field to generate.
+
+## Final prop ranking
+
+| Rank | Prop | Line | Projection | Conviction |
+|---|---|---|---|---|
+| **1** | **Amare Thomas OVER rec yds** | 71.5 | **~90** | Highest. Slot vs 4 missing DBs, 182 YAC allowed, 8-133 vs the same OSU team |
+| **2** | **Mensah OVER 2.5 pass TD** | −290 | ~3.5 | Safest floor. 8 TD in 2 games vs a 113th-ranked 3rd-down defense |
+| **3** | **Makhi Hughes OVER rush yds** | 53.5 | **~80** | Strong, but dog game script can kill it |
+| **4** | **Gio Lopez OVER pass yds** | 206.5 | **~230** | Downgraded. Fair line, not a steal. WR1 questionable |
+| 5 | Toney OVER rec yds | 95.5 | ~110 | Blowout risk — he sits in the 4th |
+| — | **All Oregon props** | — | — | **Avoid entirely** |
+
+## The slip (shaded, no internal conflict)
+
+| Leg | Game | Est. |
+|---|---|---|
+| Amare Thomas OVER **55.5** rec yds | HOU/TTU | ~73% |
+| Darian Mensah OVER **2.5** pass TD | MIA/WAKE | ~79% |
+| Gio Lopez OVER **175.5** pass yds | MIA/WAKE | ~77% |
+
+Legs 2 and 3 are positively correlated — Miami scoring touchdowns puts Wake behind, which
+adds Lopez volume. **Do not** add Hughes to a slip containing Thomas: same offense,
+competing for the same snaps, mildly anti-correlated.
+
+Independent product **44.4%**, correlation lifts it to **~46%**. Stake **$3**.
+Singles: **Thomas $6**, **Mensah $5**. Exposure **$14 of $100**.
