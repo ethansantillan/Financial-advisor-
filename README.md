@@ -1,7 +1,8 @@
 # Financial-advisor-
 
-Crypto market research, risk framework, and stop-loss planning.
+Crypto market research, risk framework, stop-loss planning, and bankroll notes.
 
+- [`analysis/2026-09-18-cfb-week3-board.md`](analysis/2026-09-18-cfb-week3-board.md) — Three CFB Week 3 games priced on Robinhood: the answer is pass. Robinhood's ~2c/contract fee is ~4% of stake at mid prices (a 52% break-even, ~-108), there are no parlays on the platform, and every rung on the board prices 1-4 points worse than the vig-free consensus.
 - [`analysis/2026-09-15-odds-board.md`](analysis/2026-09-15-odds-board.md) — **Current.** Calibrated Monte Carlo: ~35% chance of making money, expected −$256, and two corrections — cloture odds ≠ passage odds, and "dead until 2029" was too strong.
 - [`analysis/2026-09-15-two-gates.md`](analysis/2026-09-15-two-gates.md) — Event day: the CLARITY cloture vote at 2:15pm and a ~90%-odds Fed *hike* the next afternoon. Seat math, branches, and why the answer is no action until Wednesday.
 - [`analysis/2026-09-10-no-income-revision.md`](analysis/2026-09-10-no-income-revision.md) — No income: the $2,700 Roth contribution may be an excess contribution, the Roth advice is withdrawn, and the 0% capital-gains window is open. **Supersedes the Roth section of the equity screen.**
