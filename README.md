@@ -2,6 +2,7 @@
 
 Crypto market research, risk framework, stop-loss planning, and bankroll notes.
 
+- [`analysis/2026-09-19-cfb-week3-saturday.md`](analysis/2026-09-19-cfb-week3-saturday.md) — Friday scored: props went 5-0 and both slips cashed, while the loudest "sharp money" read (the Lubbock under) was the one lean that lost. Every injury-driven projection was 50-70 yards too low. Tonight repeats the setup at LSU-Ole Miss.
 - [`analysis/2026-09-18-cfb-week3-board.md`](analysis/2026-09-18-cfb-week3-board.md) — Three CFB Week 3 games priced on Robinhood: the answer is pass. Robinhood's ~2c/contract fee is ~4% of stake at mid prices (a 52% break-even, ~-108), there are no parlays on the platform, and every rung on the board prices 1-4 points worse than the vig-free consensus.
 - [`analysis/2026-09-15-odds-board.md`](analysis/2026-09-15-odds-board.md) — **Current.** Calibrated Monte Carlo: ~35% chance of making money, expected −$256, and two corrections — cloture odds ≠ passage odds, and "dead until 2029" was too strong.
 - [`analysis/2026-09-15-two-gates.md`](analysis/2026-09-15-two-gates.md) — Event day: the CLARITY cloture vote at 2:15pm and a ~90%-odds Fed *hike* the next afternoon. Seat math, branches, and why the answer is no action until Wednesday.
