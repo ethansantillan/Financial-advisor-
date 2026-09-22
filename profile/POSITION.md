@@ -229,3 +229,25 @@ unknown for the whole engagement. Consequences, in order of urgency:
 - **2026 odd-job income to date** (gates the Roth excess-contribution question)
 - Kraken XRP cost basis
 - Purpose of the $350 pending BE (Bloom Energy) order — ~10% of cash into one volatile stock
+
+## Aftermath — 22 Sept 2026
+
+- **Cloture failed 49–50** (Collins, Hawley, Moran no; Tillis no procedurally and filed a
+  motion to reconsider; every Democrat no). **Fed hiked to 3.75–4.00%**, 12–0.
+- XRP $1.49 (pre-vote) → **$1.28** (16 Sep) → **~$1.55** (22 Sep). BTC ~$75k → **~$86k**.
+  Drivers: oil falling on Hormuz relief, ~$650–770M short squeeze, SEC innovation
+  exemption (17 Sep). **XRP ETF flows were NOT a driver** (~$10–13M that week).
+- **He held and was right to by ~$270+** against the 5 Sept sell plan. Conceded. The final
+  pre-vote rec was hold, which he followed. The 48h model was right on branch and size
+  (−$690 vs −$597 median); nothing modelled the week after.
+- **Watch for "resulting":** he may now conclude conviction beats analysis. Push back on
+  the lesson, not the outcome.
+- Crypto ≈ $14,511, NW ≈ $28,280 (non-crypto not re-priced). **XRP ≈ 27%, crypto ≈ 51%,
+  both up.** Robinhood XRP sleeve −$878; break-even needs +24.8% ($1.934).
+- XRP/BTC: +1.6% since 9 Sep, **−7% since vote morning.** Up in dollars, flat-to-down vs BTC.
+- CLARITY odds for 2026: Polymarket 5.9%, Kalshi 8.4%. Next Senate period 5 Oct – 6 Nov;
+  realistic windows are the lame duck or 2027.
+- **Levels:** $1.55–1.60 resistance (~2.5B XRP last traded here) · $1.93 his break-even
+  trap · $1.28–1.30 failure line.
+- **Recommendation:** hold, don't add. If trimming on size, take it from Kraken or >1yr lots
+  into BTC, not from Robinhood lots at a loss.
