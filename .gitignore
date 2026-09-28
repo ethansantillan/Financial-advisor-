@@ -1,2 +1,8 @@
 # Personal details kept out of git while this repo is public
 *.local.md
+tools/node_modules/
+# Generated resumes and letters contain the phone number; rebuild with tools/build.sh
+jobs/**/*.pdf
+jobs/**/*.docx
+profile/*.pdf
+profile/*.docx

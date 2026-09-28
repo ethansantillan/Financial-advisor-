@@ -1,55 +1,57 @@
-# Master resume — current state (untailored)
+<!--
+Master resume, Phase 1 rewrite, 28 Sep 2026. Proposed; waiting on Ethan's approval.
+Every line traces to profile/experience-bank.md. Where Ethan's own resumes disagree,
+this uses the conservative version (GMV not revenue, units not orders) or leaves the
+number out (gym volume, table counts, fraternity dates).
+Items to confirm before this goes out: Crew Lead is current ("Present"), Phi Chi Theta dates.
+Build: tools/build.sh profile  (writes master-resume.docx/.pdf via a copy named resume.md)
+-->
+# Ethan Santillán
+Gridley, CA 95948 | {{PHONE}} | ethansantillan03@yahoo.com | linkedin.com/in/ethansantillan
+Valid driver's license, clean DMV record, reliable vehicle | Open to daily territory travel
 
-*Consolidated 28 Sep 2026 from the three Drive resumes and the Indeed profile. This is the starting point, not the finished product: `[CONFIRM]` marks facts where your own resumes disagree. The Phase 1 rewrite happens once those are settled. See `reports/2026-09-28.md` for the audit.*
+## Summary
+Business Administration graduate (CSU Chico, Dec 2025) who sells face to face and leads in the field. Sold memberships and day passes across 20–30 customer conversations a shift as a campus gym supervisor, drove $4,920 in sales through an 88-product TikTok Shop storefront with no ad budget, and grew a business fraternity's membership 116%. Currently leading 10–20 person installation crews on commercial jobsites.
 
----
+## Experience
+### Affordable Installation — Northern California
+**Installation Crew Lead | Jul 2026 – Present**
+- Lead crews of 10–20 on multi-floor commercial installations at university, military, and corporate sites as the client's on-site point of contact for accurate, on-time delivery.
+- Manage expectations with site contacts, resolve issues on the spot, and close each project with a clean handoff.
+- Coordinate full semi-truck shipments and multi-day inventory so crews and customers never wait on equipment.
 
-ETHAN SANTILLAN
-Gridley, CA 95948 | {{PHONE}} | ethansantillan03@yahoo.com | {{LINKEDIN}}
-Valid U.S. driver's license and reliable vehicle | Open to travel
+**Road Dog Crew Member (Seasonal) | 2016 – 2024**
+- Returned eight consecutive seasons for multi-site commercial projects (loading, moving, assembling, and replacing furniture on deadline); promoted to Crew Lead in 2026.
 
-SUMMARY
-Recent business graduate (CSU Chico, Dec 2025) with two-plus years supervising a high-volume university gym, a self-built fitness content brand with [CONFIRM: ~8M total / ~5M per year] views, and a 116% membership increase as marketing director of a professional business fraternity. Comfortable with the public, on camera, and in front of a room; used to physical, deadline-driven field work.
+### WREC Gym, California State University, Chico — Chico, CA
+**Supervisor, Membership & Sales Operations | Aug 2023 – Dec 2025**
+- Sold memberships and day passes face to face, holding 20–30 needs-based conversations per shift: learning each customer's goal, handling objections, and asking for the sale.
+- Matched members to the right option rather than the easiest sell, building recurring relationships with regulars.
+- Key-holder for opening and closing; logged equipment issues, submitted work orders, and coordinated repairs with leadership.
+- Trained and coached new hires on service standards, safety policy, and incident documentation; led escalations, including emergency response to injuries.
 
-EXPERIENCE
+### Fitness Content Brand and TikTok Shop Storefront — Gridley, CA
+**Founder & Operator | 2023 – Present**
+- Drove 252 units and $4,920 in settled GMV (earning $852 in commission) in five months, May–Oct 2025, through an 88-product TikTok Shop storefront of apparel, supplements, and lifestyle goods, with no ad budget.
+- Grew an audience from zero to 3M+ YouTube and 5M+ TikTok views by turning technical training concepts into plain-language video; reviewed engagement and conversion metrics weekly and adjusted content and offers.
 
-Installation Crew Lead — Affordable Installation | California | [CONFIRM: Jul 2026 – Present]
-- [CONFIRM: scope, crew size, jobs per week]
+### Shifflet Brothers Enterprises — Oroville, CA
+**Project Intern | Jun 2018 – Aug 2021**
+- Kept inventory records matched to physical stock across a 120-acre equipment yard.
+- Operated forklifts, loaded and unloaded trucks, processed driver paperwork, and organized work orders.
 
-Founder & Operator, Fitness Content Brand | Self-directed | [CONFIRM: Jan 2023] – Present
-- Built a fitness content brand across YouTube and TikTok with [CONFIRM: ~3M YouTube + ~5M TikTok views, or ~5M+ views per year].
-- Turned technical training concepts into plain-language short- and long-form video for a broad audience.
-- Reviewed engagement metrics weekly to find what grew the audience and adjusted content accordingly.
-- [CONFIRM: storefront product, platform, revenue/orders]
+### Additional Experience
+Pour House Restaurant, Chico, CA — Service Support (Service, Expo, Bar & Bussing), May 2024 – Dec 2024 · Raley's, Chico, CA — Meat Clerk, May 2022 – Aug 2022
 
-Supervisor — WREC Gym, California State University, Chico | Chico, CA | Aug 2023 – Dec 2025
-- Supervised floor operations serving [CONFIRM: 200–500+ patrons per day or per hour] while enforcing safety and facility policy.
-- Held [CONFIRM: 20–30 per shift or 10–25 per hour] one-on-one member conversations: identifying goals, guiding equipment use, resolving issues.
-- Trained and coached new hires on procedures, safety, and member-service standards, improving consistency across shifts.
-- Documented incidents and led escalations, including emergency response to injuries.
-- Logged equipment issues, submitted work orders, and coordinated repairs with leadership.
+## Leadership
+### Phi Chi Theta, Professional Business Fraternity — CSU Chico
+**Marketing Director**
+- Grew chapter membership 116% by rebuilding its outreach: structured prospect targeting, campus booths, social posting, and a weekly follow-up cadence.
+- Delivered weekly presentations to pledge classes of 20+ and delegated work across a marketing committee.
 
-Busser / Food Runner / Bar Support — Pour House Restaurant | Chico, CA | May 2024 – Dec 2024
-- Supported ~15 tables per shift in a high-traffic restaurant; resolved guest complaints with servers and kitchen.
+## Education
+### California State University, Chico — Chico, CA
+**B.S. Business Administration, Entrepreneurship; Minor in Management | Dec 2025**
 
-Meat Clerk — Raley's | Chico, CA | May 2022 – Aug 2022
-- Stocked, produced, and merchandised product; maintained food safety standards while serving customers.
-
-Project Intern — Shifflet Brothers Enterprises | Oroville, CA | Jun 2018 – Aug 2021
-- Kept a large equipment yard's inventory records matched to physical stock; handled work orders and driver paperwork; loaded and unloaded trucks.
-
-Road Dog Crew Member (Seasonal) — Affordable Installation | California | [CONFIRM: Jan or May 2016] – May 2024
-- Installation and logistics crew: loading, moving, and assembling furniture on deadline.
-
-LEADERSHIP
-
-Marketing Director & Pledge Educator — Phi Chi Theta, Professional Business Fraternity | [CONFIRM: Jul 2022 – Oct 2022 or Jan 2024]
-- Grew membership 116% [CONFIRM: from X to Y] through direct outreach, on-campus booths, social posting, and consistent follow-up.
-- Delivered weekly presentations to pledge classes of ~21; delegated work across a marketing committee.
-
-EDUCATION
-California State University, Chico — B.S. Business Administration, Entrepreneurship; Minor in Management | Dec 2025
-[CONFIRM: GPA if 3.0+, relevant coursework]
-
-SKILLS
-Microsoft Excel, PowerPoint, Word | Video production and on-camera presentation | Engagement analytics | Group presentations (20+) | Customer service and escalation | Safety and incident documentation | New-hire training | Physical work (50+ lbs, ladders)
+## Skills
+Face-to-face selling · Prospecting and follow-up · Crew leadership and jobsite logistics · Forklift, truck loading, inventory reconciliation · Work orders and driver paperwork · On-camera video · Engagement analytics · Excel, PowerPoint, Word

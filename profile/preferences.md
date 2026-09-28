@@ -1,41 +1,36 @@
 # Job preferences
 
-*Draft, 28 Sep 2026. Pre-filled from your Indeed profile and the direction of your existing resumes. Everything marked ❓ is waiting on your answers in `reports/2026-09-28.md`.*
+*Updated 28 Sep 2026. **Working defaults**, inferred from your two newest resumes and your Indeed profile, so the search could start today. Change anything and I'll re-rank.*
 
-## Target roles ❓ (rank these)
+## Target roles (working ranking)
 
-Inferred from the resumes you've already tailored (Home Depot vendor rep, Fidelity, clinical/territory sales) and your Indeed skills list:
-
-| Track | Example titles | Typical entry pay seen 28 Sep | Fit today |
+| # | Track | Why it's ranked here | Example titles |
 |---|---|---|---|
-| A. B2B outside sales trainee | Outside Sales Trainee, Sales Representative, Territory Sales Rep, Business Development Associate (equipment rental, building products, distribution, auto software) | $50–75k base + commission | Strong: degree, field/equipment background, license and car |
-| B. Retail / field merchandising sales rep | Retail Sales Representative, Field Sales Rep, Vendor Rep (manufacturer reps in Home Depot/Lowe's) | $40–60k | Strong |
-| C. Financial services rep | Financial Representative, Registered Rep Trainee, Relationship Banker | $45–65k | Moderate (firms sponsor licenses) |
-| D. Medical device / pharma associate sales | Associate Sales Rep, Clinical Sales Specialist, Associate Territory Manager | $54–100k | Stretch: most want 1–2 years of B2B sales |
-| E. Marketing / content | Marketing Coordinator, Social Media Coordinator, Content Specialist | $45–60k | Moderate: depends on the content-brand numbers |
-| F. Inside sales / SDR (remote-eligible) | Sales Development Rep, Business Development Rep | $50–80k OTE | Moderate |
+| 1 | **Equipment, industrial, and building-products B2B sales** | Your 9 Sep resume and Indeed profile are built for it; the 120-acre yard, forklift work, and crew-lead job give you real footing with contractors | Outside Sales Rep, Territory Sales Rep, Sales Trainee, Inside/Counter Sales (as a path to outside), Account Manager Trainee, Business Development Associate |
+| 2 | **Entry-level sales trainee programs** (any B2B industry) | Structured training, base salary, and a car or allowance; built for new grads | Outside Sales Trainee, Sales Development Associate, Management Trainee (sales track) |
+| 3 | **Fitness and wellness industry sales** | Your June resume targets it; the content brand, storefront, and gym sales job are direct evidence | Fitness Equipment Sales Rep, Commercial Account Rep, Territory Rep (fitness/nutrition brands) |
+| 4 | Retail / field merchandising rep | Fits, but usually pays below the floor | Retail Sales Rep, Field Merchandising Rep |
+| — | Parked until you say otherwise: medical device/pharma (usually wants 1–2 years of B2B sales), financial services, marketing coordinator, remote SDR | | |
 
-- Seniority: entry level (also search "I", "Junior", "Associate", "Trainee", "New Grad", "Early Career"). ❓
-- Industries excited about: ❓
-- Industries you won't work in: ❓
-- Commission-only / 1099 roles: **proposed hard filter** (the local market is full of them, often dressed up as "$100k–$250k"). ❓
+- Seniority: entry level. Search terms include Trainee, Associate, I, Junior, New Grad, Early Career.
+- **Hard filter: commission-only, 1099, "independent contractor," MLM-style insurance and solar door-to-door.** (Working default; reverse it if you want.)
 
-## Location ❓
+## Location
 
-- Lives in Gridley, CA 95948 (Butte County). Nearby hubs: Yuba City/Marysville (~25 min), Chico (~35 min), Oroville (~25 min), Sacramento (~1 hr 10 min).
-- Indeed profile says **not willing to relocate**. ❓ still true?
-- Max commute: ❓ · Remote / hybrid / onsite preference: ❓
-- Field territory roles based from home: resume says open to overnight travel. ❓ max nights per month?
+- Home base: Gridley, CA 95948.
+- **Working commute limit: ~75 min each way.** That covers Chico, Oroville, Yuba City/Marysville, Colusa, Willows, Sacramento, and Roseville/Rocklin. Field-territory roles covering the North Valley count as local even if the office is farther.
+- **Relocation: no** (Indeed profile). Remote: yes, if it clears the floor.
+- Daily territory travel: yes. Overnight: yes (limit ❓).
 
-## Compensation ❓
+## Compensation
 
-- Floors are kept in `profile/private.local.md` while this repo is public. Indeed profile says **$50,000/year minimum**.
-- Needed: floors for local, remote, and relocating; and whether the floor applies to **base salary** or to **total pay including commission** (matters a lot in sales).
+- Floor: **$50,000/year** (Indeed profile). Treated as **base or guaranteed pay**, not "OTE up to." Local, remote, and relocating floors ❓.
+- Cost-of-living adjustment: the whole search area is Northern California, so no adjustment between local options. Remote roles are compared to the same $50k floor.
 
-## Work terms ❓
+## Work terms
 
-- Full-time. Part-time or contract? ❓
-- Start date: ❓
-- Shift limits: open to weekends [R2] ✅
+- Full-time. Weekends OK. Start date ❓ (assumed immediate, pending the crew-lead question).
 
-## Dealbreakers ❓
+## Dealbreakers
+
+- None stated yet ❓

@@ -1,108 +1,120 @@
 # Experience bank — Ethan Santillan
 
-*Draft built 28 Sep 2026 from four sources. All tailoring pulls from here. Nothing goes on a resume unless it is in this file.*
+*Updated 28 Sep 2026 with the two resumes uploaded today. All tailoring pulls from here. Nothing goes on a resume unless it is in this file.*
 
-**Sources**
-- **[R1]** Drive, "ETHAN SANTILLÁN RESUME" (3 Mar 2026). Clinical/territory-sales version.
-- **[R2]** Drive, "Resume ETHAN SANTILLAN" (12 Jan 2026). Home Depot vendor-rep version. The most detailed one, and the only one with full dates.
-- **[R3]** Drive, "Fidelity Resume" (3 Mar 2026). Financial-sales version.
+**Sources** (newest first)
+- **[R4]** Uploaded PDF "Ethan Santillan Resume", created 9 Sep 2026. Equipment / territory-sales version. Matches the Indeed skills list, so probably the one on Indeed.
+- **[R5]** Uploaded PDF, created 23 Jun 2026. Fitness-industry commercial-accounts version.
 - **[IN]** Indeed profile (pulled 28 Sep 2026).
+- **[R1]** Drive "ETHAN SANTILLÁN RESUME" (3 Mar 2026). Clinical/territory version.
+- **[R3]** Drive "Fidelity Resume" (3 Mar 2026).
+- **[R2]** Drive "Resume ETHAN SANTILLAN" (12 Jan 2026). Home Depot version; most complete dates.
 
-**Status tags:** ✅ appears consistently across sources · ⚠️ sources conflict, **do not use until confirmed** · ❓ open question that would strengthen the bullet
+**Tags:** ✅ usable (consistent, or the conservative reading of your own statements) · ⚠️ your sources conflict, held out of resumes until you confirm · ❓ open question · ⛔ not backed by any role, don't use
 
 ---
 
 ## Contact and logistics
 
-- Gridley, CA 95948 · ethansantillan03@yahoo.com · phone in `profile/private.local.md` (kept out of git while the repo is public)
-- Valid U.S. driver's license, reliable vehicle and insurance [R2] ✅
-- Can lift up to 50 lbs and work on ladders [R2] ✅
-- Open to weekends, travel, and overnight travel with field territory coverage [R1][R2] ✅
-- Authorized to work in the U.S. [R3] ✅ (sponsorship not stated ❓)
+- Gridley, CA 95948 · ethansantillan03@yahoo.com · linkedin.com/in/ethansantillan [R4] ✅ · phone in `profile/private.local.md`
+- Valid U.S. driver's license, **clean DMV record** [R4], reliable vehicle and insurance [R2] ✅
+- Lift 50+ lbs, ladders; comfortable in yard, jobsite, and outdoor selling environments [R2][R4] ✅
+- Open to daily territory travel [R4], overnight travel [R1], hybrid work, trade show and event representation [R5], weekends [R2] ✅
+- Authorized to work in the U.S. [R3] ✅ · sponsorship ❓
+- Lifelong North Valley resident based in Gridley [R4] ✅. Knows Butte, Sutter, Yuba, Glenn, and Colusa counties [R4] ✅.
+- "Familiar with contractors and **growers** across five counties" [R4] ⚠️: contractors trace to installation and yard work; no role involves growers. Tell me where that comes from, or it stays out.
 
 ## Education
 
-**California State University, Chico.** B.S. Business Administration, Entrepreneurship option; Minor in Management. Graduated Fall 2025 (Dec 2025). [R1][R2][R3] ✅
-- GPA ❓ · honors ❓
-- Possible coursework from Drive file titles (confirm before using ❓): system dynamics modeling (causal loop diagrams, Vensim), simple linear regression, quantitative analysis paper, MGMT 456, MGMT 470, negotiation and conflict case study (Lincoln Hospital third-party intervention).
+**California State University, Chico.** B.S. Business Administration, Entrepreneurship concentration; Minor in Management. Graduated Fall 2025 (written as Dec 2025). [all sources] ✅
+- GPA ❓ · honors ❓ · coursework ❓ (Drive shows system dynamics / Vensim, regression, quantitative analysis, MGMT 456, MGMT 470)
 
 ---
 
 ## Experience
 
-### Installation Crew Lead — Affordable Installation
-*Jul 2026 – ? [IN only]* ⚠️
-- Appears only on Indeed. Not on any Drive resume. ❓ Is this current? What do you lead (crew size, jobs per week, type of client)?
-- Would close the gap between graduation (Dec 2025) and today if it's current.
+### Affordable Installation — Northern California (university, military, and commercial sites)
 
-### Founder & Operator — E-Commerce Storefront & Content Brand / Fitness Content Creator
-*Jan 2023 – Present [IN]. No dates on R1–R3.* ⚠️ title and dates
-- Built a fitness content brand on YouTube and TikTok. [R1][R2][R3] ✅
-- Views: ⚠️ **conflict.** R1/R3 say ~3M YouTube + ~5M TikTok (≈8M total, cumulative). R2 says ~5M+ views/year across platforms. Pick the true one.
-- Translated technical fitness concepts into plain-language education for a broad audience. [R1][R3] ✅
-- Analyzed engagement metrics weekly to find growth trends and adjust content strategy. [R1][R3] ✅
-- Posted consistently over multiple years without outside supervision. [R1][R3] ✅
-- Produced short-form and long-form content, including on-camera delivery. [R2] ✅
-- ❓ E-commerce side (Indeed says "Storefront"): what do you sell, on which platform (Drive has a "5-Day Plan to Get Jacked & Shredded" doc and there's a Stan account from Dec 2025; is that it?), revenue, orders, conversion rate, followers/subscribers per platform, any brand deals.
+**Installation Crew Lead · Jul 2026 – ?** [R4][IN]
+- Lead crews of 10–20 on multi-floor commercial installations; on-site point of contact accountable to the client for accurate execution and on-time delivery. [R4] ✅
+- Build working relationships with site contacts on university, military, and corporate projects: manage expectations, resolve issues on the spot, close out with a clean handoff. [R4] ✅
+- Coordinate full semi-truck shipments and multi-day inventory so crews and customers aren't waiting on equipment. [R4] ✅
+- Promoted to Crew Lead in 2026 after eight consecutive seasons. [R4] ✅
+- ⚠️ **End date.** R4 says "Jul 2026 – Nov 2026", which is a future date. Your 10 Sep finance note says "no annual income, occasional odd jobs." Is this project-based or seasonal work? Employment verification will ask, so the title should say so if it is (e.g., "Installation Crew Lead (Seasonal)"). Resumes currently show "Jul 2026 – Present."
 
-### Supervisor — WREC Gym, California State University, Chico
-*Chico, CA · Aug 2023 – Dec 2025* [R1][R2][R3] ✅ · Indeed title adds "Membership & Sales Operations" ❓
-- Volume: ⚠️ **conflict.** R1/R3 say 200–500+ patrons **per day**. R2 says 200–500+ **per hour**.
-- Member interactions: ⚠️ **conflict.** R1/R3 say 20–30 consultative conversations **per shift**. R2 says 10–25 **per hour**.
-- Trained and coached new hires on facility procedures, policy, safety/risk, member service, and communication standards; improved consistency across shifts. [R1][R2][R3] ✅ ❓ how many hires?
-- Enforced facility policies and safety protocols; completed incident documentation and handled escalations, including emergency response to injury events. [R1][R2] ✅
-- Equipment checks: logged issues, submitted work orders, coordinated repairs with leadership; kept zones organized and stations clean and accessible. [R2] ✅
-- Built recurring relationships with regular members, driving repeat engagement. [R3] ✅ ❓ any retention number?
-- Ran the floor independently during peak traffic. [R1][R3] ✅
-- Guided members on proper equipment use and spotting; identified individual goals. [R1][R2][R3] ✅
-- ❓ How many staff did you supervise per shift? Did you sell memberships, passes, or programs (Indeed title says "Membership & Sales")? How many, and what dollar value?
-- ❓ CPR/AED or First Aid certification (common for gym supervisors)?
+**Road Dog Crew Member (Seasonal) · 2016 – 2024** [R2][R4] ✅ (R2 says May 2016 – May 2024; IN says Jan 2016; years only is safe)
+- Eight consecutive seasons on multi-site commercial projects: loading and unloading, moving heavy items, assembling and replacing furniture on deadline. [R2][R4] ✅
 
-### Pour House Restaurant — Busser / Food Runner / Bar Support
-*Chico, CA · May 2024 – Dec 2024* [R1][R2] ✅
-- Supported ~15 tables per shift in a fast-paced, high-traffic service environment. [R1][R2] ✅
-- Handled customer questions and complaints calmly; coordinated with servers and kitchen to fix issues quickly. [R1][R2][R3] ✅
-- Maintained cleanliness and restocking standards; carried heavy bus tubs (3 at a time, ~30–40 lbs each). [R2] ✅
-- Built rapport with guests; repeat-customer interactions and positive feedback. [R2] ✅
+### Self-directed — Gridley, CA
 
-### Phi Chi Theta (Professional Business Fraternity) — Marketing Director & Pledge Educator
-*⚠️ dates conflict: Jul 2022 – Oct 2022 [R2] vs. Jan 2024 [IN]*
-- Grew membership 116% through direct outreach, on-campus promotion (booth setup, social posting), and consistent follow-up. [R1][R2][R3] ✅ ❓ from how many members to how many?
-- Organized and delivered weekly pledge presentations to groups of ~21 (R2) / 20+ (R1, R3). [R1][R2][R3] ✅
-- Delegated tasks across a marketing committee. [R2] ✅ ❓ committee size?
-- Allocated limited promotional resources to maximize campus visibility and recruitment. [R1][R3] ✅
+**Founder & Operator — fitness content brand and TikTok Shop storefront · 2023 – Present** [IN][R4]
+- **Storefront:** an 88-SKU TikTok Shop storefront (apparel, supplements, lifestyle goods) that **sold 252 units and $4,920 in settled GMV, earning $852 in commission, over five months (May–Oct 2025)** through video-driven selling. [R5] ✅ No ad budget. [R4] ✅
+- ⚠️ R4 describes the same numbers as "252 **orders closed**" and "$4,920 in settled **revenue**", and says you ran "sourcing, quoting, follow-up, and fulfillment" end to end. R5's "GMV" and "$852 commission", plus "affiliate sales" in R5's skills, describe an **affiliate storefront**: TikTok's sellers source and ship; you earn commission on sales your videos drive. If that's right, R4's wording overstates it, and a sales manager who asks "what was your margin on fulfillment?" will catch it. Tailored resumes use R5's wording. Tell me if R4 is actually correct.
+- **Content:** grew a fitness audience from zero to **3M+ YouTube views and 5M+ TikTok views** (8M+ combined) while completing the degree. [R1][R3][R4][R5] ✅ (R2's "5M+ views/year" is the outlier; not used)
+- Reviewed engagement and sales/conversion metrics weekly to find performance gaps and adjust content and offer. [R1][R3][R4][R5] ✅
+- Turned technical training concepts into plain-language short- and long-form video; on-camera delivery. [R1][R2][R3] ✅
+- Followers per platform ❓ · brand deals ❓ · still selling today? ❓
 
-### Raley's — Meat Clerk
-*Chico, CA · May 2022 – Aug 2022* [R2] ✅
-- Supported meat and seafood department operations with customer service, food safety, and cleanliness standards.
-- Stocked, produced, and merchandised product to keep the department available and presentable during busy periods.
+### WREC Gym, California State University, Chico — Chico, CA
 
-### Shifflet Brothers Enterprises — Project Intern
-*Oroville, CA · Jun 2018 – Aug 2021* [R2] ✅ (Indeed shows start Jun 2018)
-- Organized a large equipment yard and kept inventory records matched to physical inventory through daily upkeep. [R2] ✅
-- Loaded and unloaded trucks; coordinated workflow with drivers and crew; handled work orders and driver paperwork. [R2][IN] ✅
-- Indeed skills that trace here: equipment yard operations, forklift and freight handling, quote-to-order processing, jobsite logistics and scheduling, contractor-facing communication. [IN] ❓ confirm forklift (certified?) and quote-to-order (did you build quotes?)
+**Supervisor — Membership & Sales Operations · Aug 2023 – Dec 2025** [all sources] ✅
+- **Sold memberships and day passes face to face** at the front desk: check-in, account questions, converting member needs into purchase decisions. [R4][R5] ✅
+- **20–30 consultative, needs-based conversations per shift**: identifying goals, recommending equipment and programming, handling objections, and asking for the sale. [R1][R3][R4][R5] ✅ (R2's "10–25 per hour" is the outlier; not used)
+- Matched members to the right option rather than the easiest sell; built recurring relationships with regulars and repeat engagement. [R3][R4] ✅ ("Grew retention" [R4] ⚠️ has no number; wording kept to "repeat engagement".)
+- Trusted key-holder: opening and closing procedures, equipment maintenance, repair logging, work orders, repair coordination with leadership. [R2][R5] ✅
+- Trained and coached new hires on service standards, communication, policy, and safety; improved consistency across shifts. [all] ✅ Number of hires ❓
+- Enforced safety protocols; completed incident documentation and led escalations, including emergency response to injuries. [R1][R2] ✅
+- ⚠️ **Facility volume, three versions:** 200–500+ per day [R1][R3] · 200–500+ per hour [R2] · 500–2,000 per day [R4][R5]. Resumes say "high-volume" with no number until you confirm.
+- Staff supervised per shift ❓ · sales numbers (passes/memberships per shift or month) ❓ · CPR/AED ❓
 
-### Affordable Installation(s) — Road Dog Crew Member (Seasonal)
-*California · ⚠️ start date conflict: May 2016 [R2] vs. Jan 2016 [IN]; ended May 2024 [R2]*
-- Physically demanding installation and logistics: loading and unloading, moving heavy items, assembling and replacing furniture, meeting deadlines as part of a team. [R2] ✅
+### Shifflet Brothers Enterprises — Oroville, CA
+
+**Project Intern · Jun 2018 – Aug 2021** [R2][R4] ✅
+- Maintained inventory accuracy across a **120-acre equipment yard**, reconciling documentation against physical stock. [R4] ✅ (area) [R2] ✅ (task)
+- Operated forklifts; loaded and unloaded trucks; processed driver paperwork; organized work orders. [R2][R4] ✅ Forklift certification ❓
+- ⚠️ R4's headline says "120-acre yard **managed**" and its summary says "three seasons managing inventory." An intern maintaining records isn't managing the yard, and Jun 2018 – Aug 2021 is more than three seasons. Resumes use "maintained inventory accuracy across" and the dates.
+- "Quote-to-order processing" [IN] ❓: no bullet shows quoting here or anywhere else.
+
+### Pour House Restaurant — Chico, CA
+
+**Service Support (Service, Expo, Bar & Bussing) · May 2024 – Dec 2024** [R2][R5] ✅
+- Covered indoor, outdoor, and bar sections in a fast-paced, high-volume restaurant. [R5] ✅
+- Handled guest questions and complaints; coordinated with servers and kitchen to fix issues quickly. [R1][R2][R3] ✅
+- ⚠️ Tables per shift: ~15 [R1][R2] vs 20–25 [R5]. Not used until confirmed.
+- ⚠️ R5 says the storefront ran "concurrently with full-time WREC Gym and Pour House roles," but Pour House ended Dec 2024 and the storefront sales were May–Oct 2025, and WREC may not have been full-time. Not used.
+
+### Raley's — Chico, CA
+
+**Meat Clerk · May 2022 – Aug 2022** [R2] ✅
+- Stocked, produced, and merchandised meat and seafood product; food safety and customer service.
+
+---
+
+## Leadership
+
+**Phi Chi Theta, Professional Business Fraternity (Chico State) — Marketing Director** (R2 adds "& Pledge Educator")
+- Grew membership **116%** by rebuilding the chapter's outreach: structured prospect targeting, on-campus booths, social posting, and a weekly follow-up cadence. [R1–R5] ✅ Base (from X to Y members) ❓
+- Delivered weekly presentations to groups of 20+ (~21). [all] ✅
+- Delegated work across a marketing committee. [R2] ✅
+- ⚠️ **Dates, three versions:** Jul 2022 – Oct 2022 [R2] · Jan 2024 [IN] · 2024 – 2025 [R4]. Resumes show no date on this entry until you confirm.
 
 ---
 
 ## Skills (traceable)
 
-- Microsoft Excel, PowerPoint, Word [R1][R2][R3][IN] ✅ ❓ Excel depth (pivot tables, lookups, charts)?
-- Presentations to groups of 20+ [R1][R2][R3] ✅
-- Short- and long-form video production, on-camera communication, engagement analytics [R1][R2][R3] ✅
-- Customer service, issue resolution and escalation, safety and incident documentation, training new hires ✅
-- Physical work: 50+ lbs, ladders, furniture assembly and installation, truck loading ✅
-- ❓ Tools not yet listed: CRM (Indeed says "CRM-ready"; any hands-on use of HubSpot, Salesforce, etc.?), video editing software, Canva, Shopify/Stan, Google Workspace. Languages (Spanish?).
+- Face-to-face selling: memberships, day passes [R4][R5] · prospecting and follow-up cadence (Phi Chi Theta) · affiliate e-commerce selling (TikTok Shop) ✅
+- Crew leadership, jobsite logistics, client point-of-contact, freight and inventory coordination ✅
+- Forklift operation, truck loading, inventory reconciliation, work orders and driver paperwork ✅
+- Short- and long-form video, on-camera presentation, engagement and conversion analytics ✅
+- Group presentations (20+) ✅ · new-hire training ✅ · incident documentation and escalation ✅
+- Microsoft Excel, PowerPoint, Word ✅ (depth ❓)
+- CRM ❓ ("CRM-ready" means none yet; don't claim a CRM by name)
 
-## Claims in current resumes that are NOT backed by any role — do not use
+## ⛔ Do not use (no role backs these up)
 
-These appear in R1/R3 or Indeed but nothing in the work history supports them. A recruiter who probes them will find nothing.
-- "Operating independently in defined territories" / "Territory Development & Execution" / "Territory Management" (no territory sales role on record)
-- "Clinical & Technical Information Communication" (no clinical role)
-- "Exceed targets" / "drive measurable growth" (no target named, except the 116% membership figure)
-- "Time & Expense Management", "Account Growth & Retention", "Long-Term Client Service" as competencies (no account book on record)
-- Indeed skills: "Territory Sales", "Objection handling and closing", "Account development and retention", "Follow-up cadence", "Prospecting and lead generation". Usable **only** if you can point to where you did it (e.g., Phi Chi Theta recruiting outreach counts as prospecting and follow-up; selling memberships at WREC would count as closing).
+- "Documented record of growing accounts" [R4], "Account development and retention", "Account Growth & Retention" (no account book on record)
+- "Operating independently in defined territories", "Territory Development & Execution", "Territory Management" [R1][R3]. Knowing the North Valley is true; managing a sales territory isn't, yet.
+- "Clinical & Technical Information Communication" [R1]
+- "Exceed targets", "drive measurable growth" (no target named)
+- "KPI and revenue tracking" [R4][IN] beyond the weekly content/storefront metrics review
+- "Fitness & Wellness Industry Credibility" [R5] as a skill label (the content brand and gym job are the evidence; use them directly)

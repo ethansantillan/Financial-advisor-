@@ -4,9 +4,11 @@ Crypto market research, risk framework, and stop-loss planning, plus a job searc
 
 ## Job search
 
-- [`reports/2026-09-28.md`](reports/2026-09-28.md): **Current.** Intake and resume audit: six facts where the resumes contradict each other, claims to cut, and the questions that unlock tailoring.
-- [`profile/experience-bank.md`](profile/experience-bank.md): every role and accomplishment, tagged by source and confirmation status. All tailoring pulls from here.
-- [`profile/master-resume.md`](profile/master-resume.md) · [`profile/preferences.md`](profile/preferences.md) · [`profile/answers.md`](profile/answers.md) · [`jobs/tracker.csv`](jobs/tracker.csv)
+- [`reports/2026-09-28.md`](reports/2026-09-28.md): **Current.** 5 packets ready for approval (1 A, 4 B), the master resume rewrite, what was filtered and why, and the questions still open.
+- [`jobs/tracker.csv`](jobs/tracker.csv): every posting reviewed, with score, tier, and status. Packets live in `jobs/<date>-<company>-<role>/`.
+- [`profile/experience-bank.md`](profile/experience-bank.md): every role and claim, tagged by source; conflicts held out until confirmed. All tailoring pulls from here.
+- [`profile/master-resume.md`](profile/master-resume.md) · [`profile/preferences.md`](profile/preferences.md) · [`profile/answers.md`](profile/answers.md)
+- `tools/build.sh jobs/<packet>` rebuilds a packet's `.docx` and text-based `.pdf` and checks the PDF the way an ATS reads it. Generated files aren't committed while the repo is public (they contain the phone number).
 
 ## Markets
 
