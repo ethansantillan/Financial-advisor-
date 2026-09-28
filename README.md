@@ -1,6 +1,14 @@
 # Financial-advisor-
 
-Crypto market research, risk framework, and stop-loss planning.
+Crypto market research, risk framework, and stop-loss planning, plus a job search workspace.
+
+## Job search
+
+- [`reports/2026-09-28.md`](reports/2026-09-28.md): **Current.** Intake and resume audit: six facts where the resumes contradict each other, claims to cut, and the questions that unlock tailoring.
+- [`profile/experience-bank.md`](profile/experience-bank.md): every role and accomplishment, tagged by source and confirmation status. All tailoring pulls from here.
+- [`profile/master-resume.md`](profile/master-resume.md) · [`profile/preferences.md`](profile/preferences.md) · [`profile/answers.md`](profile/answers.md) · [`jobs/tracker.csv`](jobs/tracker.csv)
+
+## Markets
 
 - [`analysis/2026-09-15-odds-board.md`](analysis/2026-09-15-odds-board.md) — **Current.** Calibrated Monte Carlo: ~35% chance of making money, expected −$256, and two corrections — cloture odds ≠ passage odds, and "dead until 2029" was too strong.
 - [`analysis/2026-09-15-two-gates.md`](analysis/2026-09-15-two-gates.md) — Event day: the CLARITY cloture vote at 2:15pm and a ~90%-odds Fed *hike* the next afternoon. Seat math, branches, and why the answer is no action until Wednesday.
