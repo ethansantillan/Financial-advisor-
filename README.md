@@ -12,4 +12,8 @@ Crypto market research, risk framework, and stop-loss planning.
 - [`analysis/2026-08-27-xrp-deep-dive.md`](analysis/2026-08-27-xrp-deep-dive.md) — Deep research note on XRP: Ripple the company vs XRP the token, supply overhang, the 15 Sept CLARITY vote, and my assessment.
 - [`analysis/2026-08-22-crypto-market-analysis.md`](analysis/2026-08-22-crypto-market-analysis.md) — Why crypto ripped Aug 19–22, bear-market status, per-asset stop levels, and the execution plan.
 
+## Prompts
+
+- [`prompts/nfl-player-parlay-research.md`](prompts/nfl-player-parlay-research.md) — Research prompt for NFL player-prop parlays: live-sourced data, no-vig pricing, an edge threshold, and "no bet" as the default.
+
 > Research and risk-management notes for my own use. Not investment advice, and nothing here is a guarantee. Levels are invalidation points, not predictions.
