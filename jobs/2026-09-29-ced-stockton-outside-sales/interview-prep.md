@@ -34,7 +34,12 @@ Outside sales at an electrical distributor means:
 - **Ethan already emailed Chris a resume (~27 Sep).** Have *that exact version* open, since Chris may ask about any line on it. If it was the 9 Sep resume, see "If he asks about the resume you sent" below.
 - Have your calendar open so you can commit to a day to drive down.
 
-**If he asks about the resume you sent** (the 9 Sep version said these things; answer truthfully):
+**Confirmed 29 Sep: Ethan sent the 9 Sep resume** (same file name and size as the 9 Sep upload). Watch-outs on that version:
+- It says **"20–30 consultative sales conversations per shift."** Don't say "30 an hour" without the bridge: "The desk saw 30-plus people an hour; 20 to 30 a shift were real sales conversations."
+- It says **Crew Lead, Jul 2026 – Nov 2026.** If asked what you've done since graduating: "I've been back on the installation crew since January."
+- It lists "familiar with contractors and growers" in five North Valley counties. If asked, be specific and honest about what you actually know.
+
+**If he asks about the resume you sent** (answer truthfully):
 - *"Crew Lead, 10–20 person crews"* → "I work on a crew of about 12 on commercial installs; I've been doing it eight seasons."
 - *"252 orders, $4,920 revenue"* → "That was a TikTok Shop affiliate storefront: 252 units and $4,920 in sales in five months from my videos, with no ad budget. I earned commission on it."
 - *"120-acre yard managed"* → "I was an intern keeping the inventory records matched to what was physically in the yard, plus quotes, work orders and driver paperwork."
