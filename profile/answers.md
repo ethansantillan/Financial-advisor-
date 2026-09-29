@@ -33,6 +33,6 @@ Default for gender, race/ethnicity, veteran status, disability: **"I do not wish
 
 - Grew a fraternity's membership 116% by doing the outreach and follow-up personally: likes the part of the job where you go get the result.
 - Built an audience from zero over years with no boss: self-directed and consistent.
-- Two-plus years of 20+ member conversations a shift [CONFIRM] at the WREC: comfortable starting conversations with strangers and finding out what they want.
+- Two-plus years at the WREC front desk, 30+ member conversations an hour: comfortable starting conversations with strangers and finding out what they want.
 - Years on installation crews (2016–2024) and in an equipment yard (2018–2021): knows how contractors, drivers, and field crews work (useful for equipment, building products, and industrial sales).
 - ❓ Anything you genuinely care about in an employer (training program, car allowance, clear promotion track, staying near family)?
