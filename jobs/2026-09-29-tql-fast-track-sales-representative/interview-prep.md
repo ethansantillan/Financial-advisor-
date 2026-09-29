@@ -44,6 +44,7 @@
 4. "What does the relocation package cover? Does it include temporary housing?"
 5. "What are typical hours in the first six months?"
 6. "What separates the people who make it past year one from the ones who don't?"
+7. **Before signing anything:** "Is there a non-compete or non-solicit agreement, and can I see it?" TQL is widely reported to use strict non-competes, typically barring work at competing freight brokerages after you leave. Read what it covers and for how long.
 
 ## After the call
 Text or email Jack a quick thanks, then tell me: next steps, start date, the pay split, and hours. I'll update the tracker and prep the next round.
