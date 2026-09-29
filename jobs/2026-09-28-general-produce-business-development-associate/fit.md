@@ -14,15 +14,14 @@
 ## Top 3 reasons Ethan fits
 1. **The required "sales environment" year is covered twice:** 2+ years selling memberships and day passes face to face at the WREC, plus a storefront that drove $4,920 in sales.
 2. **Local:** lifelong North Valley resident; went to school and worked in Chico. The posting is about expanding in the Chico region.
-3. **Field and logistics comfort:** crew lead accountable for on-time delivery; equipment-yard inventory and driver paperwork. A distributor's delivery schedules and substitutions won't be foreign.
+3. **Field and logistics comfort:** commercial installation crew working to on-time delivery deadlines; built quotes and handled driver paperwork at an equipment business. A distributor's delivery schedules and substitutions won't be foreign.
 
 ## Gaps and how to handle them honestly
 | Gap | How to address |
 |---|---|
-| Never opened a B2B account | Say so if asked, then point to the closest evidence: rebuilding the fraternity's outreach from scratch (116%) and asking for the sale 20–30 times a shift. Don't call memberships "accounts." |
+| Never opened a B2B account | Say so if asked, then point to the closest evidence: rebuilding the fraternity's outreach from scratch (116%) and asking for the sale at a front desk handling 30+ conversations an hour. Don't call memberships "accounts." |
 | No produce or foodservice knowledge | Name it in the interview and show homework: know General Produce's regions and that it's been around since 1933. The Raley's meat-department summer (2022) is the only food-industry experience; mention it in conversation, not on the resume. |
-| "Currently leading crews" | Only true if the Crew Lead role is current. **Confirm before sending.** |
 
 ## Keyword coverage
-Master resume: **9%** (2/23) → tailored: **52%** (12/23).
+Master resume: **0%** (0/23) → tailored: **48%** (11/23).
 Still missing and **not honest to add:** new accounts, substitutions, market conditions, customer feedback, product/pricing/delivery inquiries. Nothing in the experience bank shows these. The cover letter addresses new-business development as what Ethan would do, not what he's done.

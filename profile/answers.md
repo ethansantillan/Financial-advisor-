@@ -1,26 +1,29 @@
 # Standard application answers
 
-*Draft, 28 Sep 2026. ✅ = from your own resumes. ❓ = I need your answer before I'll put it on a form. Nothing here is used for secrets: no SSN, date of birth, passwords, or bank details, ever. Forms that ask for those get handed to you.*
+*Updated 29 Sep 2026. ✅ = confirmed by you or your resumes. ❓ = I need your answer before I'll put it on a form. Nothing here is used for secrets: no SSN, date of birth, passwords, or bank details, ever. Forms that ask for those get handed to you.*
 
 | Question | Answer | Status |
 |---|---|---|
 | Legally authorized to work in the U.S.? | Yes | ✅ [R3] |
-| Will you now or in the future require sponsorship? | ❓ | ❓ |
+| Will you now or in the future require sponsorship? | No | ✅ 29 Sep |
 | Security clearance | None (assumed) | ❓ |
 | Valid driver's license | Yes | ✅ |
 | Reliable vehicle and insurance | Yes | ✅ [R2] |
-| Clean driving record (MVR) | ❓ (field sales roles check this) | ❓ |
+| Clean driving record (MVR) | Yes | ✅ 29 Sep |
 | Able to lift 50 lbs | Yes | ✅ [R2] |
-| Willing to travel | Yes, including overnight. ❓ max % / nights | ✅ / ❓ |
-| Willing to relocate | No (Indeed profile) | ❓ reconfirm |
-| Earliest start date | ❓ | ❓ |
-| Desired salary | Answer with a range anchored to the posting, never below the floor in `private.local.md` | ❓ |
+| Willing to travel | Yes, including overnight and 80–100% travel for a training program | ✅ 29 Sep |
+| Willing to relocate | **Yes, anywhere in the U.S.** | ✅ 29 Sep |
+| Earliest start date | Immediately | ✅ 29 Sep |
+| Desired salary | Anchor to the posting; aim for $70k base, never below $50k base (higher for expensive cities; see `preferences.md`), plus commission/bonus | ✅ 29 Sep |
 | Highest education | B.S. Business Administration (Entrepreneurship), Minor in Management, CSU Chico, Dec 2025 | ✅ |
-| GPA | ❓ | ❓ |
-| Background check / drug screen OK? | ❓ | ❓ |
+| GPA | Leave blank when optional. If required, check your transcript first (you think 2.8–3.0) | ✅ 29 Sep |
+| Background check / drug screen OK? | ❓ (almost every sales job runs one; say yes and I'll save it) | ❓ |
 | Over 18 | Yes | ✅ |
 | References | ❓ Two or three names with permission (e.g., WREC supervisor, a professor) | ❓ |
 | How did you hear about us? | The actual source per job (Indeed, company site, etc.) | per job |
+| Email on applications | ethansantillan03@yahoo.com (replies land in Yahoo, which I can't read; forward them to werbuiltdifferent1@gmail.com or tell me) | ✅ 29 Sep |
+| Full-time / part-time | Full-time only | ✅ 29 Sep |
+| Certifications | None current (CPR lapsed; not forklift-certified) | ✅ 29 Sep |
 
 ## EEO / demographic (voluntary)
 

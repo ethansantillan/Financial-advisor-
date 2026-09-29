@@ -1,6 +1,6 @@
 # Fit — Cintas, Route Service Sales Representative, UltraClean (Sacramento)
 
-**Score 77 / 100 · Tier B**
+**Score 77 / 100 → On hold (29 Sep): fails the base-salary floor.** Ethan's floor is $50k *base*. Cintas posts $45k–$90k *total* including commission, so the base is below $45k. Revive only if a recruiter confirms a $50k+ base.
 
 | Factor | Points | Why |
 |---|---|---|
@@ -19,7 +19,7 @@
 ## Gaps and risks
 | Gap | How to address |
 |---|---|
-| Never grown a route or upsold existing accounts | Don't claim it. Point to asking for the sale 20–30 times a shift and the storefront's weekly offer adjustments. |
+| Never grown a route or upsold existing accounts | Don't claim it. Point to asking for the sale at a busy front desk (30+ conversations an hour) and the storefront's weekly offer adjustments. |
 | Mostly a service job (cleaning restrooms and surfaces with no-touch equipment) with a sales component | Be clear-eyed about it. It's a foot in the door at a company that promotes into outside sales. Ask about the SSR → Sales Rep path. |
 | Pay floor | See compensation above. |
 

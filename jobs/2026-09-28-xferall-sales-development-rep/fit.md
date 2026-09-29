@@ -1,6 +1,6 @@
 # Fit — XFERALL, Sales Development Representative (Remote)
 
-**Score 76 / 100 · Tier B**
+**Score 73 / 100 · Tier B** (re-scored 29 Sep: remote is OK but not Ethan's preference)
 
 | Factor | Points | Why |
 |---|---|---|
@@ -8,15 +8,15 @@
 | Level fit | 15 / 15 | Explicitly entry-level: "not years of sales experience." Bachelor's preferred ✅. |
 | Compensation | 11 / 15 | $50k–$80k; the bottom matches the floor. Base vs. commission split not stated. **Ask.** |
 | Company quality | 7 / 15 | Small healthcare-tech company; no Indeed ratings retrieved (rate limit); stage and funding unknown. Verify before interviewing. |
-| Location / remote fit | 10 / 10 | Fully remote, U.S. |
+| Location / remote fit | 7 / 10 | Fully remote, U.S. Acceptable; Ethan prefers in-person. |
 | Freshness & competition | 4 / 10 | Posted 8 Sep (20 days). Remote SDR roles draw heavy applicant volume. |
 
-**Note:** remote SDR was a parked track in `profile/preferences.md`. It's included because this posting is unusually explicit about hiring new grads, has a 12–18-month promotion path, and clears the floor. Reject it if you want field roles only.
+**Note:** remote is OK but not preferred. It's included because this posting is unusually explicit about hiring new grads, has a 12–18-month promotion path, and clears the floor.
 
 ## Top 3 reasons
 1. **Built-from-scratch outreach with a measurable result:** 116% membership growth from prospect targeting and weekly follow-up, which is SDR work in a campus setting.
 2. **Measures and iterates:** weekly engagement/conversion reviews on the content brand; the storefront drove $4,920 in sales.
-3. **Real selling reps:** 20–30 face-to-face sales conversations a shift for two-plus years.
+3. **Real selling reps:** 30+ face-to-face member conversations an hour at a sales front desk for two-plus years.
 
 ## Gaps
 | Gap | How to address |
@@ -26,5 +26,5 @@
 | No cold-calling experience | Face-to-face asks are the closest evidence. Be ready for a mock cold call in the interview. |
 
 ## Keyword coverage
-Master resume: **21%** (5/24) → tailored: **58%** (14/24).
+Master resume: **21%** (5/24) → tailored: **50%** (12/24).
 Not honest to add: outbound, cold calling, CRM, pipeline, decision-makers, healthcare, qualify.

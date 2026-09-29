@@ -1,6 +1,17 @@
 # Experience bank — Ethan Santillan
 
-*Updated 28 Sep 2026 with the two resumes uploaded today. All tailoring pulls from here. Nothing goes on a resume unless it is in this file.*
+*Updated 29 Sep 2026 with Ethan's answers. All tailoring pulls from here. Nothing goes on a resume unless it is in this file.*
+
+## Confirmed by Ethan, 29 Sep 2026 (overrides the source resumes below)
+
+- **Numbers:** the latest, re-edited resume versions are the right ones. WREC facility served **500–2,000 patrons a day**; Ethan handled **30+ member conversations an hour** at the front desk. (Resumes frame this as front-desk interactions, which covered check-ins, account questions, and membership/day-pass sales, not 30 consultative sales pitches an hour.)
+- **Installation work:** "Road Dog" and the installation crew are **the same job**. Seasonal 2016–2024; **back on the installation crew since graduating (Jan 2026 – Present)**. Crew size **~12**. The "Crew Lead / crews of 10–20" wording from the 9 Sep resume is **not used** unless Ethan confirms he directs the crew.
+- **Content brand:** use **views only** (3M+ YouTube, 5M+ TikTok). Followers: ~7,300 TikTok, ~1.58K YouTube subscribers (not on the resume). **No YouTube/TikTok handles on the resume.** The Stan store exists but its subscription is lapsed.
+- **Shifflet Brothers:** **built quotes** (Ethan said "quotas"; read as quotes). **Not forklift-certified**, so "operated forklifts" only.
+- **GPA:** ~2.8–3.0, unsure. **Leave off.** Check the transcript before any form that requires it.
+- **CPR:** was certified ~2 years ago; **lapsed**. Don't list unless renewed.
+- **Clean driving record** ✅ · **No sponsorship needed** ✅ · **Start immediately** ✅
+- **Applied earlier in 2026, no response:** Fidelity (resume dated 3 Mar 2026), a Home Depot vendor-rep role (resume dated 12 Jan 2026).
 
 **Sources** (newest first)
 - **[R4]** Uploaded PDF "Ethan Santillan Resume", created 9 Sep 2026. Equipment / territory-sales version. Matches the Indeed skills list, so probably the one on Indeed.
@@ -20,14 +31,14 @@
 - Valid U.S. driver's license, **clean DMV record** [R4], reliable vehicle and insurance [R2] ✅
 - Lift 50+ lbs, ladders; comfortable in yard, jobsite, and outdoor selling environments [R2][R4] ✅
 - Open to daily territory travel [R4], overnight travel [R1], hybrid work, trade show and event representation [R5], weekends [R2] ✅
-- Authorized to work in the U.S. [R3] ✅ · sponsorship ❓
+- Authorized to work in the U.S. [R3] ✅ · no sponsorship needed ✅
 - Lifelong North Valley resident based in Gridley [R4] ✅. Knows Butte, Sutter, Yuba, Glenn, and Colusa counties [R4] ✅.
 - "Familiar with contractors and **growers** across five counties" [R4] ⚠️: contractors trace to installation and yard work; no role involves growers. Tell me where that comes from, or it stays out.
 
 ## Education
 
 **California State University, Chico.** B.S. Business Administration, Entrepreneurship concentration; Minor in Management. Graduated Fall 2025 (written as Dec 2025). [all sources] ✅
-- GPA ❓ · honors ❓ · coursework ❓ (Drive shows system dynamics / Vensim, regression, quantitative analysis, MGMT 456, MGMT 470)
+- GPA ~2.8–3.0 (unsure; leave off) · honors ❓ · coursework ❓ (Drive shows system dynamics / Vensim, regression, quantitative analysis, MGMT 456, MGMT 470)
 
 ---
 
@@ -35,14 +46,17 @@
 
 ### Affordable Installation — Northern California (university, military, and commercial sites)
 
-**Installation Crew Lead · Jul 2026 – ?** [R4][IN]
+**Installation Crew Member · Jan 2026 – Present** (confirmed 29 Sep: back on the crew since graduating; ~12-person crew)
+- Multi-floor commercial furniture installations at university, military, and corporate sites; loading and unloading full semi-truck shipments; on-time delivery. [R2][R4] ✅
+
+*Superseded 9 Sep resume wording (kept for reference, not used):*
 - Lead crews of 10–20 on multi-floor commercial installations; on-site point of contact accountable to the client for accurate execution and on-time delivery. [R4] ✅
 - Build working relationships with site contacts on university, military, and corporate projects: manage expectations, resolve issues on the spot, close out with a clean handoff. [R4] ✅
 - Coordinate full semi-truck shipments and multi-day inventory so crews and customers aren't waiting on equipment. [R4] ✅
-- Promoted to Crew Lead in 2026 after eight consecutive seasons. [R4] ✅
-- ⚠️ **End date.** R4 says "Jul 2026 – Nov 2026", which is a future date. Your 10 Sep finance note says "no annual income, occasional odd jobs." Is this project-based or seasonal work? Employment verification will ask, so the title should say so if it is (e.g., "Installation Crew Lead (Seasonal)"). Resumes currently show "Jul 2026 – Present."
+- Promoted to Crew Lead in 2026 after eight consecutive seasons. [R4] ⛔ not used unless confirmed
+- ❓ If Ethan directs the crew (assigns work, runs the site), the lead wording can come back. Until then, resumes say crew member.
 
-**Road Dog Crew Member (Seasonal) · 2016 – 2024** [R2][R4] ✅ (R2 says May 2016 – May 2024; IN says Jan 2016; years only is safe)
+**Installation Crew Member ("Road Dog"), Seasonal · 2016 – 2024** [R2][R4] ✅ (same job as above, confirmed 29 Sep) (R2 says May 2016 – May 2024; IN says Jan 2016; years only is safe)
 - Eight consecutive seasons on multi-site commercial projects: loading and unloading, moving heavy items, assembling and replacing furniture on deadline. [R2][R4] ✅
 
 ### Self-directed — Gridley, CA
@@ -53,27 +67,27 @@
 - **Content:** grew a fitness audience from zero to **3M+ YouTube views and 5M+ TikTok views** (8M+ combined) while completing the degree. [R1][R3][R4][R5] ✅ (R2's "5M+ views/year" is the outlier; not used)
 - Reviewed engagement and sales/conversion metrics weekly to find performance gaps and adjust content and offer. [R1][R3][R4][R5] ✅
 - Turned technical training concepts into plain-language short- and long-form video; on-camera delivery. [R1][R2][R3] ✅
-- Followers per platform ❓ · brand deals ❓ · still selling today? ❓
+- Followers: ~7,300 TikTok, ~1.58K YouTube subs (not for the resume) · Stan store subscription lapsed · brand deals ❓
 
 ### WREC Gym, California State University, Chico — Chico, CA
 
 **Supervisor — Membership & Sales Operations · Aug 2023 – Dec 2025** [all sources] ✅
 - **Sold memberships and day passes face to face** at the front desk: check-in, account questions, converting member needs into purchase decisions. [R4][R5] ✅
-- **20–30 consultative, needs-based conversations per shift**: identifying goals, recommending equipment and programming, handling objections, and asking for the sale. [R1][R3][R4][R5] ✅ (R2's "10–25 per hour" is the outlier; not used)
+- **30+ member conversations an hour** at the front desk (confirmed by Ethan 29 Sep): check-ins, account questions, and membership/day-pass sales. ✅ Within those, needs-based sales conversations: identifying goals, recommending equipment and programming, handling objections, asking for the sale. [R1][R3][R4][R5] ✅ (Earlier resumes said 20–30 per shift; superseded.)
 - Matched members to the right option rather than the easiest sell; built recurring relationships with regulars and repeat engagement. [R3][R4] ✅ ("Grew retention" [R4] ⚠️ has no number; wording kept to "repeat engagement".)
 - Trusted key-holder: opening and closing procedures, equipment maintenance, repair logging, work orders, repair coordination with leadership. [R2][R5] ✅
 - Trained and coached new hires on service standards, communication, policy, and safety; improved consistency across shifts. [all] ✅ Number of hires ❓
 - Enforced safety protocols; completed incident documentation and led escalations, including emergency response to injuries. [R1][R2] ✅
-- ⚠️ **Facility volume, three versions:** 200–500+ per day [R1][R3] · 200–500+ per hour [R2] · 500–2,000 per day [R4][R5]. Resumes say "high-volume" with no number until you confirm.
-- Staff supervised per shift ❓ · sales numbers (passes/memberships per shift or month) ❓ · CPR/AED ❓
+- **Facility served 500–2,000 patrons a day** [R4][R5], confirmed by Ethan 29 Sep as the correct (re-edited) figure ✅
+- Staff supervised per shift ❓ · sales numbers (passes/memberships per shift or month) ❓ · CPR/AED: lapsed (~2 years ago); don't list unless renewed
 
 ### Shifflet Brothers Enterprises — Oroville, CA
 
 **Project Intern · Jun 2018 – Aug 2021** [R2][R4] ✅
 - Maintained inventory accuracy across a **120-acre equipment yard**, reconciling documentation against physical stock. [R4] ✅ (area) [R2] ✅ (task)
-- Operated forklifts; loaded and unloaded trucks; processed driver paperwork; organized work orders. [R2][R4] ✅ Forklift certification ❓
+- Operated forklifts (not certified); loaded and unloaded trucks; processed driver paperwork; organized work orders. [R2][R4] ✅
 - ⚠️ R4's headline says "120-acre yard **managed**" and its summary says "three seasons managing inventory." An intern maintaining records isn't managing the yard, and Jun 2018 – Aug 2021 is more than three seasons. Resumes use "maintained inventory accuracy across" and the dates.
-- "Quote-to-order processing" [IN] ❓: no bullet shows quoting here or anywhere else.
+- **Built quotes** and handled quote-to-order paperwork (confirmed by Ethan 29 Sep) ✅
 
 ### Pour House Restaurant — Chico, CA
 

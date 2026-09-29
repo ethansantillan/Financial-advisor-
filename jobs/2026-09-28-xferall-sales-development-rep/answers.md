@@ -8,9 +8,9 @@
 | Comfortable making 60+ outbound calls a day? | Yes ❓ (confirm you're genuinely OK with that volume) |
 | Able to work U.S. business hours remotely with reliable internet and a quiet workspace? | ❓ |
 | Authorized to work in the U.S.? | Yes |
-| Require sponsorship? | ❓ |
+| Require sponsorship? | No |
 | Desired salary | "Within your posted $50k–$80k range; I'd like to understand the base/commission split." ❓ |
-| Earliest start date | ❓ |
+| Earliest start date | Immediately |
 | How did you hear about us? | Indeed |
 
 **Upload:** `resume.pdf` + `cover-letter.pdf` (the posting asks for a cover letter).
