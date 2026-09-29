@@ -1,5 +1,7 @@
 # Call prep — CED Stockton, Outside Sales (Chris, General Manager)
 
+> **Update 29 Sep:** the phone call happened (about 4 minutes, one question). **In-person interview: Tue 6 Oct, 12:00, at the branch** (3838 Imperial Way Ste 600A, Stockton; ~2 hrs from Gridley). Chris said it isn't an offer yet: he passed the resume along, and the meeting is to get to know Ethan. Bring 3 printed copies of the accurate CED resume ("here's an updated copy"). Full in-person prep to follow.
+
 **Status:** interviewing (phone call with the GM). **Referral:** Eddie, whose kids Ethan coached at the gym, texted Chris: "I have someone for the outside sales position if you haven't filled it yet." Chris asked whether Ethan would work in the Stockton area and asked for a resume.
 
 ## 1. The company, in 60 seconds
