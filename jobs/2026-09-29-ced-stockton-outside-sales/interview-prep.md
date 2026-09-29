@@ -31,8 +31,15 @@ Outside sales at an electrical distributor means:
 ## 4. Before you call (10 minutes)
 
 - Quiet spot, phone charged, this sheet and your resume in front of you, something to write with.
-- **Send the resume email first** (draft below) so he has it in front of him, then call.
+- **Ethan already emailed Chris a resume (~27 Sep).** Have *that exact version* open, since Chris may ask about any line on it. If it was the 9 Sep resume, see "If he asks about the resume you sent" below.
 - Have your calendar open so you can commit to a day to drive down.
+
+**If he asks about the resume you sent** (the 9 Sep version said these things; answer truthfully):
+- *"Crew Lead, 10–20 person crews"* → "I work on a crew of about 12 on commercial installs; I've been doing it eight seasons."
+- *"252 orders, $4,920 revenue"* → "That was a TikTok Shop affiliate storefront: 252 units and $4,920 in sales in five months from my videos, with no ad budget. I earned commission on it."
+- *"120-acre yard managed"* → "I was an intern keeping the inventory records matched to what was physically in the yard, plus quotes, work orders and driver paperwork."
+- *"Territory sales / account development"* → "Honestly, that's what I want to do. I haven't carried a territory yet."
+Don't send a second resume unless he asks for an updated one. If he does, send `resume.pdf` from this folder.
 
 **Opening line:** "Hi Chris, this is Ethan Santillán, Eddie's friend, returning your call. Thanks for reaching out, and I appreciate you taking a look at me."
 
@@ -94,7 +101,7 @@ Your floor is $50k base. With rent in Stockton, **don't accept under ~$55k base 
 | 5 | Shifflet: quotes, work orders, and matching records to physical inventory | accuracy, distribution basics |
 | 6 | Storefront: **$4,920 in sales in five months, no ad budget**, reviewing numbers weekly | self-motivation, metrics |
 
-## 8. Resume email (draft; send from ethansantillan03@yahoo.com)
+## 8. Resume email (not needed: Ethan already sent a resume ~27 Sep. Keep only in case Chris asks for an updated one)
 
 **To:** Chris's CED email (in his text to Eddie)
 **Subject:** Resume – Ethan Santillán (Eddie's referral)
