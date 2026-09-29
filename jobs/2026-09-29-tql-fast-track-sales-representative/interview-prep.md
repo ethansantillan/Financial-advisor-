@@ -15,6 +15,18 @@
 - **The work:** freight brokerage. Cold calling shippers, finding trucks (carriers) for their loads, negotiating price with both sides, fixing problems when a load is late. **100% in office.**
 - **Honest take:** one of the best-known new-grad sales grinds. Great training and money if you last; long hours and high early turnover if you don't. It fits your goal of "get real sales experience, then great money."
 
+## Timing
+Jack is in Cincinnati (Eastern time, 3 hours ahead of California). Call before ~2pm Pacific the same day, or next morning 7–9am Pacific.
+
+## Know this in one breath
+**Freight brokerage:** companies that need to ship things (shippers) hire TQL. The broker finds a trucking company (carrier) to haul the load, negotiates the price on both sides, and TQL keeps the difference (the margin). Reps sell to shippers and manage the loads.
+
+**Extra likely questions:**
+- *"Where do you see yourself in 5 years?"* → "Top producer with my own book of business, and possibly leading a team."
+- *"Are you competitive? Did you play sports?"* → Answer honestly: gym and fitness, the 116% recruiting push, eight seasons of physical crew work.
+- *"Are you OK with long hours and being 100% in the office?"* → "Yes. I've done long, physical days for years, and I'd rather be pushed."
+- *"Which resume did you submit?"* Know which version you uploaded. If it was the 9 Sep one, the same honest answers from the CED prep apply (crew member, not lead; affiliate storefront; intern in the yard).
+
 ## Recruiter screens are about 15–20 minutes. Likely questions
 
 **"Tell me about yourself."**
