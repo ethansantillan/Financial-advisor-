@@ -11,6 +11,14 @@
 - **GPA:** ~2.8–3.0, unsure. **Leave off.** Check the transcript before any form that requires it.
 - **CPR:** was certified ~2 years ago; **lapsed**. Don't list unless renewed.
 - **Clean driving record** ✅ · **No sponsorship needed** ✅ · **Start immediately** ✅
+- **Added 30 Sep 2026 (LinkedIn interview):**
+  - **WREC:** also **rented out equipment** to members ✅. Title stays "Supervisor, Membership & Sales Operations" (matches resumes; no paystubs to check).
+  - **Athletics:** varsity **baseball and soccer captain, junior and senior years** of high school, named by coaches and teammates. Leadoff hitter, shortstop (could play any position); led drills and warmups; coaches relayed messages to the team through him. Daily schedule was school, soccer practice, baseball practice, then walked to the gym (no car yet). ✅
+  - **Training:** 6 years, 6 days a week, 2–3 hours a day; runs a mile every day. ✅
+  - **Coaching:** wrote custom training programs for **about 10 people** (Ethan's estimate); some paid, exact number ❓. **Eddie paid Ethan to train and mentor his son** starting when the son was in 8th grade (son has now graduated high school; length of coaching ❓). ✅ Don't inflate the count.
+  - **Instagram:** content also got Instagram views (no count). "8M+ views" (TikTok + YouTube) stays the number.
+  - **$13.5K TikTok Shop GMV** (in Ethan's old LinkedIn draft) is **not confirmed**; Ethan doesn't remember its source. Use the confirmed 252 units / $4,920 only.
+  - **Why sales:** successful people he looks up to started in sales; wants to learn from the best and be paid on production; faith: believes he's meant for more.
 - **Applied earlier in 2026, no response:** Fidelity (resume dated 3 Mar 2026), a Home Depot vendor-rep role (resume dated 12 Jan 2026).
 
 **Sources** (newest first)
