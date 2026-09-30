@@ -2,6 +2,32 @@
 
 Target: early-career B2B sales (SDR/BDR, outside sales, account management, medical sales). Every fact traces to `experience-bank.md`.
 
+## FINAL (chosen 30 Sep; built from Version C)
+
+<!-- FINAL -->
+Every new grad says they're a hard worker. Here's my proof: I've trained six days a week for six years, I run a mile every day, and I was a two-sport varsity captain. Now I'm bringing that same discipline to sales.
+
+I'm early in my career and I know it. What I bring is simple: I'm coachable, I compete, and I make people feel seen, whether it's a stranger at the front desk or a kid I'm coaching in the gym.
+
+What that looks like so far:
+
+• Sales: 2+ years selling memberships and day passes at Chico State's rec center, a facility serving 500 to 2,000 people a day. 30+ conversations an hour.
+• Content: Built a fitness brand from zero to 8M+ views with no ad budget. My videos sold 252 products in five months.
+• Prospecting: As marketing director of my business fraternity, I rebuilt recruiting from scratch. Weekly outreach and follow-up grew membership 116%.
+• Trust: A dad paid me to train and mentor his son, starting when he was in 8th grade.
+• Grit: Eight seasons on commercial installation crews, unloading semi-trucks on deadline. I know what a long day feels like.
+
+Why sales? Almost everyone I look up to started there. I want a manager who pushes me, a team that competes, and pay that rewards what I produce. Give me a coach and a number to hit, and I'll put in the reps. That part I already know how to do.
+
+B.S. in Business Administration, CSU Chico (December 2025). I'm looking for SDR, BDR, outside sales, account management, or medical sales roles, and I'm open to relocating anywhere in the U.S.
+
+If you want someone like that on your team, let's talk. Message me here or email ethansantillan03@yahoo.com.
+<!-- /FINAL -->
+
+---
+
+*Earlier drafts, kept for reference.*
+
 ## Version A — story-led (recommended)
 
 <!-- A -->
