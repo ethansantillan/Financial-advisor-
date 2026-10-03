@@ -58,6 +58,10 @@ Don't send a second resume unless he asks for an updated one. If he does, send `
 **"Why outside sales? Why electrical?"**
 > "I like being out in the field and I like the part of sales where you go get the result. I've spent years on jobsites, so contractors are people I understand. They want someone who shows up, knows what they need, and gets the material there on time. I'd rather learn a product line that deep than sell something I'll never see used."
 
+**"Where would you live?"** (decided 3 Oct: no daily commute from Gridley, which is ~2 hrs each way)
+> "I'd move to Stockton or Lodi so I'm close to the branch and the customers."
+If you need a bridge: commute for the first two to three weeks at most while you find a room, then move. Don't mention commuting unless asked.
+
 **"Would you move to Stockton? When can you start?"**
 > "Yes. I'm ready to relocate and can start right away. I'd need about two weeks to move." *(Adjust the two weeks to whatever's true.)*
 
