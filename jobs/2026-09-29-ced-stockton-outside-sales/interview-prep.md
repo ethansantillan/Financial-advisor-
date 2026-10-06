@@ -8,7 +8,7 @@
 
 **The posting:** 2–3 years of on-the-job training rotating through warehouse, counter sales, AP/AR, financial statements, purchasing, account management, project management, inventory, and business development, plus classes on electrical products, sales, and management. Goal: **run your own multi-million-dollar CED branch.** No industry experience needed. **$62,000–$65,000, non-exempt** (paid hourly, so overtime past 40 hours), **plus bonus and profit sharing.** Must be willing to **relocate during and after the program.** Reports to a Training Manager. 750+ locations.
 
-**Verdict: excellent fit. Score 94 (A).** Above the $70k-target track once overtime/bonus count, real training, and a path to running a branch like Chris does. Watch-outs: less commission early than a pure sales job; you may be moved during and after the program (possibly to smaller towns); warehouse segments are physical and hot/cold.
+**Verdict: excellent fit. Score 94 (A).** Pay close to your $70k target before overtime and bonus, real training, and a path to running a branch like Chris does. Watch-outs: less commission early than a pure sales job; you may be moved during and after the program (possibly to smaller towns); warehouse segments are physical and hot/cold.
 
 **Answers that change:**
 - **"Why this program?"** "My degree is in entrepreneurship, and CED is the rare company where a branch manager really runs the branch like their own business. I want to learn every part of it, the warehouse, the counter, the numbers, and earn a branch."
