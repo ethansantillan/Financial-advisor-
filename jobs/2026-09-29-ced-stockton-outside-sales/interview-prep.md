@@ -2,6 +2,31 @@
 
 > **Update 29 Sep:** the phone call happened (about 4 minutes, one question). **In-person interview: Tue 6 Oct, 12:00, at the branch** (3838 Imperial Way Ste 600A, Stockton; ~2 hrs from Gridley). Chris said it isn't an offer yet: he passed the resume along, and the meeting is to get to know Ethan. Bring 3 printed copies of the accurate CED resume ("here's an updated copy"). Full in-person prep to follow.
 
+> **Update 6 Oct (interview day): the role is CED's Management Trainee program, not outside sales.** Ethan received the posting by email (mydistributorjobs.com, Job ID 202697040004, "Management Trainee – Non Exempt", California Gold Division, listed in Fresno). Interview with Chris today at 12:00. Bring 3 printed copies of the updated `resume.pdf` (now targeted to the Management Trainee program).
+
+## 0. Management Trainee program — what changed for today
+
+**The posting:** 2–3 years of on-the-job training rotating through warehouse, counter sales, AP/AR, financial statements, purchasing, account management, project management, inventory, and business development, plus classes on electrical products, sales, and management. Goal: **run your own multi-million-dollar CED branch.** No industry experience needed. **$62,000–$65,000, non-exempt** (paid hourly, so overtime past 40 hours), **plus bonus and profit sharing.** Must be willing to **relocate during and after the program.** Reports to a Training Manager. 750+ locations.
+
+**Verdict: excellent fit. Score 94 (A).** Above the $70k-target track once overtime/bonus count, real training, and a path to running a branch like Chris does. Watch-outs: less commission early than a pure sales job; you may be moved during and after the program (possibly to smaller towns); warehouse segments are physical and hot/cold.
+
+**Answers that change:**
+- **"Why this program?"** "My degree is in entrepreneurship, and CED is the rare company where a branch manager really runs the branch like their own business. I want to learn every part of it, the warehouse, the counter, the numbers, and earn a branch."
+- **"Are you willing to relocate during and after the program?"** "Yes." (True: you'll relocate anywhere.)
+- **"Warehouse segments mean lifting, heat, and cold. OK?"** "Yes. Eight seasons unloading semi-trucks on installation crews and three years in a 120-acre equipment yard."
+- **"Tell me about leadership."** Varsity baseball and soccer captain (junior and senior years); WREC supervisor who trained new hires; fraternity marketing director who rebuilt recruiting (116%).
+- **"Where do you see yourself in five years?"** "Finished with the program and running a CED branch, or on track to."
+- **"Accounting / financial statements?"** "That's the part I'm most excited to learn. I'm comfortable with numbers; I tracked my storefront's metrics every week." (Don't claim accounting experience.)
+- **Pay:** the range is posted, so no need to negotiate today. If asked: "The posted range works for me."
+
+**Questions to ask (pick 4–5):**
+1. "Where would I be based during training: Stockton or Fresno? How often do trainees move between branches?"
+2. "How are placements decided after the program, and how much say do trainees have in where they go?"
+3. "What does the path look like after the program: straight to managing a branch, or outside sales or operations first?"
+4. "What separates the trainees who get their own branch fastest?"
+5. "How do overtime, the bonus, and profit sharing typically work for trainees?"
+6. **Close:** "I'm very interested. What's the next step, and when could I start?"
+
 **Status:** interviewing (phone call with the GM). **Referral:** Eddie, whose kids Ethan coached at the gym, texted Chris: "I have someone for the outside sales position if you haven't filled it yet." Chris asked whether Ethan would work in the Stockton area and asked for a resume.
 
 ## 1. The company, in 60 seconds

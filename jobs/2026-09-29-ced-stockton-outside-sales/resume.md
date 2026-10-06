@@ -1,9 +1,9 @@
 # Ethan Santillán
 Gridley, CA 95948 | {{PHONE}} | ethansantillan03@yahoo.com | linkedin.com/in/ethansantillan
-Relocating to Stockton | Clean driving record, reliable vehicle | Available immediately
+Open to relocation | Clean driving record, reliable vehicle | Available immediately
 
 ## Summary
-Business Administration graduate (CSU Chico, Dec 2025) targeting Outside Sales Representative. Three years building quotes, work orders, and driver paperwork at an equipment business; eight-plus seasons on commercial installation crews at university, military, and corporate jobsites; and two-plus years selling face to face at a front desk handling 30+ customer conversations an hour. Comfortable on jobsites and around contractors, and ready to learn the electrical product line.
+Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship concentration) targeting CED's Management Trainee program. Three years building quotes, work orders, and driver paperwork and reconciling inventory at an equipment business; eight-plus seasons on commercial installation crews at university, military, and corporate jobsites; and two-plus years selling face to face and training new hires at a front desk handling 30+ customer conversations an hour. Ready to learn every part of the business, from the warehouse and counter to purchasing and the books, and to relocate.
 
 ## Experience
 ### Shifflet Brothers Enterprises — Oroville, CA
