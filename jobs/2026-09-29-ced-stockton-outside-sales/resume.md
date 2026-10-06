@@ -21,11 +21,12 @@ Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship concentr
 ### WREC Gym, California State University, Chico — Chico, CA
 **Supervisor, Membership & Sales Operations | Aug 2023 – Dec 2025**
 - Sold memberships and day passes at the front desk of a facility serving 500–2,000 patrons a day, handling 30+ customer conversations an hour.
-- Learned each customer's needs, handled objections, and asked for the sale; built repeat relationships with regulars.
+- Learned each member's goals and recommended the right equipment and programming; handled objections, asked for the sale, and built repeat relationships with regulars.
 - Key-holder for opening and closing; logged equipment issues and submitted work orders; trained new hires.
 
-### Fitness Content Brand and Affiliate Storefront — Gridley, CA
-**Founder | 2023 – Present**
+### Fitness Coaching, Content Brand, and Affiliate Storefront — Gridley, CA
+**Founder & Coach | 2023 – Present**
+- Coach clients one-on-one with custom training programs (about 10 to date), including paid coaching and mentoring for a teenager starting in 8th grade; now train clients out of a home gym.
 - Built a fitness brand from zero to 8M+ views (3M+ YouTube, 5M+ TikTok) with no ad budget while completing a degree.
 - Drove 252 units and $4,920 in sales in five months through an 88-product affiliate storefront; reviewed conversion metrics weekly and adjusted the offer.
 
