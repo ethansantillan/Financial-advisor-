@@ -24,14 +24,20 @@ Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship concentr
 - Learned each customer's needs, handled objections, and asked for the sale; built repeat relationships with regulars.
 - Key-holder for opening and closing; logged equipment issues and submitted work orders; trained new hires.
 
-### Fitness Content Brand and TikTok Shop Storefront — Gridley, CA
-**Founder & Operator | 2023 – Present**
-- Drove 252 units and $4,920 in settled GMV (earning $852 in commission) in five months through an 88-product storefront with no ad budget; reviewed conversion metrics weekly and adjusted the offer.
+### Fitness Content Brand and Affiliate Storefront — Gridley, CA
+**Founder | 2023 – Present**
+- Built a fitness brand from zero to 8M+ views (3M+ YouTube, 5M+ TikTok) with no ad budget while completing a degree.
+- Drove 252 units and $4,920 in sales in five months through an 88-product affiliate storefront; reviewed conversion metrics weekly and adjusted the offer.
 
 ## Leadership
 ### Phi Chi Theta, Professional Business Fraternity — CSU Chico
 **Marketing Director | 2024 – 2025**
-- Grew membership 116% by rebuilding the chapter's prospecting from scratch: targeted outreach, campus booths, and a weekly follow-up cadence; presented weekly to groups of 20+.
+- Grew membership 116% by rebuilding the chapter's recruiting from scratch: targeted outreach, campus booths, and a weekly follow-up cadence.
+- Led weekly presentations to groups of 20+ and delegated work across a marketing committee.
+
+### Varsity Baseball and Soccer — High School
+**Team Captain, both sports | Junior and Senior Years**
+- Named captain by coaches and teammates; led drills and warmups and relayed coaches' direction to the team.
 
 ## Education
 ### California State University, Chico — Chico, CA
