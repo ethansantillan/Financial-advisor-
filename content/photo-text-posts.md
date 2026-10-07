@@ -1,167 +1,164 @@
-# 30 Photo + Text Posts (Month 1)
+# THE CODE — 30 Posts (Month 1)
 
-One post a day, in this order. The order rotates the topics so the feed never repeats itself.
+A numbered series: 30 rules, one a day. Each one teaches something real (Stoic history, science or money math) in a cold, calm voice. Numbering them makes people follow to see the next one, and it shows you have a system, not just a good body.
 
-## The one rule
+## How each post is built
 
-**The photo shows the body. The text shows the mind.** Your physique already says you're strong. If the text brags too, it reads as insecure. Calm, smart text over a strong photo reads as confident, which is what women find attractive and what men respect.
+- **Slide 1:** Your photo with the **HEADLINE** in big text. Put a small tag in the corner: `THE CODE · 01`.
+- **Slide 2:** A black background (or the same photo darkened) with the 1–2 line breakdown, the **punchline** in bold, and the source in small text.
+- **Caption:** `[Punchline.] Source: [source]. The Code 01/30. Follow for 02.`
+- **Look:** Black-and-white photos, mostly not looking at the camera. One serif font (Playfair Display or Cinzel in Canva) used on every post. White text, all caps for headlines.
 
-## Style (keep it identical on every post so the feed looks like a brand)
+Why this makes people look up to you: the photo proves you live it, and the sources prove you know it. That combination is rare.
 
-- **Text:** 15 words max, one idea. White text with a slight shadow, centered or in the lower third. Pick one free font in Canva or CapCut and never change it. A serif like *Playfair Display* feels stoic; a clean sans like *Montserrat* feels modern.
-- **Photos:** Mostly black-and-white or muted color. Mostly not looking at the camera, so it feels candid. About 1/3 physique shots and 2/3 lifestyle: reading, walking, cooking, journaling, early mornings.
-- **Sizes:** Instagram 4:5 (1080×1350). TikTok photo mode 9:16 (1080×1920). On TikTok, keep text out of the bottom 20% and the right edge, where the buttons cover it.
-- **Captions:** 1–3 short lines, no emoji spam. Use 3–5 hashtags, for example `#selfimprovement #discipline #mindset #stoicism #fitness`.
-- **Batching:** Shoot 15–20 photos in one session (gym plus around town), build one Canva template, and make all 30 posts in one sitting.
+---
 
-## The posts
+**01 — THE MOST POWERFUL MAN ON EARTH KEPT A JOURNAL TO STAY HUMBLE.**
+Marcus Aurelius ruled the Roman Empire. His private notes to himself became *Meditations*: page after page of reminders to stay disciplined, patient and humble.
+**You're not too important to check yourself.**
+Photo: Writing in a notebook. Source: *Meditations*.
 
-**1 · Discipline**
-> Nobody is coming to make you do it. That's the best news you'll ever get.
-- Photo: Empty gym, early morning, sitting on a bench lacing your shoes.
-- Caption: No coach. No team. Nobody checking. Just you and whether you meant it.
+**02 — IT DOESN'T TAKE 21 DAYS TO BUILD A HABIT. IT TAKES ABOUT 66.**
+A University College London study tracked people building new habits. On average it took 66 days to feel automatic, and some took 254.
+**Most people quit right before it gets easy.**
+Photo: Early-morning gym. Source: Lally et al., 2009.
 
-**2 · Character**
-> Strength is calm. If you have to announce it, you don't have it.
-- Photo: Back shot after a set, low light, standing still.
-- Caption: The loudest guy in the room is usually trying to convince himself.
+**03 — ONE WEEK OF 5-HOUR NIGHTS CUT TESTOSTERONE 10–15%.**
+Healthy young men slept 5 hours a night for a week, and their daytime testosterone dropped 10–15%.
+**Sleep is the strongest legal performance enhancer there is.**
+Photo: Physique shot, low light. Source: JAMA, 2011.
 
-**3 · Attention**
-> Check your screen time. That's the hours you said you didn't have.
-- Photo: Sitting outside, phone face-down next to you, looking off.
-- Caption: Most people don't have a time problem. Drop your number below if you're brave enough to check.
+**04 — EVERY $100 YOU WASTE AT 23 IS ~$1,500 YOU WON'T HAVE AT 63.**
+At a 7% average yearly return, money roughly doubles every 10 years. Forty years is about 15x.
+**Being frugal at 23 isn't cheap. It's strategic.**
+Photo: Coffee and a laptop, plain fit.
 
-**4 · Money**
-> Looking rich costs money. Being wealthy costs patience.
-- Photo: Plain tee, coffee, walking. Understated.
-- Caption: The car impresses people for a week. The investment account changes your life for decades.
+**05 — YOUR BRAIN GETS MORE DOPAMINE FROM CHASING THAN FROM CATCHING.**
+Dopamine drives *wanting*, not *enjoying*. That's why the next scroll, the next bet, the next notification never feels like enough. It was built that way.
+**Stop chasing a feeling designed to stay out of reach.**
+Photo: Phone face-down, you looking away.
 
-**5 · Physique**
-> Progress is invisible for months. Then it's obvious all at once.
-- Photo: Post-workout pump, side lighting.
-- Caption: Most people quit during the invisible part. That's why they never see the obvious part.
+**06 — EPICTETUS WAS BORN A SLAVE. HE BECAME ONE OF THE GREATEST PHILOSOPHERS IN HISTORY.**
+His first lesson was that some things are up to you and some aren't. Put everything into the first list and nothing into the second.
+**They owned his body. He never let them own his mind.**
+Photo: Back shot, black-and-white. Source: *Enchiridion*, ch. 1.
 
-**6 · Self-awareness**
-> Most of your anger is just being tired and hungry with an opinion.
-- Photo: Cooking or eating a meal, relaxed.
-- Caption: Eat. Sleep. Then decide if it's still a problem. It usually isn't.
+**07 — GRIP STRENGTH PREDICTED DEATH RISK BETTER THAN BLOOD PRESSURE.**
+A study of nearly 140,000 adults across 17 countries tied weaker grip to a higher risk of early death.
+**Strength isn't vanity. It's survival.**
+Photo: Chalked hands on a bar. Source: The Lancet, 2015.
 
-**7 · Learning**
-> Read 10 pages a day. In a year, you're a different person to talk to.
-- Photo: Reading in natural light.
-- Caption: Currently reading: [BOOK]. What's on your nightstand?
+**08 — "WE SUFFER MORE OFTEN IN IMAGINATION THAN IN REALITY." — SENECA**
+Your brain runs worst-case scenarios on repeat to keep you safe, and it charges you your peace for it. Most of them never show up.
+**Handle what's real. Ignore the rest.**
+Photo: From behind, looking out over water or a city. Source: Letters, 13.
 
-**8 · Peace**
-> Most of what you're stressed about will never happen. The rest, you'll handle.
-- Photo: From behind, looking out at water, a sunset or the city.
-- Caption: You've survived every one of your worst days so far. Good track record.
+**09 — PEOPLE WITH THE MOST SELF-CONTROL USE IT THE LEAST.**
+Research shows people high in self-control don't win more fights with temptation; they avoid the fight. The phone stays in another room, and there's no junk in the house.
+**Discipline isn't willpower. It's design.**
+Photo: Meal prep lined up. Source: Ent, Baumeister & Tice, 2015.
 
-**9 · Discipline**
-> You don't need more motivation. You need fewer options.
-- Photo: Gym bag by the door, or meal-prep containers lined up.
-- Caption: Phone in another room. Clothes laid out. Meals already made. Make the right choice the easy one.
+**10 — AT -110 ODDS, YOU HAVE TO WIN 52.4% OF YOUR BETS JUST TO BREAK EVEN.**
+Most bettors don't. Every "lock" pays the sportsbook's rent.
+**The house doesn't need luck. It has math.**
+Photo: Watching a game, arms crossed, expressionless.
 
-**10 · Character**
-> A man who keeps small promises can be trusted with big ones.
-- Photo: Still dark outside, heading out the door.
-- Caption: Start with the promises you make to yourself. Nobody else is keeping track of those.
+**11 — SENECA WAS ONE OF THE RICHEST MEN IN ROME. HE PRACTICED BEING POOR.**
+For days at a time he ate cheap food and wore rough clothes, then asked himself: "Is this what I was afraid of?"
+**Fear dies once you've lived the worst case.**
+Photo: Plain hoodie, simple meal. Source: Letters, 18.
 
-**11 · Self-awareness**
-> If the same problem keeps showing up, look at who's always there.
-- Photo: Mirror shot, not flexing, just looking at yourself. Black-and-white.
-- Caption: Hardest lesson to learn. Most useful one too.
+**12 — YOU GET ABOUT 4,000 WEEKS. AT 23, I'VE ALREADY USED 1,200.**
+80 years × 52 weeks ≈ 4,160. The Stoics said *memento mori*: remember you will die. Not to be dark, but to stop wasting time.
+**Act like the clock is real. It is.**
+Photo: Watch on your wrist mid-workout.
 
-**12 · Money**
-> Measure yourself by what you can walk away from, not what you can buy.
-- Photo: Walking away from the camera down a street.
-- Caption: Savings is freedom. The job you can quit, the deal you can refuse, the person you don't have to tolerate.
+**13 — A 2-MINUTE WALK AFTER YOU EAT LOWERS YOUR BLOOD-SUGAR SPIKE.**
+A 2022 review found that even 2–5 minutes of light walking after a meal measurably blunted blood sugar compared with sitting.
+**Small things done daily beat big things done once.**
+Photo: Walking outside after a meal. Source: *Sports Medicine*, 2022.
 
-**13 · Physique**
-> Your body keeps the receipts.
-- Photo: Close-up of your back or arms, gritty lighting.
-- Caption: Every rep, every meal, every night of sleep. It all shows up eventually. So does everything you skipped.
+**14 — YOUR FRIENDS' HABITS ARE CONTAGIOUS. LITERALLY.**
+A study that followed 12,000 people for 32 years found that when a close friend became obese, a person's own odds of becoming obese rose 57%.
+**Choose your circle like your future depends on it. It does.**
+Photo: With friends, backs to the camera. Source: NEJM, 2007.
 
-**14 · Habits**
-> Quick wins feel good. Slow wins change your life.
-- Photo: Sitting on the gym floor between sets, towel, exhausted.
-- Caption: Anything that pays you instantly usually charges you later. Pick the slow one.
+**15 — THE OBSTACLE IS THE WAY.**
+"The impediment to action advances action. What stands in the way becomes the way." Marcus Aurelius wrote that while running an empire through war and plague.
+**The thing blocking you is the training.**
+Photo: Mid-set, face strained. Source: *Meditations* 5.20.
 
-**15 · Attention**
-> Boredom is where your best ideas were waiting. You keep scrolling past them.
-- Photo: On a walk, no headphones, outdoors.
-- Caption: One walk this week with no phone and no music. See what shows up.
+**16 — RE-READING FEELS LIKE LEARNING. TESTING YOURSELF IS LEARNING.**
+Students who quizzed themselves remembered significantly more a week later than students who just re-read.
+**Close the book. Explain it out loud. That's how smart people get smart.**
+Photo: Reading, pen in hand. Source: Roediger & Karpicke, 2006.
 
-**16 · Attraction**
-> The most attractive thing a man can have is a life he's building on purpose.
-- Photo: Candid, mid-laugh or mid-conversation. Warm color, a break from the black-and-white.
-- Caption: Not money. Not looks. Direction.
+**17 — ZENO LOST EVERYTHING IN A SHIPWRECK. THEN HE FOUNDED STOICISM.**
+A wealthy merchant, wrecked off Athens, wandered into a bookshop and found philosophy. Later he said: "I made a prosperous voyage when I suffered shipwreck."
+**Your worst day might be your starting line.**
+Photo: Black-and-white, alone, serious. Source: Diogenes Laertius, *Lives* 7.
 
-**17 · Learning**
-> Being wrong is free tuition. Staying wrong is the expensive part.
-- Photo: Journaling at a table.
-- Caption: Say "I was wrong" out loud this week. It gets easier, and you get smarter.
+**18 — YOUR PHONE DRAINS YOUR BRAIN EVEN WHEN IT'S FACE-DOWN.**
+People did worse on focus tests with a silenced phone on the desk than with it in another room.
+**Out of sight isn't enough. Out of the room.**
+Photo: Desk, book open, no phone. Source: Ward et al., 2017.
 
-**18 · Discipline**
-> Consistency is doing the boring thing on the days nobody's watching.
-- Photo: Incline walk or cardio, sweaty, unglamorous.
-- Caption: The highlight reel gets built in moments like this one.
+**19 — CONFIDENCE ISN'T A FEELING. IT'S A RECEIPT.**
+Every promise you keep to yourself is proof. Stack enough of it and you stop needing anyone to believe in you.
+**No affirmations. Just evidence.**
+Photo: Direct eye contact, serious portrait.
 
-**19 · Growth**
-> Compete with who you were last year. He's the only fair fight.
-- Photo: A 2-slide carousel with an old high-school sports photo, then you now.
-- Caption: Different guy. Same name. What's changed about you in the last year?
+**20 — MUSCLE ISN'T BUILT IN THE GYM.**
+Training is the signal. Growth happens afterward, while you eat and sleep. Research puts the sweet spot around 1.6 g of protein per kg of bodyweight a day (≈0.7 g/lb).
+**Recovery isn't rest. It's the second half of the job.**
+Photo: Post-workout meal. Source: Morton et al., 2018.
 
-**20 · Character**
-> Being respected and being liked are different. Pick the one that lasts.
-- Photo: Serious portrait with direct eye contact. Rare in your feed, so it hits.
-- Caption: People like whoever agrees with them. They respect whoever tells them the truth.
+**21 — "HOW MUCH MORE GRIEVOUS ARE THE CONSEQUENCES OF ANGER THAN THE CAUSES OF IT." — MARCUS AURELIUS**
+The insult lasts a second. What you do about it can last years.
+**A man who can't be provoked can't be controlled.**
+Photo: Calm, still, black-and-white. Source: *Meditations* 11.18.
 
-**21 · Self-awareness**
-> Don't trust any decision you make at 1 a.m.
-- Photo: Night, low light, a room lit by one lamp.
-- Caption: Tired brain, bad math. Sleep on it. Decide in the morning.
+**22 — START INVESTING AT 23 INSTEAD OF 33 AND YOU COULD HAVE TWICE THE MONEY.**
+$300 a month at a 7% average return: start at 23 and you have ~$629K by 60. Start at 33 and you have ~$287K.
+**Same habit. Ten years late cost $340K.**
+Photo: Laptop, coffee, early morning. Math: 7% is a long-run average, not a guarantee.
 
-**22 · Money**
-> The guy who's quiet about money usually has the most of it.
-- Photo: Plain outfit, coffee, laptop.
-- Caption: Spend less than you make. Invest the difference. Let time do the bragging.
+**23 — BIG AND OUT OF BREATH ISN'T STRONG.**
+In a study of 122,000 patients, low cardio fitness carried a death risk as big as or bigger than smoking or diabetes.
+**Build the engine, not just the frame.**
+Photo: Running or doing incline cardio, sweaty. Source: JAMA Network Open, 2018.
 
-**23 · Physique**
-> Nobody sees the early sets. They see the result and call it genetics.
-- Photo: Mid-lift, chalk, focused.
-- Caption: Let them call it genetics. You know what it cost.
+**24 — THE STOICS REHEARSED DISASTER ON PURPOSE.**
+It's called *premeditatio malorum*. Each morning, picture losing the job, the money or the person, then decide how you'd handle it.
+**What you've already faced in your head can't ambush you.**
+Photo: Sitting on the edge of your bed at dawn. Source: Seneca; *Meditations* 2.1.
 
-**24 · Habits**
-> Any habit you have to hide is already costing you more than you think.
-- Photo: Hands only, taped or clasped, low light.
-- Caption: Not judging. Just asking: what would change if you dropped it for 30 days?
+**25 — "IT IS NOT THAT WE HAVE A SHORT TIME TO LIVE, BUT THAT WE WASTE A LOT OF IT." — SENECA**
+He wrote that 2,000 years before the infinite scroll.
+**Your life isn't short. Your attention is leaking.**
+Photo: Walking, no headphones. Source: *On the Shortness of Life*.
 
-**25 · Learning**
-> The smartest people ask the most questions. Ego hates that.
-- Photo: Notebook and pen, thinking.
-- Caption: Ask the "dumb" question. Half the room was wondering too.
+**26 — "WE HAVE TWO EARS AND ONE MOUTH SO WE CAN LISTEN MORE AND TALK LESS." — ZENO**
+The founder of Stoicism said it. The quietest man in the room usually knows the most about everyone in it.
+**Listen more. Watch what happens.**
+Photo: Candid, listening to someone. Source: Diogenes Laertius, *Lives* 7.23.
 
-**26 · Peace**
-> Gratitude is just noticing what's already going right.
-- Photo: Outdoors, morning sun, eyes closed.
-- Caption: Three things before you touch your phone tomorrow morning. Try it once.
+**27 — PROGRESSIVE OVERLOAD IS THE ONLY GYM LAW THAT MATTERS.**
+Muscle grows when you demand more than last time: one more rep, a little more weight, a cleaner set. The same workout gets you the same body.
+**Life works the same way. Comfort is a plateau.**
+Photo: Loading plates.
 
-**27 · Relationships**
-> Choose people who'd still like you on your worst day.
-- Photo: With friends, backs to the camera.
-- Caption: Tag the one who'd show up.
+**28 — LIFESTYLE CREEP IS HOW HIGH EARNERS STAY BROKE.**
+When income rises, spending quietly rises to match. The rule: save at least half of every raise.
+**Wealth is the gap between what you make and what you spend.**
+Photo: Plain fit, nothing flashy.
 
-**28 · Discipline**
-> The days you don't feel like it are the only days that test you.
-- Photo: Training or running in bad weather.
-- Caption: Anyone can show up when they feel good.
+**29 — AMOR FATI.**
+It means love of fate: not putting up with what happens, but wanting it, because it's the material you build with. The Stoics lived it; Nietzsche named it.
+**Whatever happened to you is now your training.**
+Photo: Best black-and-white portrait.
 
-**29 · Character**
-> Be the man people feel safe around. That's real strength.
-- Photo: Calm and candid, spotting someone or with family.
-- Caption: Strong enough to protect. Calm enough that you never have to.
-
-**30 · The bridge to video**
-> I'm not where I want to be. I'm just not where I was.
-- Photo: Your best physique shot, black-and-white.
-- Caption: One month of showing up every day. Next month, I start talking. Stick around.
+**30 — 30 RULES. ONE MONTH. NEXT MONTH, I START EXPLAINING THEM FACE TO FACE.**
+I'm 23. This is the code I live by, and I'm getting better at it every day.
+**Follow if you're building yours.**
+Photo: Your best physique shot, black-and-white.
