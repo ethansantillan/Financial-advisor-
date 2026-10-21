@@ -3,7 +3,7 @@
 | Likely question | Answer |
 |---|---|
 | Bachelor's degree? | Yes. B.S. Business Administration (Entrepreneurship), Minor in Management, CSU Chico, Dec 2025 |
-| At least 21? | ❓ Confirm yes (required for DOT) |
+| At least 21? | Yes (confirmed 21 Oct) |
 | Valid driver's license? Able to meet DOT requirements and get a DOT medical certificate? | Yes / Yes |
 | Can you provide previous employment documentation? | Yes (list employers and dates from the resume) |
 | Willing to relocate regionally? | Yes |

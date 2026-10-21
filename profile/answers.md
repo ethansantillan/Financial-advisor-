@@ -18,7 +18,7 @@
 | Highest education | B.S. Business Administration (Entrepreneurship), Minor in Management, CSU Chico, Dec 2025 | ✅ |
 | GPA | Leave blank when optional. If required, check your transcript first (you think 2.8–3.0) | ✅ 29 Sep |
 | Background check / drug screen OK? | ❓ (almost every sales job runs one; say yes and I'll save it) | ❓ |
-| Over 18 | Yes | ✅ |
+| Over 18 / over 21 | Yes / Yes | ✅ 21 Oct |
 | References | ❓ Two or three names with permission (e.g., WREC supervisor, a professor) | ❓ |
 | How did you hear about us? | The actual source per job (Indeed, company site, etc.) | per job |
 | Email on applications | ethansantillan03@yahoo.com (replies land in Yahoo, which I can't read; forward them to werbuiltdifferent1@gmail.com or tell me) | ✅ 29 Sep |
