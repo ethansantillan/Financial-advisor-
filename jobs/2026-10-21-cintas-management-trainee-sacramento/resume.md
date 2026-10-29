@@ -3,20 +3,24 @@ Gridley, CA 95948 | {{PHONE}} | ethansantillan03@yahoo.com | linkedin.com/in/eth
 Open to regional relocation | Valid driver's license, clean driving record | Available immediately
 
 ## Summary
-Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship concentration, Minor in Management) targeting Cintas's Management Trainee program. Three-year internship building quotes, work orders, and driver paperwork and reconciling inventory at an equipment business; eight-plus seasons on commercial installation crews loading and unloading semi-trucks on deadline; and two-plus years as a front-desk supervisor selling memberships, solving customer issues, and training new hires at a facility serving 500–2,000 people a day. Campus leader and two-sport varsity captain, ready to learn outside sales, warehouse, office, and service management.
+Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship concentration, Minor in Management) targeting Cintas's Management Trainee program. Three-year internship at an equipment business, eight-plus seasons on commercial installation crews (now acting crew lead), a walnut-harvest shipping role, and two-plus years as a front-desk sales supervisor training new hires. Campus leader and two-sport varsity captain.
 
 ## Experience
 ### Shifflet Brothers Enterprises — Oroville, CA
 **Project Intern | Jun 2018 – Aug 2021**
-- Built quotes, processed driver paperwork, and organized work orders for an equipment business.
-- Kept inventory records matched to physical stock across a 120-acre equipment yard; operated forklifts and loaded and unloaded trucks.
+- Built quotes, processed driver paperwork, and organized work orders; kept inventory records matched to physical stock across a 120-acre equipment yard; operated forklifts.
+
+### Millennium Farms — Gridley, CA
+**Harvest Equipment Operator (Seasonal) | Oct 2026 – Present**
+- Run a John Deere 410J backhoe loader, tractors, and a forklift to move walnut trailers and stage product for shipping.
+- Load and stage 4–8 semi-trucks a day at 25–30 tons each with one coworker; log every truck's carrier, license plate, and shipped weight on loads valued at $50K–$200K.
 
 ### Affordable Installation — Northern California
-**Installation Crew Member | Jan 2026 – Present**
+**Installation Crew Member & Acting Crew Lead | Jan 2026 – Present**
 - Install furniture and equipment on multi-floor commercial projects at university, military, and corporate sites with a crew of about 12; load and unload full semi-truck shipments and meet on-time delivery deadlines.
+- Lead the crew when the supervisor is on another job: assign tasks, keep the day on schedule, train new crew members, and make sure semi-trucks arrive on time to unload.
 
 **Installation Crew Member (Seasonal) | 2016 – 2024**
-- Eight consecutive seasons on multi-site commercial projects; back on the crew since graduating.
 
 ### WREC Gym, California State University, Chico — Chico, CA
 **Supervisor, Membership & Sales Operations | Aug 2023 – Dec 2025**
@@ -33,16 +37,11 @@ Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship concentr
 ## Leadership
 ### Phi Chi Theta, Professional Business Fraternity — CSU Chico
 **Marketing Director | 2024 – 2025**
-- Grew membership 116% by rebuilding the chapter's recruiting from scratch: targeted outreach, campus booths, and a weekly follow-up cadence.
-- Led weekly presentations to groups of 20+ and delegated work across a marketing committee.
-
-### Varsity Baseball and Soccer — High School
-**Team Captain, both sports | Junior and Senior Years**
-- Named captain by coaches and teammates; led drills and warmups and relayed coaches' direction to the team.
+- Grew membership 116% by rebuilding recruiting from scratch (targeted outreach, campus booths, weekly follow-up); led weekly presentations to groups of 20+ and delegated work across a committee.
 
 ## Education
 ### California State University, Chico — Chico, CA
 **B.S. Business Administration, Entrepreneurship; Minor in Management | Dec 2025**
 
 ## Skills
-Quoting · Work orders and driver paperwork · Inventory reconciliation · Jobsite logistics · Face-to-face selling · Prospecting and follow-up · Excel, PowerPoint, Word
+Quoting · Shipping logs · Inventory reconciliation · Equipment operation · Face-to-face selling · Excel, PowerPoint, Word

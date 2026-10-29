@@ -17,12 +17,17 @@ Business Administration graduate (CSU Chico, Dec 2025) targeting Entry Level Out
 - Drove 252 units and $4,920 in settled GMV (earning $852 in commission) in five months, May–Oct 2025, through an 88-product storefront with no ad budget.
 - Grew an audience from zero to 3M+ YouTube and 5M+ TikTok views while completing a degree and working; reviewed conversion metrics weekly and adjusted the offer.
 
+### Millennium Farms — Gridley, CA
+**Harvest Equipment Operator (Seasonal) | Oct 2026 – Present**
+- Run a John Deere 410J backhoe loader, tractors, and a forklift to move walnut trailers and stage product for shipping.
+- Load and stage 4–8 semi-trucks a day at 25–30 tons each with one coworker; log every truck's carrier, license plate, and shipped weight on loads valued at $50K–$200K.
+
 ### Affordable Installation — Northern California
-**Installation Crew Member | Jan 2026 – Present**
+**Installation Crew Member & Acting Crew Lead | Jan 2026 – Present**
 - Install furniture on multi-floor commercial projects at university, military, and corporate sites with a crew of about 12 across multiple sites; load and unload full semi-truck shipments to on-time delivery deadlines.
+- Lead the crew when the supervisor is on another job: assign tasks, keep the day on schedule, train new crew members, and make sure semi-trucks arrive on time to unload.
 
 **Installation Crew Member (Seasonal) | 2016 – 2024**
-- Eight consecutive seasons on multi-site commercial projects; back on the crew since graduating.
 
 ### Shifflet Brothers Enterprises — Oroville, CA
 **Project Intern | Jun 2018 – Aug 2021**

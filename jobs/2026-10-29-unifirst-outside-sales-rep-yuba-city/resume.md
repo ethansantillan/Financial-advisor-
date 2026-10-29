@@ -3,7 +3,7 @@ Gridley, CA 95948 | {{PHONE}} | ethansantillan03@yahoo.com | linkedin.com/in/eth
 Valid driver's license, clean driving record, reliable vehicle | Based in Gridley, 20 minutes from Yuba City
 
 ## Summary
-Business Administration graduate (CSU Chico, Dec 2025; Minor in Management) targeting Outside Sales Representative in the Yuba City territory. Two-plus years of in-person selling at a front desk handling 30+ customer conversations an hour, 116% membership growth from prospecting and follow-up I rebuilt from scratch, and years inside the facilities UniFirst serves: equipment yards, commercial jobsites, a restaurant, and a grocery department. Two-sport varsity captain: self-motivated, goal-oriented, and coachable.
+Business Administration graduate (CSU Chico, Dec 2025; Minor in Management) targeting Outside Sales Representative in the Yuba City territory. Two-plus years of in-person selling at a front desk handling 30+ customer conversations an hour, 116% membership growth from prospecting and follow-up rebuilt from scratch, and years inside the kinds of businesses UniFirst serves: equipment yards, commercial jobsites, and a farm. Two-sport varsity captain: self-motivated, goal-oriented, and coachable.
 
 ## Experience
 ### WREC Gym, California State University, Chico — Chico, CA
@@ -17,33 +17,33 @@ Business Administration graduate (CSU Chico, Dec 2025; Minor in Management) targ
 - Drove 252 units and $4,920 in sales in five months through an 88-product affiliate storefront with no ad budget; reviewed conversion metrics weekly and adjusted the offer.
 - Built a fitness brand from zero to 8M+ views (3M+ YouTube, 5M+ TikTok); coach clients one-on-one with custom programs (about 10 to date).
 
+### Millennium Farms — Gridley, CA
+**Harvest Equipment Operator (Seasonal) | Oct 2026 – Present**
+- Run a John Deere 410J backhoe loader, tractors, and a forklift to move walnut trailers and stage product for shipping.
+- Load and stage 4–8 semi-trucks a day at 25–30 tons each with one coworker; log every truck's carrier, license plate, and shipped weight on loads valued at $50K–$200K.
+
 ### Affordable Installation — Northern California
-**Installation Crew Member | Jan 2026 – Present**
+**Installation Crew Member & Acting Crew Lead | Jan 2026 – Present**
 - Install furniture on multi-floor commercial projects at university, military, and corporate sites with a crew of about 12; load and unload full semi-truck shipments to on-time deadlines.
+- Lead the crew when the supervisor is on another job: assign tasks, keep the day on schedule, train new crew members, and make sure semi-trucks arrive on time to unload.
 
 **Installation Crew Member (Seasonal) | 2016 – 2024**
-- Eight consecutive seasons on multi-site commercial projects; back on the crew since graduating.
 
 ### Shifflet Brothers Enterprises — Oroville, CA
 **Project Intern | Jun 2018 – Aug 2021**
-- Built quotes, processed driver paperwork, and organized work orders for an equipment business; reconciled inventory across a 120-acre yard.
-
-### Additional Experience
-Pour House Restaurant, Chico, CA — Service Support, May 2024 – Dec 2024 · Raley's, Chico, CA — Meat Clerk, May 2022 – Aug 2022
+- Built quotes, processed driver paperwork, and organized work orders; kept inventory records matched to physical stock across a 120-acre equipment yard; operated forklifts.
 
 ## Leadership
 ### Phi Chi Theta, Professional Business Fraternity — CSU Chico
 **Marketing Director | 2024 – 2025**
-- Grew membership 116% by rebuilding the chapter's prospecting from scratch: structured targeting, networking at campus booths, and a disciplined weekly follow-up cadence.
-- Delivered weekly presentations to groups of 20+ and delegated work across a marketing committee.
+- Grew membership 116% by rebuilding recruiting from scratch (targeted outreach, campus booths, weekly follow-up); led weekly presentations to groups of 20+ and delegated work across a committee.
 
 ### Varsity Baseball and Soccer — High School
 **Team Captain, both sports | Junior and Senior Years**
-- Named captain by coaches and teammates; led drills and warmups.
 
 ## Education
 ### California State University, Chico — Chico, CA
 **B.S. Business Administration, Entrepreneurship; Minor in Management | Dec 2025**
 
 ## Skills
-In-person selling · Prospecting and follow-up · Presentations · Quoting · Relationship building · Excel, PowerPoint, Word
+In-person selling · Prospecting and follow-up · Presentations · Quoting · Excel, PowerPoint, Word
