@@ -18,7 +18,7 @@ Business Administration graduate (CSU Chico, Dec 2025; Minor in Management) targ
 - Built a fitness brand from zero to 8M+ views (3M+ YouTube, 5M+ TikTok); coach clients one-on-one with custom programs (about 10 to date).
 
 ### Millennium Farms — Gridley, CA
-**Harvest Equipment Operator (Seasonal) | Oct 2026 – Present**
+**Harvest Operations & Shipping Coordinator (Seasonal) | Oct 2026 – Present**
 - Run a John Deere 410J backhoe loader, tractors, and a forklift to move walnut trailers and stage product for shipping.
 - Load and stage 4–8 semi-trucks a day at 25–30 tons each with one coworker; log every truck's carrier, license plate, and shipped weight on loads valued at $50K–$200K.
 

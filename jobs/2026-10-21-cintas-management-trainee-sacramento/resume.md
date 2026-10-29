@@ -11,7 +11,7 @@ Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship concentr
 - Built quotes, processed driver paperwork, and organized work orders; kept inventory records matched to physical stock across a 120-acre equipment yard; operated forklifts.
 
 ### Millennium Farms — Gridley, CA
-**Harvest Equipment Operator (Seasonal) | Oct 2026 – Present**
+**Harvest Operations & Shipping Coordinator (Seasonal) | Oct 2026 – Present**
 - Run a John Deere 410J backhoe loader, tractors, and a forklift to move walnut trailers and stage product for shipping.
 - Load and stage 4–8 semi-trucks a day at 25–30 tons each with one coworker; log every truck's carrier, license plate, and shipped weight on loads valued at $50K–$200K.
 
