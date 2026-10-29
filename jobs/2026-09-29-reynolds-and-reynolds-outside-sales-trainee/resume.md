@@ -18,8 +18,8 @@ Business Administration graduate (CSU Chico, Dec 2025) targeting Entry Level Out
 - Grew an audience from zero to 3M+ YouTube and 5M+ TikTok views while completing a degree and working; reviewed conversion metrics weekly and adjusted the offer.
 
 ### Millennium Farms — Gridley, CA
-**Harvest Operations & Shipping Coordinator (Seasonal) | Oct 2026 – Present**
-- Run a John Deere 410J backhoe loader, tractors, and a forklift to move walnut trailers and stage product for shipping.
+**Harvest Operations & Shipping Lead (Seasonal) | Oct 2026 – Present**
+- Direct the crew when the manager is off-site, assigning tasks to keep each day's truck loads on schedule; run a John Deere 410J backhoe loader, tractors, and a forklift.
 - Load and stage 4–8 semi-trucks a day at 25–30 tons each with one coworker; log every truck's carrier, license plate, and shipped weight on loads valued at $50K–$200K.
 
 ### Affordable Installation — Northern California
