@@ -19,7 +19,8 @@
   - **Instagram:** content also got Instagram views (no count). "8M+ views" (TikTok + YouTube) stays the number.
   - **$13.5K TikTok Shop GMV** (in Ethan's old LinkedIn draft) is **not confirmed**; Ethan doesn't remember its source. Use the confirmed 252 units / $4,920 only.
   - **Why sales:** successful people he looks up to started in sales; wants to learn from the best and be paid on production; faith: believes he's meant for more.
-- **Seasonal walnut harvest work, Oct–Nov 2026** (told 29 Oct; ends early Nov). Employer and role ❓; not on resumes until confirmed.
+- **Seasonal walnut harvest work, Oct–Nov 2026** (told 29 Oct; ends early Nov). Ethan's description: works on equipment; preps walnuts; ships them out; logs each incoming truck's carrier name and license plate and the weight shipped per truck; each load worth ~$50K–$200K (his estimate). ⚠️ Pending before it goes on a resume: employer name and town, job title, start date, which equipment (huller/dryer line? forklift?), weight unit (pounds/tons, not ounces), roughly how many loads a day.
+- **Installation "lead" (asked 29 Oct):** Ethan asked to change the title to "member and lead." ❓ Not used until he says what he directs (people, tasks, sites), how often, since when, and that his boss would confirm it on a reference call.
 - **Applied earlier in 2026, no response:** Fidelity (resume dated 3 Mar 2026), a Home Depot vendor-rep role (resume dated 12 Jan 2026).
 
 **Sources** (newest first)
