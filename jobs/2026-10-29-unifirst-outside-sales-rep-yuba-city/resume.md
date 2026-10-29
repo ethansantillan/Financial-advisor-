@@ -14,7 +14,7 @@ Business Administration graduate (CSU Chico, Dec 2025; Minor in Management) targ
 
 ### Fitness Coaching, Content Brand, and Affiliate Storefront — Gridley, CA
 **Founder & Coach | 2023 – Present**
-- Drove 252 units and $4,920 in sales in five months through an 88-product affiliate storefront with no ad budget; reviewed conversion metrics weekly and adjusted the offer.
+- Sold 252 products in five months through self-produced short-form video and an affiliate storefront, with zero ad spend; reviewed conversion metrics weekly and adjusted the offer.
 - Built a fitness brand from zero to 8M+ views (3M+ YouTube, 5M+ TikTok); coach clients one-on-one with custom programs (about 10 to date).
 
 ### Millennium Farms — Gridley, CA

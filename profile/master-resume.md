@@ -37,7 +37,7 @@ Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship, Minor i
 ### Fitness Coaching, Content Brand, and Affiliate Storefront — Gridley, CA
 **Founder & Coach | 2023 – Present**
 - Coach clients one-on-one with custom training programs (about 10 to date), including paid coaching and mentoring for a teenager starting in 8th grade.
-- Drove 252 units and $4,920 in sales in five months through an 88-product affiliate storefront with no ad budget.
+- Sold 252 products in five months through self-produced short-form video and an affiliate storefront, with zero ad spend.
 - Grew an audience from zero to 3M+ YouTube and 5M+ TikTok views; reviewed engagement and conversion metrics weekly and adjusted content and offers.
 
 ### Shifflet Brothers Enterprises — Oroville, CA

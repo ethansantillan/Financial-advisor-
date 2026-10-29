@@ -3,7 +3,7 @@ Gridley, CA 95948 | {{PHONE}} | ethansantillan03@yahoo.com | linkedin.com/in/eth
 Ready to relocate to Cincinnati and start immediately | Clean driving record
 
 ## Summary
-Business Administration graduate (CSU Chico, Dec 2025) targeting TQL's Fast Track Sales Program. Two-plus years at a sales front desk handling 30+ customer conversations an hour, $4,920 in sales driven through a storefront I built with no ad budget, and hands-on freight exposure: semi-truck shipments on delivery deadlines and quotes and driver paperwork at an equipment business. Competitive and resilient, with the work ethic of eight straight seasons on installation crews.
+Business Administration graduate (CSU Chico, Dec 2025) targeting TQL's Fast Track Sales Program. Two-plus years at a sales front desk handling 30+ customer conversations an hour, 252 products sold through self-produced video with zero ad spend, and hands-on freight exposure: semi-truck shipments on delivery deadlines and quotes and driver paperwork at an equipment business. Competitive and resilient, with the work ethic of eight straight seasons on installation crews.
 
 ## Experience
 ### WREC Gym, California State University, Chico — Chico, CA
@@ -21,7 +21,7 @@ Business Administration graduate (CSU Chico, Dec 2025) targeting TQL's Fast Trac
 
 ### Fitness Content Brand and TikTok Shop Storefront — Gridley, CA
 **Founder & Operator | 2023 – Present**
-- Built an 88-product storefront that drove 252 units and $4,920 in settled GMV (earning $852 in commission) in five months, May–Oct 2025, with no ad budget.
+- Sold 252 products in five months through self-produced short-form video and an affiliate storefront, with zero ad spend.
 - Grew an audience from zero to 3M+ YouTube and 5M+ TikTok views; reviewed conversion metrics weekly and adjusted the offer.
 
 ### Shifflet Brothers Enterprises — Oroville, CA

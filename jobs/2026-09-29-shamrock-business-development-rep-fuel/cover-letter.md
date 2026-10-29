@@ -11,7 +11,7 @@ The posting asks for 2+ years of customer service. I spent two-plus years at the
 
 I've also worked around trucks and drivers for years. For three years at an equipment business I built quotes, processed driver paperwork, and organized work orders. For eight seasons on commercial installation crews I've unloaded full semi-truck shipments on delivery deadlines, so I know how much a job depends on the truck showing up on time.
 
-I track my own numbers. I drove $4,920 in sales through an 88-product storefront in five months with no ad budget, reviewing conversion metrics every week. As marketing director of my business fraternity I rebuilt our outreach and followed up every week, and membership grew 116%.
+I track my own numbers. My videos sold 252 products in five months with zero ad spend, and I reviewed conversion metrics every week. As marketing director of my business fraternity I rebuilt our outreach and followed up every week, and membership grew 116%.
 
 I graduated from CSU Chico in December 2025 with a B.S. in Business Administration. Could we set up a call this week?
 

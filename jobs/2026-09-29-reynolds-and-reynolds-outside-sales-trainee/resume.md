@@ -3,7 +3,7 @@ Gridley, CA 95948 | {{PHONE}} | ethansantillan03@yahoo.com | linkedin.com/in/eth
 Valid driver's license, clean driving record | Ready to travel 80–100% and relocate anywhere
 
 ## Summary
-Business Administration graduate (CSU Chico, Dec 2025) targeting Entry Level Outside Sales Trainee. Two-plus years selling memberships and day passes face to face at a front desk handling 30+ customer conversations an hour, $4,920 in sales driven through my own storefront, and 116% membership growth from outreach I rebuilt from scratch. Builds customer relationships, manages time without supervision, is comfortable in the field, and is ready to start immediately.
+Business Administration graduate (CSU Chico, Dec 2025) targeting Entry Level Outside Sales Trainee. Two-plus years selling memberships and day passes face to face at a front desk handling 30+ customer conversations an hour, 252 products sold through self-produced video with zero ad spend, and 116% membership growth from outreach I rebuilt from scratch. Builds customer relationships, manages time without supervision, is comfortable in the field, and is ready to start immediately.
 
 ## Experience
 ### WREC Gym, California State University, Chico — Chico, CA
@@ -14,7 +14,7 @@ Business Administration graduate (CSU Chico, Dec 2025) targeting Entry Level Out
 
 ### Fitness Content Brand and TikTok Shop Storefront — Gridley, CA
 **Founder & Operator | 2023 – Present**
-- Drove 252 units and $4,920 in settled GMV (earning $852 in commission) in five months, May–Oct 2025, through an 88-product storefront with no ad budget.
+- Sold 252 products in five months through self-produced short-form video and an affiliate storefront, with zero ad spend.
 - Grew an audience from zero to 3M+ YouTube and 5M+ TikTok views while completing a degree and working; reviewed conversion metrics weekly and adjusted the offer.
 
 ### Millennium Farms — Gridley, CA
