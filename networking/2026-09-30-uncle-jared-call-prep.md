@@ -52,3 +52,8 @@ Let him talk first. Aim for him talking 70% of the call. Take notes.
   > "Jared, thank you for taking the time today. I really appreciate the advice, especially [one specific thing he said]. I'm going to [what he suggested] and I'll keep you posted. — Ethan"
 - If he offered to review your resume, send the master resume PDF.
 - Tell me what he said (advice, names, companies, any offers) and I'll add it to the tracker and follow up on intros.
+
+## Updates
+- **Call happened** (~30 Sep–5 Oct); Ethan thanked him for "the knowledgeable call." 5 Oct: Ethan asked what to wear; Jared: "go with what you're most confident in and look the part for that industry."
+- **29 Oct:** Ethan says Jared is a hiring manager (Utah). No contact for ~3 weeks. Drafted a re-engagement text with a direct ask (openings on his team / at Redox, or intros, plus resume review).
+- **Eddie** (CED referral): after the CED no, Eddie said he'd ask about it and "look around and be in touch" (~9 Oct). 29 Oct: drafted a light check-in.
