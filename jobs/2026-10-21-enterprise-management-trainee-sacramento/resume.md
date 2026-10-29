@@ -28,7 +28,7 @@ Business Administration graduate (CSU Chico, Dec 2025; Entrepreneurship concentr
 **Founder & Coach | 2023 – Present**
 - Coach clients one-on-one with custom training programs (about 10 to date), including paid coaching and mentoring for a teenager starting in 8th grade; now train clients out of a home gym.
 - Built a fitness brand from zero to 8M+ views (3M+ YouTube, 5M+ TikTok) with no ad budget while completing a degree.
-- Sold 252 products in five months through self-produced short-form video and an affiliate storefront, with zero ad spend; reviewed conversion metrics weekly and adjusted the offer.
+- Sold 252 products from an 88-item affiliate lineup of apparel, supplements, and lifestyle goods in five months, using only self-produced short-form video and zero ad spend; reviewed conversion metrics weekly and adjusted the offer.
 
 ### Shifflet Brothers Enterprises — Oroville, CA
 **Project Intern | Jun 2018 – Aug 2021**

@@ -13,9 +13,9 @@ Business Administration graduate (CSU Chico, Dec 2025) targeting Business Develo
 - Answered account questions and resolved issues on the spot, building relationships with regular members.
 - Key-holder for opening and closing; trained and coached new hires on service standards and policy.
 
-### Fitness Content Brand and TikTok Shop Storefront — Gridley, CA
+### Fitness Content Brand and Affiliate Storefront — Gridley, CA
 **Founder & Operator | 2023 – Present**
-- Sold 252 products in five months through self-produced short-form video and an affiliate storefront, with zero ad spend; reviewed conversion metrics weekly and adjusted the offer.
+- Sold 252 products from an 88-item affiliate lineup of apparel, supplements, and lifestyle goods in five months, using only self-produced short-form video and zero ad spend; reviewed conversion metrics weekly and adjusted the offer.
 - Grew an audience from zero to 3M+ YouTube and 5M+ TikTok views through consistent, self-directed execution.
 
 ### Millennium Farms — Gridley, CA
@@ -29,7 +29,6 @@ Business Administration graduate (CSU Chico, Dec 2025) targeting Business Develo
 - Lead the crew when the supervisor is on another job: assign tasks, keep the day on schedule, train new crew members, and make sure semi-trucks arrive on time to unload.
 
 **Installation Crew Member (Seasonal) | 2016 – 2024**
-- Eight consecutive seasons on multi-site commercial projects; back on the crew since graduating.
 
 ### Shifflet Brothers Enterprises — Oroville, CA
 **Project Intern | Jun 2018 – Aug 2021**

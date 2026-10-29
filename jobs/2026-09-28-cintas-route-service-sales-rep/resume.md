@@ -26,7 +26,7 @@ Business Administration graduate (CSU Chico, Dec 2025) targeting Route Service S
 
 ### Fitness Content Brand and TikTok Shop Storefront — Gridley, CA
 **Founder & Operator | 2023 – Present**
-- Sold 252 products in five months through self-produced short-form video and an affiliate storefront, with zero ad spend.
+- Sold 252 products from an 88-item affiliate lineup of apparel, supplements, and lifestyle goods in five months, using only self-produced short-form video and zero ad spend.
 
 ## Leadership
 ### Phi Chi Theta, Professional Business Fraternity — CSU Chico

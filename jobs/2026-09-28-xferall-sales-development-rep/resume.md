@@ -15,7 +15,7 @@ Business Administration graduate (CSU Chico, Dec 2025) targeting Sales Developme
 
 ### Fitness Content Brand and TikTok Shop Storefront — Gridley, CA
 **Founder & Operator | 2023 – Present**
-- Sold 252 products in five months through self-produced short-form video and an affiliate storefront, with zero ad spend.
+- Sold 252 products from an 88-item affiliate lineup of apparel, supplements, and lifestyle goods in five months, using only self-produced short-form video and zero ad spend.
 - Grew an audience from zero to 3M+ YouTube and 5M+ TikTok views; reviewed engagement and conversion metrics weekly to diagnose performance gaps and refine messaging.
 - Turned technical concepts into plain-language short- and long-form video.
 
