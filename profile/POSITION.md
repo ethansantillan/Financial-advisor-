@@ -223,6 +223,20 @@ unknown for the whole engagement. Consequences, in order of urgency:
 - **Recommendation: hold.** Neither buying nor selling has an edge at 35%; holding has no
   tax bill.
 
+## Roth holdings — 9 Nov 2026 (from screenshots; shares and % return only)
+
+VOO 0.146415 (+0.92%) · VTI 2.89 (+4.22%) · SCHD 1.07 (+11.10%) · SPY 3.48 (+20.44%) · IBIT 4.22 (−5.77%) ·
+CSX 1.93 (−3.48%) · GLD 0.088661 (−4.74%) · SPMO 1.44 (+20.84%) · QQQ 0.506417 (+15.17%) · IVV 1.82 (+19.88%) ·
+BND 3.32 (−2.78%) · ETHA 1.52 (−17.43%) · VB 0.622955 (+17.54%) · EEM 1.33 (+16.70%) · QUAL 2.52 (+21.07%) ·
+VONG 1.31 (+11.31%) · VEA 7.97 (+23.43%) · VWO 3.56 (+13.96%)
+
+- **18 tickers, ~6 exposures.** SPY/IVV/VOO are one index, close to half the account at approximate prices.
+  EEM duplicates VWO at ~10× the cost. US large-cap is roughly three-quarters.
+- **Asked where $1,500 more goes:** answered **VTI**, gated on 2026 earned income ≥ $4,200 W-2 or
+  ~$4,925 net SE profit (on top of the $2,700 already in). Otherwise VTI in taxable.
+  Optional $1,100 VTI / $400 VEA. Not IBIT/ETHA, BND, SPY or EEM. Full note: `analysis/2026-11-09-roth-next-1500.md`.
+- **Standing rule:** new Roth money → VTI (+ VEA/VWO for international) only. No selling needed.
+
 ## Still unknown
 
 - **State of residence** (gates the tax-gain-harvesting recommendation)
