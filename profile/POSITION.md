@@ -241,6 +241,18 @@ VONG 1.31 (+11.31%) · VEA 7.97 (+23.43%) · VWO 3.56 (+13.96%)
   room = $4,500 − $2,700 = **$1,800**, so $1,500 fits. If paid as a contractor/cash: ~$4,500 × 0.8529
   ≈ $3,838 counts → **~$1,138** of room. Still to confirm: W-2 or 1099, and whether $1,500 is gross or take-home.
 
+## Broker question — 9 Nov 2026
+
+Asked whether the Robinhood Roth is legit and the best choice. **Answer: legit, and the right place for now.**
+- SIPC member, regulated broker-dealer. Its regulatory fines (e.g. FINRA's then-record $70M in 2021) were about
+  outages and how customers were treated, not lost assets.
+- **Match verified on Robinhood's site (Nov 2026):** 1% without Gold, 3% with Gold ($5/mo). Gold must be kept
+  1 year after the first Gold match; matched money must stay 5 years.
+- **Gold break-even: contributions above ~$3,000 in a year** (2% extra vs ~$60/yr). Skip it for now, and turn
+  it on once there is a full-time job and the Roth is being maxed ($7,500 → +$150 match vs $60 fee).
+- VTI is the same fund at any broker. Fidelity's 0%-fee funds save ~$2/yr on this account vs a $15-$75/yr match.
+- Real downside: the Roth sits one tap from crypto, options and event contracts in the same app.
+
 ## Still unknown
 
 - **State of residence** (gates the tax-gain-harvesting recommendation)
