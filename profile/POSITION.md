@@ -241,6 +241,15 @@ VONG 1.31 (+11.31%) · VEA 7.97 (+23.43%) · VWO 3.56 (+13.96%)
   room = $4,500 − $2,700 = **$1,800**, so $1,500 fits. If paid as a contractor/cash: ~$4,500 × 0.8529
   ≈ $3,838 counts → **~$1,138** of room. Still to confirm: W-2 or 1099, and whether $1,500 is gross or take-home.
 
+## Contribution made — 9 Nov 2026
+
+- **$1,500 deposited to the Roth** (+$15 match), pending. **2026 contributions now $4,200.**
+- **VTI market buy: 2.730317 sh at $371.76 = $1,015.02**, using IRA instant buying power (capped at $1,000
+  for IRAs, Gold or not). The remaining ~$500 + match lands when the ACH settles, up to 5 business days
+  (Veterans Day 11 Nov is a bank holiday) → **buy VTI with it around 16-17 Nov.**
+- Roth total $8,698.62 after the buy. QUAL split 4:1 on 4 Nov (value unchanged).
+- **Open:** confirm harvest pay is W-2. If 1099/cash, only ~$3,838 counts → ~$362 excess to return by 15 Apr 2027.
+
 ## Broker question — 9 Nov 2026
 
 Asked whether the Robinhood Roth is legit and the best choice. **Answer: legit, and the right place for now.**
