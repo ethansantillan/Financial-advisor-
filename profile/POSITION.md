@@ -236,10 +236,14 @@ VONG 1.31 (+11.31%) · VEA 7.97 (+23.43%) · VWO 3.56 (+13.96%)
   ~$4,925 net SE profit (on top of the $2,700 already in). Otherwise VTI in taxable.
   Optional $1,100 VTI / $400 VEA. Not IBIT/ETHA, BND, SPY or EEM. Full note: `analysis/2026-11-09-roth-next-1500.md`.
 - **Standing rule:** new Roth money → VTI (+ VEA/VWO for international) only. No selling needed.
+- **Income update (9 Nov):** seasonal harvest job, ~$1,500 per check, 2 checks in Oct + 1 more due
+  mid-Nov, then the job ends and the job hunt resumes. ~$4,500 earned in 2026. If W-2 (taxes withheld):
+  room = $4,500 − $2,700 = **$1,800**, so $1,500 fits. If paid as a contractor/cash: ~$4,500 × 0.8529
+  ≈ $3,838 counts → **~$1,138** of room. Still to confirm: W-2 or 1099, and whether $1,500 is gross or take-home.
 
 ## Still unknown
 
 - **State of residence** (gates the tax-gain-harvesting recommendation)
-- **2026 odd-job income to date** (gates the Roth excess-contribution question)
+- **2026 income:** ~$4,500 harvest wages as of 9 Nov. W-2 vs 1099 still unconfirmed (gates $1,800 vs ~$1,138 of Roth room)
 - Kraken XRP cost basis
 - Purpose of the $350 pending BE (Bloom Energy) order — ~10% of cash into one volatile stock
